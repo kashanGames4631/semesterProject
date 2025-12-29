@@ -3547,3 +3547,1002 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2025.12.29-10.19.17:754][862]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
 [2025.12.29-10.19.45:556][206]Cmd: DUPLICATE
 [2025.12.29-10.19.45:557][206]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.20.09:668][984]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5860.408691
+[2025.12.29-10.20.10:269][990]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.29-10.20.10:269][990]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5860.912109, Update Interval: 330.832245
+[2025.12.29-10.21.23:963][957]Cmd: DUPLICATE
+[2025.12.29-10.21.23:963][957]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.23.32:969][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.29-10.23.32:972][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L4/V96MFB707ZGWZC9I52V28B_Auto6
+[2025.12.29-10.23.32:972][903]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/V96MFB707ZGWZC9I52V28B_Auto6822A2A85404DCD0B6C3681B9EFF58235.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L4/V96MFB707ZGWZC9I52V28B_Auto6.uasset'
+[2025.12.29-10.23.32:974][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/J2/B158GU5OL9JWECHLFB3BVQ_Auto6
+[2025.12.29-10.23.32:974][903]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/B158GU5OL9JWECHLFB3BVQ_Auto6DAAE0AB44DB81B3182CAB49A4261C75D.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/J2/B158GU5OL9JWECHLFB3BVQ_Auto6.uasset'
+[2025.12.29-10.23.32:975][903]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.020
+[2025.12.29-10.23.32:975][903]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2025.12.29-10.26.23:170][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6233.921875
+[2025.12.29-10.26.23:560][ 24]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.29-10.26.23:560][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6234.289551, Update Interval: 332.331909
+[2025.12.29-10.26.29:227][241]Cmd: TRANSACTION UNDO
+[2025.12.29-10.26.29:227][241]LogEditorTransaction: Undo Place Objects
+[2025.12.29-10.26.31:048][297]Cmd: TRANSACTION UNDO
+[2025.12.29-10.26.31:048][297]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.29-10.26.34:642][426]Cmd: TRANSACTION UNDO
+[2025.12.29-10.26.34:642][426]LogEditorTransaction: Undo Place Objects
+[2025.12.29-10.28.01:761][ 11]Cmd: DUPLICATE
+[2025.12.29-10.28.01:761][ 11]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.28.12:256][375]Cmd: DELETE
+[2025.12.29-10.28.12:256][375]Cmd: ACTOR DELETE
+[2025.12.29-10.28.12:269][375]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.29-10.28.12:303][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.29-10.28.12:305][375]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2025.12.29-10.29.11:022][202]Cmd: TRANSACTION UNDO
+[2025.12.29-10.29.11:022][202]LogEditorTransaction: Undo Move Elements
+[2025.12.29-10.30.28:963][610]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.28:963][610]LogEditorTransaction: Undo Move Elements
+[2025.12.29-10.30.32:412][716]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.32:414][716]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.29-10.30.32:679][721]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.32:680][721]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.29-10.30.32:966][723]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.32:966][723]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.29-10.30.33:140][724]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.33:140][724]LogEditorTransaction: Undo Scale Elements
+[2025.12.29-10.30.33:310][727]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.33:310][727]LogEditorTransaction: Undo Scale Elements
+[2025.12.29-10.30.33:503][734]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.33:503][734]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.29-10.30.33:686][738]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.33:687][738]LogEditorTransaction: Undo Scale Elements
+[2025.12.29-10.30.33:902][746]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.33:902][746]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.29-10.30.34:154][755]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.34:155][755]LogEditorTransaction: Undo Delete Elements
+[2025.12.29-10.30.34:405][760]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.34:405][760]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.29-10.30.34:592][764]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.34:592][764]LogEditorTransaction: Undo Move Elements
+[2025.12.29-10.30.34:811][772]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.34:811][772]LogEditorTransaction: Undo Duplicate Elements
+[2025.12.29-10.30.35:006][774]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.35:007][774]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.29-10.30.35:221][780]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.35:221][780]LogEditorTransaction: Undo Scale Elements
+[2025.12.29-10.30.35:421][787]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.35:421][787]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.29-10.30.35:630][792]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.35:630][792]LogEditorTransaction: Undo Scale Elements
+[2025.12.29-10.30.35:860][800]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.35:860][800]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.29-10.30.36:061][803]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.36:061][803]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.29-10.30.38:172][869]Cmd: TRANSACTION UNDO
+[2025.12.29-10.30.38:172][869]LogEditorTransaction: Undo Move Elements
+[2025.12.29-10.32.44:161][791]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6614.923828
+[2025.12.29-10.32.44:556][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.29-10.32.44:556][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6615.306641, Update Interval: 304.387329
+[2025.12.29-10.34.50:088][278]Cmd: DUPLICATE
+[2025.12.29-10.34.50:089][278]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.35.15:666][ 10]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.29-10.35.15:666][ 10]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.29-10.35.15:671][ 10]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_60E32BD7010440B002_2069953694
+[2025.12.29-10.35.15:672][ 10]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_60E32BD7010440B002_2069953694
+[2025.12.29-10.37.56:674][376]Cmd: DUPLICATE
+[2025.12.29-10.37.56:675][376]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.38.04:527][675]Cmd: DUPLICATE
+[2025.12.29-10.38.04:527][675]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.38.24:965][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6955.745117
+[2025.12.29-10.38.25:312][472]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.29-10.38.25:312][472]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6956.068848, Update Interval: 313.797424
+[2025.12.29-10.39.03:205][926]Cmd: DUPLICATE
+[2025.12.29-10.39.03:205][926]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.40.17:283][196]Cmd: DUPLICATE
+[2025.12.29-10.40.17:283][196]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.40.25:043][482]Cmd: DUPLICATE
+[2025.12.29-10.40.25:044][482]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.41.24:825][615]Cmd: DUPLICATE
+[2025.12.29-10.41.24:825][615]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.41.55:110][781]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_60E32BD7010440B002_1636049692 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/89/3ZX977PA5CO4E9636JLB2K.PackageMetaData in its package
+[2025.12.29-10.41.55:125][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.12.29-10.41.55:128][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2H/DSU52NKD963DA12EFRI9NS_Auto7
+[2025.12.29-10.41.55:128][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/DSU52NKD963DA12EFRI9NS_Auto758A0C0FB4DE4454C9BC45993F2FF4469.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2H/DSU52NKD963DA12EFRI9NS_Auto7.uasset'
+[2025.12.29-10.41.55:131][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RE/I1FOX6W62ZYNZOGL9SKCQ0_Auto7
+[2025.12.29-10.41.55:131][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/I1FOX6W62ZYNZOGL9SKCQ0_Auto78F7BC6AE45648C1CCA6EA59CED228F57.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RE/I1FOX6W62ZYNZOGL9SKCQ0_Auto7.uasset'
+[2025.12.29-10.41.55:133][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/E6/54CFPLF5GDN7KF97ZHQ8Y2_Auto7
+[2025.12.29-10.41.55:133][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/54CFPLF5GDN7KF97ZHQ8Y2_Auto7C14EBEB14CF6E5997F297A9F5EB33E46.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/E6/54CFPLF5GDN7KF97ZHQ8Y2_Auto7.uasset'
+[2025.12.29-10.41.55:135][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/R12TM1C60U0JHE56DSBHI2_Auto7
+[2025.12.29-10.41.55:135][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/R12TM1C60U0JHE56DSBHI2_Auto76129F89F46A4A7A7C4266F9F43DD7EAB.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/R12TM1C60U0JHE56DSBHI2_Auto7.uasset'
+[2025.12.29-10.41.55:138][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/YX/98I14I97W34FR8KC903MCV_Auto7
+[2025.12.29-10.41.55:138][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/98I14I97W34FR8KC903MCV_Auto782F8F1B148383BBEDBB63DB8D2206F66.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/YX/98I14I97W34FR8KC903MCV_Auto7.uasset'
+[2025.12.29-10.41.55:140][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/8W/4Y7P8B0EPKACUIP4586IZ1_Auto7
+[2025.12.29-10.41.55:140][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/4Y7P8B0EPKACUIP4586IZ1_Auto784A356734089766C55F7F99FEA2FFA03.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/8W/4Y7P8B0EPKACUIP4586IZ1_Auto7.uasset'
+[2025.12.29-10.41.55:142][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YP/HF1NW096JTWS37QQM5SHGR_Auto7
+[2025.12.29-10.41.55:142][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/HF1NW096JTWS37QQM5SHGR_Auto7CF98AB724942A7B619C461A8300229BE.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YP/HF1NW096JTWS37QQM5SHGR_Auto7.uasset'
+[2025.12.29-10.41.55:144][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L4/V96MFB707ZGWZC9I52V28B_Auto7
+[2025.12.29-10.41.55:144][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/V96MFB707ZGWZC9I52V28B_Auto704749DCE467FC5A048852AAD35AAA6A7.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L4/V96MFB707ZGWZC9I52V28B_Auto7.uasset'
+[2025.12.29-10.41.55:146][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/J2/B158GU5OL9JWECHLFB3BVQ_Auto7
+[2025.12.29-10.41.55:146][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/B158GU5OL9JWECHLFB3BVQ_Auto706AADA7D4D13C12D78F429B059FF8493.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/J2/B158GU5OL9JWECHLFB3BVQ_Auto7.uasset'
+[2025.12.29-10.41.55:148][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/JP/55U6M2S1F544X7M4QE793Z_Auto7
+[2025.12.29-10.41.55:148][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/55U6M2S1F544X7M4QE793Z_Auto7366660564D9B2EA19631EB9FF0A28514.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/JP/55U6M2S1F544X7M4QE793Z_Auto7.uasset'
+[2025.12.29-10.41.55:151][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LT/YSZOTQIG7UQT8U6SE4SEKI_Auto7
+[2025.12.29-10.41.55:151][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/YSZOTQIG7UQT8U6SE4SEKI_Auto79C10957F45A0E538A5D0AEB68A152654.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LT/YSZOTQIG7UQT8U6SE4SEKI_Auto7.uasset'
+[2025.12.29-10.41.55:155][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CI/KT9DRORI1Z6KM68S1QD0MA_Auto7
+[2025.12.29-10.41.55:155][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/KT9DRORI1Z6KM68S1QD0MA_Auto72F5078AD4602FD8722F07FB6510C8550.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CI/KT9DRORI1Z6KM68S1QD0MA_Auto7.uasset'
+[2025.12.29-10.41.55:157][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/20/1N9DFNPZM5Y2IAHFZIHF4W_Auto7
+[2025.12.29-10.41.55:157][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/1N9DFNPZM5Y2IAHFZIHF4W_Auto7BE8EA51C4D8C7933B89653866FDDE7AE.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/20/1N9DFNPZM5Y2IAHFZIHF4W_Auto7.uasset'
+[2025.12.29-10.41.55:159][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IK/4GNG4S8T4K8UKX8LS78H4U_Auto7
+[2025.12.29-10.41.55:159][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/4GNG4S8T4K8UKX8LS78H4U_Auto74652033949BF70B6AB01A0B5FF161627.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IK/4GNG4S8T4K8UKX8LS78H4U_Auto7.uasset'
+[2025.12.29-10.41.55:162][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1M/CQYWEZS3ZKS51UDY1KB76E_Auto7
+[2025.12.29-10.41.55:162][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/CQYWEZS3ZKS51UDY1KB76E_Auto752386D854187B8162FB7C386B1FD670B.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1M/CQYWEZS3ZKS51UDY1KB76E_Auto7.uasset'
+[2025.12.29-10.41.55:166][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/R6/UUBFS8GKPXY9GP4SXNWBCE_Auto7
+[2025.12.29-10.41.55:166][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/UUBFS8GKPXY9GP4SXNWBCE_Auto740A7077F476B8AE24A1F7A90416AF2F2.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/R6/UUBFS8GKPXY9GP4SXNWBCE_Auto7.uasset'
+[2025.12.29-10.41.55:169][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/23/YASR0ZWX24AJV7SJAUARFW_Auto7
+[2025.12.29-10.41.55:169][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/YASR0ZWX24AJV7SJAUARFW_Auto785F842F44AD540153A7EA09E0502652B.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/23/YASR0ZWX24AJV7SJAUARFW_Auto7.uasset'
+[2025.12.29-10.41.55:170][781]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.078
+[2025.12.29-10.41.55:170][781]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2025.12.29-10.41.55:171][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/damaged_plaster_2k/damaged_plaster_diff] ([1] browsable assets)...
+[2025.12.29-10.41.55:171][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/damaged_plaster_2k/damaged_plaster_diff]
+[2025.12.29-10.41.55:202][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/damaged_plaster_2k/damaged_plaster_diff_Auto7
+[2025.12.29-10.41.55:202][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/damaged_plaster_diff_Auto752A5C8BC4DCB602392B74DA996CBE965.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/damaged_plaster_2k/damaged_plaster_diff_Auto7.uasset'
+[2025.12.29-10.41.55:204][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/damaged_plaster_2k/damaged_plaster_rough] ([1] browsable assets)...
+[2025.12.29-10.41.55:204][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/damaged_plaster_2k/damaged_plaster_rough]
+[2025.12.29-10.41.55:234][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/damaged_plaster_2k/damaged_plaster_rough_Auto7
+[2025.12.29-10.41.55:234][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/damaged_plaster_rough_Auto77627D0E64BF10FB8423FFBB354FD779A.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/damaged_plaster_2k/damaged_plaster_rough_Auto7.uasset'
+[2025.12.29-10.41.55:235][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/damaged_plaster_2k/textures/damaged_plaster_ao_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:235][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/damaged_plaster_2k/textures/damaged_plaster_ao_2k]
+[2025.12.29-10.41.55:239][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/damaged_plaster_2k/textures/damaged_plaster_ao_2k_Auto7
+[2025.12.29-10.41.55:239][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/damaged_plaster_ao_2k_Auto7A4640E7048C6E30D51C9FFB76297508C.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/damaged_plaster_2k/textures/damaged_plaster_ao_2k_Auto7.uasset'
+[2025.12.29-10.41.55:240][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/damaged_plaster_2k/textures/damaged_plaster_arm_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:240][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/damaged_plaster_2k/textures/damaged_plaster_arm_2k]
+[2025.12.29-10.41.55:245][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/damaged_plaster_2k/textures/damaged_plaster_arm_2k_Auto7
+[2025.12.29-10.41.55:245][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/damaged_plaster_arm_2k_Auto70624123945311C394F7104A6CC3DD4AD.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/damaged_plaster_2k/textures/damaged_plaster_arm_2k_Auto7.uasset'
+[2025.12.29-10.41.55:246][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/damaged_plaster_2k/damaged_plaster] ([1] browsable assets)...
+[2025.12.29-10.41.55:246][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/damaged_plaster_2k/damaged_plaster]
+[2025.12.29-10.41.55:248][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/damaged_plaster_2k/damaged_plaster_Auto7
+[2025.12.29-10.41.55:248][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/damaged_plaster_Auto7930E7D17415F3C1C83264AA8186C9764.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/damaged_plaster_2k/damaged_plaster_Auto7.uasset'
+[2025.12.29-10.41.55:248][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/damaged_plaster_2k/textures/damaged_plaster_diff_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:248][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/damaged_plaster_2k/textures/damaged_plaster_diff_2k]
+[2025.12.29-10.41.55:253][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/damaged_plaster_2k/textures/damaged_plaster_diff_2k_Auto7
+[2025.12.29-10.41.55:254][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/damaged_plaster_diff_2k_Auto70CDE7D454470B0F85C91DC87F3C4A435.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/damaged_plaster_2k/textures/damaged_plaster_diff_2k_Auto7.uasset'
+[2025.12.29-10.41.55:254][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/damaged_plaster_2k/damaged_plaster_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:255][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/damaged_plaster_2k/damaged_plaster_2k]
+[2025.12.29-10.41.55:327][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/damaged_plaster_2k/damaged_plaster_2k_Auto7
+[2025.12.29-10.41.55:327][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/damaged_plaster_2k_Auto7EE2533F4438DE48AFF8CB78D6B6EC890.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/damaged_plaster_2k/damaged_plaster_2k_Auto7.uasset'
+[2025.12.29-10.41.55:328][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/damaged_plaster_2k/textures/damaged_plaster_disp_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:328][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/damaged_plaster_2k/textures/damaged_plaster_disp_2k]
+[2025.12.29-10.41.55:340][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/damaged_plaster_2k/textures/damaged_plaster_disp_2k_Auto7
+[2025.12.29-10.41.55:340][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/damaged_plaster_disp_2k_Auto73D6CD0A14384315828B4F0B22C0E3B3B.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/damaged_plaster_2k/textures/damaged_plaster_disp_2k_Auto7.uasset'
+[2025.12.29-10.41.55:341][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/damaged_plaster_2k/textures/damaged_plaster_nor_gl_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:341][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/damaged_plaster_2k/textures/damaged_plaster_nor_gl_2k]
+[2025.12.29-10.41.55:406][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/damaged_plaster_2k/textures/damaged_plaster_nor_gl_2k_Auto7
+[2025.12.29-10.41.55:406][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/damaged_plaster_nor_gl_2k_Auto7D8B4D2C64BD5FC77479119A2A28003AF.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/damaged_plaster_2k/textures/damaged_plaster_nor_gl_2k_Auto7.uasset'
+[2025.12.29-10.41.55:407][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/damaged_plaster_2k/textures/damaged_plaster_rough_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:407][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/damaged_plaster_2k/textures/damaged_plaster_rough_2k]
+[2025.12.29-10.41.55:422][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/damaged_plaster_2k/textures/damaged_plaster_rough_2k_Auto7
+[2025.12.29-10.41.55:422][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/damaged_plaster_rough_2k_Auto7773DFCC14BA9E2943D293F8ED778752D.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/damaged_plaster_2k/textures/damaged_plaster_rough_2k_Auto7.uasset'
+[2025.12.29-10.41.55:423][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/damaged_plaster_2k/damaged_plaster_Mat] ([1] browsable assets)...
+[2025.12.29-10.41.55:423][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/damaged_plaster_2k/damaged_plaster_Mat]
+[2025.12.29-10.41.55:424][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/damaged_plaster_2k/damaged_plaster_Mat_Auto7
+[2025.12.29-10.41.55:424][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/damaged_plaster_Mat_Auto778F57B094DC8522DDEC29CB490FEE2F0.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/damaged_plaster_2k/damaged_plaster_Mat_Auto7.uasset'
+[2025.12.29-10.41.55:425][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/broken_window_03_texture_0] ([1] browsable assets)...
+[2025.12.29-10.41.55:425][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/broken_window_03_texture_0]
+[2025.12.29-10.41.55:430][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/broken_window_03_texture_0_Auto7
+[2025.12.29-10.41.55:430][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/broken_window_03_texture_0_Auto7E20CBD654802B0F2D1BDF28D312D10E8.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/broken_window_03_texture_0_Auto7.uasset'
+[2025.12.29-10.41.55:432][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/broken_window_03_texture_1] ([1] browsable assets)...
+[2025.12.29-10.41.55:432][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/broken_window_03_texture_1]
+[2025.12.29-10.41.55:438][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/broken_window_03_texture_1_Auto7
+[2025.12.29-10.41.55:438][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/broken_window_03_texture_1_Auto78D3C29064E71B1C52D6E2E90C154D568.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/broken_window_03_texture_1_Auto7.uasset'
+[2025.12.29-10.41.55:438][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/broken_window_03_texture_2] ([1] browsable assets)...
+[2025.12.29-10.41.55:438][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/broken_window_03_texture_2]
+[2025.12.29-10.41.55:455][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/broken_window_03_texture_2_Auto7
+[2025.12.29-10.41.55:455][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/broken_window_03_texture_2_Auto73838FE404427C76F13C1E986ED0ACFC0.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/broken_window_03_texture_2_Auto7.uasset'
+[2025.12.29-10.41.55:456][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/broken_window_03_texture_4] ([1] browsable assets)...
+[2025.12.29-10.41.55:456][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/broken_window_03_texture_4]
+[2025.12.29-10.41.55:462][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/broken_window_03_texture_4_Auto7
+[2025.12.29-10.41.55:462][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/broken_window_03_texture_4_Auto70C0C91CC4D101E0E8813A6BAC3C79ED7.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/broken_window_03_texture_4_Auto7.uasset'
+[2025.12.29-10.41.55:463][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/broken_window_03_texture_5] ([1] browsable assets)...
+[2025.12.29-10.41.55:463][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/broken_window_03_texture_5]
+[2025.12.29-10.41.55:469][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/broken_window_03_texture_5_Auto7
+[2025.12.29-10.41.55:469][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/broken_window_03_texture_5_Auto7753E5BB84FBCEB1C283C938A591780FF.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/broken_window_03_texture_5_Auto7.uasset'
+[2025.12.29-10.41.55:470][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/broken_window_03_texture_3] ([1] browsable assets)...
+[2025.12.29-10.41.55:470][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/broken_window_03_texture_3]
+[2025.12.29-10.41.55:476][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/broken_window_03_texture_3_Auto7
+[2025.12.29-10.41.55:476][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/broken_window_03_texture_3_Auto776D0D5D8449BB2F23BAFE2B54F011742.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/broken_window_03_texture_3_Auto7.uasset'
+[2025.12.29-10.41.55:477][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Window] ([1] browsable assets)...
+[2025.12.29-10.41.55:477][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/Window]
+[2025.12.29-10.41.55:477][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Window" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/Window_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.12.29-10.41.55:479][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Window_Auto7
+[2025.12.29-10.41.55:479][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Window_Auto77BE61E3F4CDE31B5823DC295D8A2C745.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/Window_Auto7.uasset'
+[2025.12.29-10.41.55:480][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Glass] ([1] browsable assets)...
+[2025.12.29-10.41.55:480][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/Glass]
+[2025.12.29-10.41.55:480][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Glass" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/Glass_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.12.29-10.41.55:483][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Glass_Auto7
+[2025.12.29-10.41.55:483][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Glass_Auto7ED278A524BDDED27188F019E0737172B.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/Glass_Auto7.uasset'
+[2025.12.29-10.41.55:484][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/defaultMaterial] ([1] browsable assets)...
+[2025.12.29-10.41.55:484][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/defaultMaterial]
+[2025.12.29-10.41.55:484][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/defaultMaterial" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/defaultMaterial_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.12.29-10.41.55:487][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/defaultMaterial_Auto7
+[2025.12.29-10.41.55:487][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/defaultMaterial_Auto79CD7DF084C0308F05E0635A6E960D4CC.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/defaultMaterial_Auto7.uasset'
+[2025.12.29-10.41.55:488][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/defaultMaterial_98fa2a5bd63fe139cfaba8f7e7327834] ([1] browsable assets)...
+[2025.12.29-10.41.55:488][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/defaultMaterial_98fa2a5bd63fe139cfaba8f7e7327834]
+[2025.12.29-10.41.55:490][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/defaultMaterial_98fa2a5bd63fe139cfaba8f7e7327834_Auto7
+[2025.12.29-10.41.55:490][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/defaultMaterial_98fa2a5bd63fe13951FEE6BF40666044CAA879BD1EA7AA50.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/defaultMaterial_98fa2a5bd63fe139cfaba8f7e7327834_Auto7.uasset'
+[2025.12.29-10.41.55:491][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/defaultMaterial_b2f32e4b83d0c5a997c6be4e882fad57] ([1] browsable assets)...
+[2025.12.29-10.41.55:491][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/defaultMaterial_b2f32e4b83d0c5a997c6be4e882fad57]
+[2025.12.29-10.41.55:494][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/defaultMaterial_b2f32e4b83d0c5a997c6be4e882fad57_Auto7
+[2025.12.29-10.41.55:494][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/defaultMaterial_b2f32e4b83d0c5a9FAA1CB9D4805B4211BBA4BBAC8A58D81.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/defaultMaterial_b2f32e4b83d0c5a997c6be4e882fad57_Auto7.uasset'
+[2025.12.29-10.41.55:495][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_arm_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:495][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_arm_2k]
+[2025.12.29-10.41.55:498][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_arm_2k_Auto7
+[2025.12.29-10.41.55:498][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_plaster_wall_arm_2k_Auto77D7B649E40B922F61EDB4197CF51AEFA.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_arm_2k_Auto7.uasset'
+[2025.12.29-10.41.55:500][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_ao_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:500][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_ao_2k]
+[2025.12.29-10.41.55:503][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_ao_2k_Auto7
+[2025.12.29-10.41.55:503][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_plaster_wall_ao_2k_Auto7F3988AAD4EA4A5DBC2C57F91ED098FB8.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_ao_2k_Auto7.uasset'
+[2025.12.29-10.41.55:504][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_diff_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:504][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_diff_2k]
+[2025.12.29-10.41.55:507][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_diff_2k_Auto7
+[2025.12.29-10.41.55:507][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_plaster_wall_diff_2k_Auto7B65D71F043EF7EFE38A5F59F1AE2EB85.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_diff_2k_Auto7.uasset'
+[2025.12.29-10.41.55:509][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_disp_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:509][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_disp_2k]
+[2025.12.29-10.41.55:521][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_disp_2k_Auto7
+[2025.12.29-10.41.55:521][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_plaster_wall_disp_2k_Auto7CA4131C8454E7838D8330FA65AC22D93.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_disp_2k_Auto7.uasset'
+[2025.12.29-10.41.55:522][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_nor_gl_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:522][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_nor_gl_2k]
+[2025.12.29-10.41.55:565][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_nor_gl_2k_Auto7
+[2025.12.29-10.41.55:565][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_plaster_wall_nor_gl_2k_AutoD2F595F24FE79343D123758C5D0DE3F2.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_nor_gl_2k_Auto7.uasset'
+[2025.12.29-10.41.55:566][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_rough_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:566][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_rough_2k]
+[2025.12.29-10.41.55:575][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_rough_2k_Auto7
+[2025.12.29-10.41.55:575][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_plaster_wall_rough_2k_Auto753AAB88241325321A08683ABB578AF14.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_rough_2k_Auto7.uasset'
+[2025.12.29-10.41.55:576][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/worn_plaster_wall_2k/worn_plaster_wall_diff] ([1] browsable assets)...
+[2025.12.29-10.41.55:576][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_plaster_wall_2k/worn_plaster_wall_diff]
+[2025.12.29-10.41.55:592][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_plaster_wall_2k/worn_plaster_wall_diff_Auto7
+[2025.12.29-10.41.55:592][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_plaster_wall_diff_Auto70076D6254E7BB447702B258530DB43DA.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_plaster_wall_2k/worn_plaster_wall_diff_Auto7.uasset'
+[2025.12.29-10.41.55:593][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/worn_plaster_wall_2k/worn_plaster_wall_rough] ([1] browsable assets)...
+[2025.12.29-10.41.55:594][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_plaster_wall_2k/worn_plaster_wall_rough]
+[2025.12.29-10.41.55:609][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_plaster_wall_2k/worn_plaster_wall_rough_Auto7
+[2025.12.29-10.41.55:609][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_plaster_wall_rough_Auto79364CA144250E13DF69F439DC94FE935.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_plaster_wall_2k/worn_plaster_wall_rough_Auto7.uasset'
+[2025.12.29-10.41.55:610][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/worn_plaster_wall_2k/worn_plaster_wall] ([1] browsable assets)...
+[2025.12.29-10.41.55:610][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_plaster_wall_2k/worn_plaster_wall]
+[2025.12.29-10.41.55:612][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_plaster_wall_2k/worn_plaster_wall_Auto7
+[2025.12.29-10.41.55:612][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_plaster_wall_Auto7DC2826EE4DD67C6592B819BEEB616DE8.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_plaster_wall_2k/worn_plaster_wall_Auto7.uasset'
+[2025.12.29-10.41.55:613][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/worn_plaster_wall_2k/worn_plaster_wall_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:613][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_plaster_wall_2k/worn_plaster_wall_2k]
+[2025.12.29-10.41.55:671][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_plaster_wall_2k/worn_plaster_wall_2k_Auto7
+[2025.12.29-10.41.55:671][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_plaster_wall_2k_Auto7B420E6D7417D1E0F8C031ABE5BDD1761.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_plaster_wall_2k/worn_plaster_wall_2k_Auto7.uasset'
+[2025.12.29-10.41.55:672][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/worn_plaster_wall_2k/worn_plaster_wall_Mat] ([1] browsable assets)...
+[2025.12.29-10.41.55:672][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_plaster_wall_2k/worn_plaster_wall_Mat]
+[2025.12.29-10.41.55:673][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_plaster_wall_2k/worn_plaster_wall_Mat_Auto7
+[2025.12.29-10.41.55:673][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_plaster_wall_Mat_Auto7A818531E48188F8996CDA3A6C1BE6927.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_plaster_wall_2k/worn_plaster_wall_Mat_Auto7.uasset'
+[2025.12.29-10.41.55:674][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_diff_2k_Mat] ([1] browsable assets)...
+[2025.12.29-10.41.55:674][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_diff_2k_Mat]
+[2025.12.29-10.41.55:675][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_diff_2k_Mat_Auto7
+[2025.12.29-10.41.55:675][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_plaster_wall_diff_2k_Mat_AuA372438247084455A6F1CDBCB0F6CF4E.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_plaster_wall_2k/textures/worn_plaster_wall_diff_2k_Mat_Auto7.uasset'
+[2025.12.29-10.41.55:677][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/painted_concrete_02_2k/painted_concrete_02_diff] ([1] browsable assets)...
+[2025.12.29-10.41.55:677][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/painted_concrete_02_2k/painted_concrete_02_diff]
+[2025.12.29-10.41.55:693][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/painted_concrete_02_2k/painted_concrete_02_diff_Auto7
+[2025.12.29-10.41.55:693][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/painted_concrete_02_diff_Auto72FB57C0E4E9519DE39AF6C9386284C36.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/painted_concrete_02_2k/painted_concrete_02_diff_Auto7.uasset'
+[2025.12.29-10.41.55:694][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/painted_concrete_02_2k/painted_concrete_02_rough] ([1] browsable assets)...
+[2025.12.29-10.41.55:694][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/painted_concrete_02_2k/painted_concrete_02_rough]
+[2025.12.29-10.41.55:709][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/painted_concrete_02_2k/painted_concrete_02_rough_Auto7
+[2025.12.29-10.41.55:709][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/painted_concrete_02_rough_Auto7C47F006E410D21BB761716A4EAAF5185.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/painted_concrete_02_2k/painted_concrete_02_rough_Auto7.uasset'
+[2025.12.29-10.41.55:710][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/painted_concrete_02_2k/painted_concrete_02] ([1] browsable assets)...
+[2025.12.29-10.41.55:710][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/painted_concrete_02_2k/painted_concrete_02]
+[2025.12.29-10.41.55:713][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/painted_concrete_02_2k/painted_concrete_02_Auto7
+[2025.12.29-10.41.55:713][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/painted_concrete_02_Auto7363B567B4CFBADFA8D7C3F93A43B7D4F.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/painted_concrete_02_2k/painted_concrete_02_Auto7.uasset'
+[2025.12.29-10.41.55:714][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_arm_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:714][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_arm_2k]
+[2025.12.29-10.41.55:718][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_arm_2k_Auto7
+[2025.12.29-10.41.55:718][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/painted_concrete_02_arm_2k_Auto7A35227514B3DEC3DB6BAB08D1EBC8B30.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_arm_2k_Auto7.uasset'
+[2025.12.29-10.41.55:718][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_ao_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:718][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_ao_2k]
+[2025.12.29-10.41.55:720][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_ao_2k_Auto7
+[2025.12.29-10.41.55:720][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/painted_concrete_02_ao_2k_Auto71FF082704DA3143B64C531BEB7EAA119.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_ao_2k_Auto7.uasset'
+[2025.12.29-10.41.55:720][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/painted_concrete_02_2k/painted_concrete_02_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:720][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/painted_concrete_02_2k/painted_concrete_02_2k]
+[2025.12.29-10.41.55:782][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/painted_concrete_02_2k/painted_concrete_02_2k_Auto7
+[2025.12.29-10.41.55:782][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/painted_concrete_02_2k_Auto7012CBCC0416342D1BA6763A1114769FE.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/painted_concrete_02_2k/painted_concrete_02_2k_Auto7.uasset'
+[2025.12.29-10.41.55:783][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_diff_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:783][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_diff_2k]
+[2025.12.29-10.41.55:790][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_diff_2k_Auto7
+[2025.12.29-10.41.55:790][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/painted_concrete_02_diff_2k_Auto75EB09124EBA8745EE64BA952BB687DB.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_diff_2k_Auto7.uasset'
+[2025.12.29-10.41.55:791][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_disp_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:791][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_disp_2k]
+[2025.12.29-10.41.55:801][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_disp_2k_Auto7
+[2025.12.29-10.41.55:801][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/painted_concrete_02_disp_2k_AutoFBA56E2E4115F8ABAF50388ACC997A74.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_disp_2k_Auto7.uasset'
+[2025.12.29-10.41.55:802][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_nor_gl_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:802][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_nor_gl_2k]
+[2025.12.29-10.41.55:854][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_nor_gl_2k_Auto7
+[2025.12.29-10.41.55:854][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/painted_concrete_02_nor_gl_2k_Au0026D810431C452B1ADE569919B61522.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_nor_gl_2k_Auto7.uasset'
+[2025.12.29-10.41.55:856][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_rough_2k] ([1] browsable assets)...
+[2025.12.29-10.41.55:856][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_rough_2k]
+[2025.12.29-10.41.55:864][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_rough_2k_Auto7
+[2025.12.29-10.41.55:864][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/painted_concrete_02_rough_2k_Aut6A12DEE949D3A0B816D9AC8F56B42FDF.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_rough_2k_Auto7.uasset'
+[2025.12.29-10.41.55:865][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_diff_2k_Mat] ([1] browsable assets)...
+[2025.12.29-10.41.55:887][781]OBJ SavePackage:     Rendered thumbnail for [Material /Game/painted_concrete_02_2k/textures/painted_concrete_02_diff_2k_Mat.painted_concrete_02_diff_2k_Mat]
+[2025.12.29-10.41.55:887][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/painted_concrete_02_2k/textures/painted_concrete_02_diff_2k_Mat]
+[2025.12.29-10.41.55:889][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_diff_2k_Mat_Auto7
+[2025.12.29-10.41.55:889][781]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/painted_concrete_02_diff_2k_Mat_8B26466941743FA5B4BE5FA2B5E3EEFA.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/painted_concrete_02_2k/textures/painted_concrete_02_diff_2k_Mat_Auto7.uasset'
+[2025.12.29-10.41.55:889][781]LogFileHelpers: Auto-saving content packages took 0.719
+[2025.12.29-10.41.55:951][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.29-10.42.40:166][536]LogDerivedDataCache: C:/Users/hp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.29-10.43.59:869][429]Cmd: DUPLICATE
+[2025.12.29-10.43.59:869][429]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.44.29:751][548]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7320.548340
+[2025.12.29-10.44.30:653][583]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.29-10.44.30:653][584]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7321.427734, Update Interval: 352.545532
+[2025.12.29-10.48.18:711][291]Cmd: DUPLICATE
+[2025.12.29-10.48.18:711][291]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.51.13:721][ 60]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7724.540527
+[2025.12.29-10.51.14:203][ 66]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.29-10.51.14:203][ 66]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7725.011230, Update Interval: 340.463867
+[2025.12.29-10.53.10:430][210]Cmd: DUPLICATE
+[2025.12.29-10.53.10:430][210]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.53.56:688][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.29-10.53.56:692][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/L6/G3EYNA4I6VB1VX6YT8S20M_Auto8
+[2025.12.29-10.53.56:692][ 26]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/G3EYNA4I6VB1VX6YT8S20M_Auto803DE88024303D0C8E79FCD8331D42157.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/L6/G3EYNA4I6VB1VX6YT8S20M_Auto8.uasset'
+[2025.12.29-10.53.56:695][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/AT/3EVX1YWO99XX5EV0DFLLVW_Auto8
+[2025.12.29-10.53.56:695][ 26]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/3EVX1YWO99XX5EV0DFLLVW_Auto8252198E1411E5C09BB3ED5A2A4B71FE6.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/AT/3EVX1YWO99XX5EV0DFLLVW_Auto8.uasset'
+[2025.12.29-10.53.56:696][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/JP/55U6M2S1F544X7M4QE793Z_Auto8
+[2025.12.29-10.53.56:697][ 26]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/55U6M2S1F544X7M4QE793Z_Auto8FA9B0D3845CB0F03AEA412BE0031E587.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/JP/55U6M2S1F544X7M4QE793Z_Auto8.uasset'
+[2025.12.29-10.53.56:699][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CI/KT9DRORI1Z6KM68S1QD0MA_Auto8
+[2025.12.29-10.53.56:699][ 26]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/KT9DRORI1Z6KM68S1QD0MA_Auto86DD480994A082841C847CE8406A6AC33.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CI/KT9DRORI1Z6KM68S1QD0MA_Auto8.uasset'
+[2025.12.29-10.53.56:701][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/20/1N9DFNPZM5Y2IAHFZIHF4W_Auto8
+[2025.12.29-10.53.56:701][ 26]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/1N9DFNPZM5Y2IAHFZIHF4W_Auto8C81BF4C64C0A2D19644B22B8BF09159D.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/20/1N9DFNPZM5Y2IAHFZIHF4W_Auto8.uasset'
+[2025.12.29-10.53.56:703][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IK/4GNG4S8T4K8UKX8LS78H4U_Auto8
+[2025.12.29-10.53.56:703][ 26]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/4GNG4S8T4K8UKX8LS78H4U_Auto892CACCAA40AD6FD2039407A5A2E59938.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IK/4GNG4S8T4K8UKX8LS78H4U_Auto8.uasset'
+[2025.12.29-10.53.56:705][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1M/CQYWEZS3ZKS51UDY1KB76E_Auto8
+[2025.12.29-10.53.56:705][ 26]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/CQYWEZS3ZKS51UDY1KB76E_Auto8315B4FC840E7393CE976A0A7C7540667.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1M/CQYWEZS3ZKS51UDY1KB76E_Auto8.uasset'
+[2025.12.29-10.53.56:706][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/R6/UUBFS8GKPXY9GP4SXNWBCE_Auto8
+[2025.12.29-10.53.56:706][ 26]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/UUBFS8GKPXY9GP4SXNWBCE_Auto8A2AB8E2244D77B8FA6BF1E8D68FEB5CC.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/R6/UUBFS8GKPXY9GP4SXNWBCE_Auto8.uasset'
+[2025.12.29-10.53.56:710][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/23/YASR0ZWX24AJV7SJAUARFW_Auto8
+[2025.12.29-10.53.56:710][ 26]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/YASR0ZWX24AJV7SJAUARFW_Auto86D78A4604705164E39A1219A8BB4942E.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/23/YASR0ZWX24AJV7SJAUARFW_Auto8.uasset'
+[2025.12.29-10.53.56:712][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/SQ/2S3YWBSXJBMIA6G39KLB10_Auto8
+[2025.12.29-10.53.56:712][ 26]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/2S3YWBSXJBMIA6G39KLB10_Auto805C277ED4894057078E9EFB71D98E559.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/SQ/2S3YWBSXJBMIA6G39KLB10_Auto8.uasset'
+[2025.12.29-10.53.56:714][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/GO/LYFDNQZHNSL0FAMFKP2MG4_Auto8
+[2025.12.29-10.53.56:715][ 26]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/LYFDNQZHNSL0FAMFKP2MG4_Auto82B9E7C1B4E1D58947B3813AD4EBDE04C.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/GO/LYFDNQZHNSL0FAMFKP2MG4_Auto8.uasset'
+[2025.12.29-10.53.56:717][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/4T/MMV44FSH2QH8CB1K7JBRH2_Auto8
+[2025.12.29-10.53.56:717][ 26]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/MMV44FSH2QH8CB1K7JBRH2_Auto878E9E31E4DB70417C2DE72BB4A88BA4A.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/4T/MMV44FSH2QH8CB1K7JBRH2_Auto8.uasset'
+[2025.12.29-10.53.56:718][ 26]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.048
+[2025.12.29-10.53.56:718][ 26]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2025.12.29-10.55.24:626][118]Cmd: DUPLICATE
+[2025.12.29-10.55.24:626][118]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.56.07:814][596]Cmd: DUPLICATE
+[2025.12.29-10.56.07:815][596]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.56.25:815][385]Cmd: DELETE
+[2025.12.29-10.56.25:815][385]Cmd: ACTOR DELETE
+[2025.12.29-10.56.25:828][385]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.29-10.56.25:844][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.29-10.56.25:847][385]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.12.29-10.56.36:876][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.29-10.56.36:952][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.12.29-10.56.36:966][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.12.29-10.56.36:980][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.12.29-10.56.36:982][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2H/DSU52NKD963DA12EFRI9NS
+[2025.12.29-10.56.36:982][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/DSU52NKD963DA12EFRI9NS8D9C94BD40DD163925808B8128053BA5.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2H/DSU52NKD963DA12EFRI9NS.uasset'
+[2025.12.29-10.56.36:984][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RE/I1FOX6W62ZYNZOGL9SKCQ0
+[2025.12.29-10.56.36:985][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/I1FOX6W62ZYNZOGL9SKCQ0710D8A7942DAA89FE11706BCD8AD5B47.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RE/I1FOX6W62ZYNZOGL9SKCQ0.uasset'
+[2025.12.29-10.56.36:986][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/E6/54CFPLF5GDN7KF97ZHQ8Y2
+[2025.12.29-10.56.36:986][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/54CFPLF5GDN7KF97ZHQ8Y2D39D63B846BB237D27A73AAEA5DB2B24.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/E6/54CFPLF5GDN7KF97ZHQ8Y2.uasset'
+[2025.12.29-10.56.36:989][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/R12TM1C60U0JHE56DSBHI2
+[2025.12.29-10.56.36:989][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/R12TM1C60U0JHE56DSBHI22826F3EB4D72153D0BDD8C8E4ABBB498.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/R12TM1C60U0JHE56DSBHI2.uasset'
+[2025.12.29-10.56.36:991][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/YX/98I14I97W34FR8KC903MCV
+[2025.12.29-10.56.36:992][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/98I14I97W34FR8KC903MCV52FC79574E5C5BCC6D2DB5AB87120926.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/YX/98I14I97W34FR8KC903MCV.uasset'
+[2025.12.29-10.56.36:993][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/8W/4Y7P8B0EPKACUIP4586IZ1
+[2025.12.29-10.56.36:993][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/4Y7P8B0EPKACUIP4586IZ16202D66D4C0800A772DB2597A647EF36.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/8W/4Y7P8B0EPKACUIP4586IZ1.uasset'
+[2025.12.29-10.56.36:996][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YP/HF1NW096JTWS37QQM5SHGR
+[2025.12.29-10.56.36:996][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/HF1NW096JTWS37QQM5SHGR8BF811F8428C5B8C0806D7B2FA10D0D7.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YP/HF1NW096JTWS37QQM5SHGR.uasset'
+[2025.12.29-10.56.36:998][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/L6/G3EYNA4I6VB1VX6YT8S20M
+[2025.12.29-10.56.36:998][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/G3EYNA4I6VB1VX6YT8S20M5269C93F47DEA7C5D84255BE26A6F0DC.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/L6/G3EYNA4I6VB1VX6YT8S20M.uasset'
+[2025.12.29-10.56.37:000][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/AT/3EVX1YWO99XX5EV0DFLLVW
+[2025.12.29-10.56.37:000][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/3EVX1YWO99XX5EV0DFLLVW8E93FACD47E5386DC6724B86362EFD1C.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/AT/3EVX1YWO99XX5EV0DFLLVW.uasset'
+[2025.12.29-10.56.37:002][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L4/V96MFB707ZGWZC9I52V28B
+[2025.12.29-10.56.37:002][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/V96MFB707ZGWZC9I52V28BAEF66AC14B6C7D7432D8C49EFAC11B61.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L4/V96MFB707ZGWZC9I52V28B.uasset'
+[2025.12.29-10.56.37:004][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/J2/B158GU5OL9JWECHLFB3BVQ
+[2025.12.29-10.56.37:004][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/B158GU5OL9JWECHLFB3BVQ62DC6B99483DCE9F93E6F385550D0B91.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/J2/B158GU5OL9JWECHLFB3BVQ.uasset'
+[2025.12.29-10.56.37:006][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/JP/55U6M2S1F544X7M4QE793Z
+[2025.12.29-10.56.37:006][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/55U6M2S1F544X7M4QE793Z870DBE8240DB3EA3DFCCC897DF6474D0.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/JP/55U6M2S1F544X7M4QE793Z.uasset'
+[2025.12.29-10.56.37:007][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LT/YSZOTQIG7UQT8U6SE4SEKI
+[2025.12.29-10.56.37:007][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/YSZOTQIG7UQT8U6SE4SEKI190759C24F05F3929135BE952C43C871.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LT/YSZOTQIG7UQT8U6SE4SEKI.uasset'
+[2025.12.29-10.56.37:009][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CI/KT9DRORI1Z6KM68S1QD0MA
+[2025.12.29-10.56.37:009][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/KT9DRORI1Z6KM68S1QD0MA6CA44E0747E8A371FF5D63A4A88315A5.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CI/KT9DRORI1Z6KM68S1QD0MA.uasset'
+[2025.12.29-10.56.37:011][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/20/1N9DFNPZM5Y2IAHFZIHF4W
+[2025.12.29-10.56.37:011][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/1N9DFNPZM5Y2IAHFZIHF4W0741963E434C37C51C902A8AA5E17C73.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/20/1N9DFNPZM5Y2IAHFZIHF4W.uasset'
+[2025.12.29-10.56.37:013][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IK/4GNG4S8T4K8UKX8LS78H4U
+[2025.12.29-10.56.37:013][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/4GNG4S8T4K8UKX8LS78H4UE49367FB4F5F2306FCB96AB1F0E4BFB5.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IK/4GNG4S8T4K8UKX8LS78H4U.uasset'
+[2025.12.29-10.56.37:016][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1M/CQYWEZS3ZKS51UDY1KB76E
+[2025.12.29-10.56.37:016][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/CQYWEZS3ZKS51UDY1KB76ED9DAE11249D22D26EEB42DA1CE9CE91E.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1M/CQYWEZS3ZKS51UDY1KB76E.uasset'
+[2025.12.29-10.56.37:018][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/R6/UUBFS8GKPXY9GP4SXNWBCE
+[2025.12.29-10.56.37:018][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/UUBFS8GKPXY9GP4SXNWBCEC28C7B384BDEF11FA05E86BB64659E95.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/R6/UUBFS8GKPXY9GP4SXNWBCE.uasset'
+[2025.12.29-10.56.37:021][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/23/YASR0ZWX24AJV7SJAUARFW
+[2025.12.29-10.56.37:021][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/YASR0ZWX24AJV7SJAUARFW897547714185BC5145768DB3E6646165.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/23/YASR0ZWX24AJV7SJAUARFW.uasset'
+[2025.12.29-10.56.37:025][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/SQ/2S3YWBSXJBMIA6G39KLB10
+[2025.12.29-10.56.37:025][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/2S3YWBSXJBMIA6G39KLB107DD1C8194F280E9B70C6A3B2B9082CB0.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/SQ/2S3YWBSXJBMIA6G39KLB10.uasset'
+[2025.12.29-10.56.37:027][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/GO/LYFDNQZHNSL0FAMFKP2MG4
+[2025.12.29-10.56.37:027][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/LYFDNQZHNSL0FAMFKP2MG45C6D61F94A15E3D1795E2C96EB413BC5.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/GO/LYFDNQZHNSL0FAMFKP2MG4.uasset'
+[2025.12.29-10.56.37:028][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/4T/MMV44FSH2QH8CB1K7JBRH2
+[2025.12.29-10.56.37:028][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/MMV44FSH2QH8CB1K7JBRH2AFBAD3074B9F5927E1FEA4B78FCC6C9F.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/4T/MMV44FSH2QH8CB1K7JBRH2.uasset'
+[2025.12.29-10.56.37:032][876]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/22/QOU40UTZRMJHN6R2Z3FJWF
+[2025.12.29-10.56.37:032][876]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/QOU40UTZRMJHN6R2Z3FJWFFB84ACD443C4B14CD6B27D8257187CC9.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/22/QOU40UTZRMJHN6R2Z3FJWF.uasset'
+[2025.12.29-10.56.37:043][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.446 ms (total: 1.12 sec)
+[2025.12.29-10.56.37:096][876]LogContentValidation: Display: Starting to validate 23 assets
+[2025.12.29-10.56.37:096][876]LogContentValidation: Enabled validators:
+[2025.12.29-10.56.37:096][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.29-10.56.37:096][876]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.29-10.56.37:096][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.29-10.56.37:097][876]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.29-10.56.37:097][876]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.29-10.56.37:097][876]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.29-10.56.37:097][876]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.29-10.57.16:079][210]Cmd: DUPLICATE
+[2025.12.29-10.57.16:079][210]Cmd: ACTOR DUPLICATE
+[2025.12.29-10.57.48:199][459]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8119.018555
+[2025.12.29-10.57.48:567][477]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.29-10.57.48:567][477]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8119.359863, Update Interval: 339.171112
+[2025.12.29-11.01.37:830][180]LogAssetTools: Warning: Failed to import 'C:\Users\hp\Downloads\rocky_terrain_02_2k/rocky_terrain_02.bin'. Unknown extension 'bin'.
+[2025.12.29-11.01.37:830][180]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.01.38:013][180]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/rocky_terrain_02_2k/rocky_terrain_02_2k.gltf]
+[2025.12.29-11.01.39:826][180]LogSlate: Window 'Import Content' being destroyed
+[2025.12.29-11.01.39:864][180]LogInterchangeEngine: [Pending] Importing
+[2025.12.29-11.01.39:865][180]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.29-11.01.39:865][180]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/rocky_terrain_02_2k/textures/rocky_terrain_02_ao_2k.jpg]
+[2025.12.29-11.01.39:866][180]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.29-11.01.39:866][180]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/rocky_terrain_02_2k/textures/rocky_terrain_02_arm_2k.jpg]
+[2025.12.29-11.01.39:867][180]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.12.29-11.01.39:867][180]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.12.29-11.01.39:868][180]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.12.29-11.01.39:868][180]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.12.29-11.01.39:869][180]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.12.29-11.01.39:984][181]LogStreaming: Display: FlushAsyncLoading(579): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.01.40:071][182]LogStreaming: Display: FlushAsyncLoading(582): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.01.40:072][182]LogInterchangeImport: JPEG file [C:/Users/hp/Downloads/rocky_terrain_02_2k/textures/rocky_terrain_02_arm_2k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.12.29-11.01.40:073][182]LogInterchangeImport: JPEG file [C:/Users/hp/Downloads/rocky_terrain_02_2k/textures/rocky_terrain_02_ao_2k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.12.29-11.01.40:135][183]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.01.40:203][184]LogTexture: Display: Building textures: /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_arm_2k.rocky_terrain_02_arm_2k (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.12.29-11.01.40:385][186]LogTexture: Display: Building textures: /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_ao_2k.rocky_terrain_02_ao_2k (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 268.999983 MB), EncodeSpeed: Fast
+[2025.12.29-11.01.40:443][187]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Download...rrain_02_2k/textures/rocky_terrain_02_arm_2k.jpg]
+[2025.12.29-11.01.40:444][187]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.12.29-11.01.40:444][187]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.12.29-11.01.40:444][187]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/rocky_terrain_02_2k/textures/rocky_terrain_02_diff_2k.jpg]
+[2025.12.29-11.01.40:570][190]LogStreaming: Display: FlushAsyncLoading(586): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.01.40:571][191]LogInterchangeImport: JPEG file [C:/Users/hp/Downloads/rocky_terrain_02_2k/textures/rocky_terrain_02_diff_2k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.12.29-11.01.40:695][192]LogStreaming: Display: FlushAsyncLoading(587): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.01.40:696][192]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Download...rrain_02_2k/textures/rocky_terrain_02_ao_2k.jpg]
+[2025.12.29-11.01.40:696][192]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.12.29-11.01.40:696][192]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.12.29-11.01.40:696][192]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/rocky_terrain_02_2k/textures/rocky_terrain_02_disp_2k.png]
+[2025.12.29-11.01.40:724][193]LogTexture: Display: Building textures: /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_diff_2k.rocky_terrain_02_diff_2k (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.12.29-11.01.40:976][194]LogTexture: Display: Building textures: /Game/rocky_terrain_02_2k/rocky_terrain_02_diff.rocky_terrain_02_diff (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.12.29-11.01.40:976][194]LogTexture: Display: Building textures: /Game/rocky_terrain_02_2k/rocky_terrain_02_rough.rocky_terrain_02_rough (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.12.29-11.01.41:001][195]LogStaticMesh: Display: Building static mesh rocky_terrain_02_2k (Required Memory Estimate: 152.290101 MB)...
+[2025.12.29-11.01.41:040][195]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Download...rrain_02_2k/textures/rocky_terrain_02_diff_2k.jpg]
+[2025.12.29-11.01.41:040][195]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.12.29-11.01.41:040][195]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.12.29-11.01.41:040][195]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/rocky_terrain_02_2k/textures/rocky_terrain_02_mask_2k.png]
+[2025.12.29-11.01.41:088][196]LogStreaming: Display: FlushAsyncLoading(588): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.01.41:147][198]LogStreaming: Display: FlushAsyncLoading(589): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.01.41:465][205]LogTexture: Display: Building textures: /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_disp_2k.rocky_terrain_02_disp_2k (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 272.999983 MB), EncodeSpeed: Fast
+[2025.12.29-11.01.41:527][207]LogTexture: Display: Building textures: /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_mask_2k.rocky_terrain_02_mask_2k (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 272.999983 MB), EncodeSpeed: Fast
+[2025.12.29-11.01.41:752][212]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Download...rrain_02_2k/textures/rocky_terrain_02_disp_2k.png]
+[2025.12.29-11.01.41:752][212]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.12.29-11.01.41:752][212]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.12.29-11.01.41:752][212]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/rocky_terrain_02_2k/textures/rocky_terrain_02_nor_gl_2k.exr]
+[2025.12.29-11.01.41:841][215]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.01.41:909][217]LogStaticMesh: Adjacency [0.24s], tris: 107390, UVs 1
+[2025.12.29-11.01.41:992][219]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Download...rrain_02_2k/textures/rocky_terrain_02_mask_2k.png]
+[2025.12.29-11.01.41:992][219]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.29-11.01.41:993][219]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.29-11.01.41:993][219]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/rocky_terrain_02_2k/textures/rocky_terrain_02_rough_2k.exr]
+[2025.12.29-11.01.42:112][222]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.01.42:143][223]LogStaticMesh: Clustering [0.23s]. Ratio: 1.015495
+[2025.12.29-11.01.42:177][223]LogStaticMesh: Leaves [0.03s]
+[2025.12.29-11.01.42:199][224]LogTexture: Display: Building textures: /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_nor_gl_2k.rocky_terrain_02_nor_gl_2k (TFO_BC6H, 2048x2048 x1x1x1) (Required Memory Estimate: 347.666648 MB), EncodeSpeed: Fast
+[2025.12.29-11.01.47:293][378]LogTexture: Display: Building textures: /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_rough_2k.rocky_terrain_02_rough_2k (TFO_BC6H, 2048x2048 x1x1x1) (Required Memory Estimate: 323.666648 MB), EncodeSpeed: Fast
+[2025.12.29-11.01.47:783][392]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Download...rrain_02_2k/textures/rocky_terrain_02_nor_gl_2k.exr]
+[2025.12.29-11.01.47:783][392]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.29-11.01.50:595][486]LogStaticMesh: Reduce [8.42s]
+[2025.12.29-11.01.50:612][487]LogStaticMesh: Fallback [0.02s], num tris: 256
+[2025.12.29-11.01.50:697][490]LogStaticMesh: ConstrainClusters:
+[2025.12.29-11.01.50:697][490]LogStaticMesh:   Input: 1746 Clusters, 219976 Triangles and 140005 Vertices
+[2025.12.29-11.01.50:697][490]LogStaticMesh:   Output without splits: 1746 Clusters, 219976 Triangles and 146319 Vertices
+[2025.12.29-11.01.50:697][490]LogStaticMesh:   Output with splits: 1746 Clusters, 219976 Triangles and 146319 Vertices
+[2025.12.29-11.01.50:703][490]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1746, Slow Path Clusters: 0, 1 Material: 1746, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.29-11.01.50:796][492]LogStaticMesh: WritePages:
+[2025.12.29-11.01.50:796][492]LogStaticMesh:   Root: GPU size: 32328 bytes. 1 Pages. 32328.000 bytes per page (98.657% utilization).
+[2025.12.29-11.01.50:796][492]LogStaticMesh:   Streaming: GPU size: 2151492 bytes. 17 Pages (17 with relative encoding). 126558.352 bytes per page (96.556% utilization).
+[2025.12.29-11.01.50:796][492]LogStaticMesh:   Page data disk size: 1700432 bytes. Fixup data size: 10320 bytes.
+[2025.12.29-11.01.50:796][492]LogStaticMesh:   Total GPU size: 2183820 bytes, Total disk size: 1710752 bytes.
+[2025.12.29-11.01.50:799][492]LogStaticMesh: Encode [0.19s]
+[2025.12.29-11.01.50:800][492]LogStaticMesh: Nanite build [9.13s]
+
+[2025.12.29-11.01.50:833][492]LogStaticMesh: Built static mesh [9.84s] /Game/rocky_terrain_02_2k/rocky_terrain_02_2k.rocky_terrain_02_2k
+[2025.12.29-11.01.50:873][492]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Download...rrain_02_2k/textures/rocky_terrain_02_rough_2k.exr]
+[2025.12.29-11.01.50:873][492]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.12.29-11.01.51:371][502]LogTexture: Warning: Texture2D /Game/rocky_terrain_02_2k/rocky_terrain_02_spec.rocky_terrain_02_spec contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.12.29-11.01.51:371][502]LogTexture: Warning: Texture2D /Game/rocky_terrain_02_2k/rocky_terrain_02_nor_gl.rocky_terrain_02_nor_gl contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.12.29-11.01.58:800][502]LogMeshUtilities: Finished distance field build in 7.5s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 35796 triangles, rocky_terrain_02_2k
+[2025.12.29-11.01.58:967][503]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Downloads/rocky_terrain_02_2k/rocky_terrain_02_2k.gltf]
+[2025.12.29-11.01.58:967][503]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.29-11.01.58:967][503]LogInterchangeEngine: [Success] Import Done
+[2025.12.29-11.02.12:615][927]LogMeshUtilities: Finished distance field build in 13.4s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 35796 triangles, rocky_terrain_02_2k
+[2025.12.29-11.02.14:031][979]LogMeshUtilities: Finished mesh card build in 1.4s rocky_terrain_02_2k tris:35796 surfels:4634
+[2025.12.29-11.02.52:723][311]Cmd: DUPLICATE
+[2025.12.29-11.02.52:723][311]Cmd: ACTOR DUPLICATE
+[2025.12.29-11.03.29:653][527]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.03.29:660][527]LogInterchangeEngine: [Pending] Importing
+[2025.12.29-11.03.29:660][527]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/worn_tile_floor_2k/textures/worn_tile_floor_ao_2k.jpg]
+[2025.12.29-11.03.29:661][527]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.29-11.03.29:661][527]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/worn_tile_floor_2k/textures/worn_tile_floor_arm_2k.jpg]
+[2025.12.29-11.03.29:662][527]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.29-11.03.29:662][527]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/worn_tile_floor_2k/textures/worn_tile_floor_diff_2k.jpg]
+[2025.12.29-11.03.29:662][527]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.12.29-11.03.29:663][527]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.12.29-11.03.29:663][527]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.12.29-11.03.29:677][527]LogAssetTools: Warning: Failed to import 'C:\Users\hp\Downloads\worn_tile_floor_2k/worn_tile_floor.bin'. Unknown extension 'bin'.
+[2025.12.29-11.03.29:980][527]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/worn_tile_floor_2k/worn_tile_floor_2k.gltf]
+[2025.12.29-11.03.31:585][527]LogSlate: Window 'Import Content' being destroyed
+[2025.12.29-11.03.31:607][527]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.12.29-11.03.31:721][529]LogStreaming: Display: FlushAsyncLoading(599): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.03.31:722][529]LogInterchangeImport: JPEG file [C:/Users/hp/Downloads/worn_tile_floor_2k/textures/worn_tile_floor_diff_2k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.12.29-11.03.31:724][529]LogInterchangeImport: JPEG file [C:/Users/hp/Downloads/worn_tile_floor_2k/textures/worn_tile_floor_ao_2k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.12.29-11.03.31:724][529]LogInterchangeImport: JPEG file [C:/Users/hp/Downloads/worn_tile_floor_2k/textures/worn_tile_floor_arm_2k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.12.29-11.03.31:851][531]LogTexture: Display: Building textures: /Game/worn_tile_floor_2k/textures/worn_tile_floor_diff_2k.worn_tile_floor_diff_2k (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.12.29-11.03.31:948][532]LogTexture: Display: Building textures: /Game/worn_tile_floor_2k/textures/worn_tile_floor_arm_2k.worn_tile_floor_arm_2k (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.12.29-11.03.32:225][542]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Download...le_floor_2k/textures/worn_tile_floor_diff_2k.jpg]
+[2025.12.29-11.03.32:225][542]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.12.29-11.03.32:226][542]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.12.29-11.03.32:226][542]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/worn_tile_floor_2k/textures/worn_tile_floor_disp_2k.png]
+[2025.12.29-11.03.32:323][545]LogTexture: Display: Building textures: /Game/worn_tile_floor_2k/textures/worn_tile_floor_ao_2k.worn_tile_floor_ao_2k (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 268.999983 MB), EncodeSpeed: Fast
+[2025.12.29-11.03.32:340][545]LogStreaming: Display: FlushAsyncLoading(602): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.03.32:387][546]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Download...le_floor_2k/textures/worn_tile_floor_arm_2k.jpg]
+[2025.12.29-11.03.32:387][546]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.12.29-11.03.32:387][546]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.12.29-11.03.32:387][546]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/worn_tile_floor_2k/textures/worn_tile_floor_nor_gl_2k.exr]
+[2025.12.29-11.03.32:475][549]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.03.32:595][553]LogTexture: Display: Building textures: /Game/worn_tile_floor_2k/textures/worn_tile_floor_disp_2k.worn_tile_floor_disp_2k (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 272.999983 MB), EncodeSpeed: Fast
+[2025.12.29-11.03.32:704][555]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Download...le_floor_2k/textures/worn_tile_floor_ao_2k.jpg]
+[2025.12.29-11.03.32:705][555]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.12.29-11.03.32:705][555]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.12.29-11.03.32:705][555]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/worn_tile_floor_2k/textures/worn_tile_floor_rough_2k.exr]
+[2025.12.29-11.03.32:783][557]LogTexture: Display: Building textures: /Game/worn_tile_floor_2k/textures/worn_tile_floor_nor_gl_2k.worn_tile_floor_nor_gl_2k (TFO_BC6H, 2048x2048 x1x1x1) (Required Memory Estimate: 347.666648 MB), EncodeSpeed: Fast
+[2025.12.29-11.03.32:813][557]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Download...le_floor_2k/textures/worn_tile_floor_disp_2k.png]
+[2025.12.29-11.03.32:813][557]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.29-11.03.32:813][557]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.29-11.03.32:850][558]LogStreaming: Display: FlushAsyncLoading(604): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.03.32:874][559]LogStreaming: Display: FlushAsyncLoading(605): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.03.33:000][562]LogStreaming: Display: FlushAsyncLoading(608): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.03.33:504][579]LogStreaming: Display: FlushAsyncLoading(609): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.03.38:839][732]LogStaticMesh: Display: Building static mesh worn_tile_floor_2k (Required Memory Estimate: 152.292785 MB)...
+[2025.12.29-11.03.38:844][732]LogTexture: Display: Building textures: /Game/worn_tile_floor_2k/textures/worn_tile_floor_rough_2k.worn_tile_floor_rough_2k (TFO_BC6H, 2048x2048 x1x1x1) (Required Memory Estimate: 323.666648 MB), EncodeSpeed: Fast
+[2025.12.29-11.03.39:594][753]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Download...le_floor_2k/textures/worn_tile_floor_nor_gl_2k.exr]
+[2025.12.29-11.03.39:594][753]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.29-11.03.39:765][759]LogShaderCompilers: Display: ================================================
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Total job queries 690, among them cache hits 23 (3.33%), DDC hits 0 (0.00%), Duplicates 45 (6.52%)
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Tracking 622 distinct input hashes that result in 504 distinct outputs (81.03%)
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: RAM used: 359.90 KiB of 819.20 MiB budget. Usage: 0.04%
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Shaders Compiled: 622
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Jobs assigned 622, completed 622 (100%)
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Average time worker was idle: 269.61 s
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Time job spent in pending queue: average 41.14 s, longest 258.30 s
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Job execution time: average 25.18 s, max 195.22 s
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Job life time (pending + execution): average 66.33 s, max 296.26
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Shader code size: average 11.632 KiB, min 200 B, max 78.59 KiB
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 465.48 s
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Jobs were issued in 155 batches (only local compilation was used), average 4.01 jobs/batch
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Average processing rate: 1.34 jobs/sec
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Total thread time: 1,991.12 s
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Total thread preprocess time: 19.852 s
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Percentage time preprocessing: 1.00%
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Effective parallelization: 4.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 20.58 sec, max 20.58 sec, min 20.58 sec)
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 16.07 sec, max 40.62 sec, min 5.11 sec)
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 15.95 sec, max 15.95 sec, min 15.95 sec)
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display:                                        FCloudRenderViewPS101 (compiled    1 times, average 12.20 sec, max 12.20 sec, min 12.20 sec)
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 12.13 sec, max 12.13 sec, min 12.13 sec)
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 54.88% of total time (compiled   68 times, average 16.07 sec, max 40.62 sec, min 5.11 sec)
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.10% of total time (compiled   24 times, average 4.23 sec, max 10.88 sec, min 2.54 sec)
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.74% of total time (compiled   48 times, average 1.97 sec, max 5.34 sec, min 0.76 sec)
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display:                                                  FVelocityPS - 3.53% of total time (compiled   28 times, average 2.51 sec, max 9.02 sec, min 1.14 sec)
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.49% of total time (compiled   45 times, average 1.54 sec, max 4.66 sec, min 0.43 sec)
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: === Material stats ===
+[2025.12.29-11.03.39:766][759]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.29-11.03.39:767][759]LogShaderCompilers: Display: Materials Translated:    176
+[2025.12.29-11.03.39:767][759]LogShaderCompilers: Display: Material Total Translate Time: 0.29 s
+[2025.12.29-11.03.39:767][759]LogShaderCompilers: Display: Material Translation Only: 0.20 s (67%)
+[2025.12.29-11.03.39:767][759]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.29-11.03.39:767][759]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.12.29-11.03.39:767][759]LogShaderCompilers: Display: ================================================
+[2025.12.29-11.03.40:006][766]LogStaticMesh: Adjacency [0.30s], tris: 107390, UVs 1
+[2025.12.29-11.03.40:747][786]LogStaticMesh: Clustering [0.74s]. Ratio: 1.016687
+[2025.12.29-11.03.40:782][787]LogStaticMesh: Leaves [0.04s]
+[2025.12.29-11.03.47:320][  3]LogTexture: Display: Building textures: /Game/worn_tile_floor_2k/worn_tile_floor_rough.worn_tile_floor_rough (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.12.29-11.03.48:136][ 26]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Download...le_floor_2k/textures/worn_tile_floor_rough_2k.exr]
+[2025.12.29-11.03.48:136][ 26]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.12.29-11.03.48:164][ 27]LogTexture: Display: Building textures: /Game/worn_tile_floor_2k/worn_tile_floor_diff.worn_tile_floor_diff (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.12.29-11.03.50:795][ 98]LogStaticMesh: Reduce [10.01s]
+[2025.12.29-11.03.50:852][101]LogStaticMesh: Fallback [0.06s], num tris: 414
+[2025.12.29-11.03.50:922][102]LogStaticMesh: ConstrainClusters:
+[2025.12.29-11.03.50:922][102]LogStaticMesh:   Input: 1749 Clusters, 220244 Triangles and 139852 Vertices
+[2025.12.29-11.03.50:922][102]LogStaticMesh:   Output without splits: 1749 Clusters, 220244 Triangles and 146295 Vertices
+[2025.12.29-11.03.50:922][102]LogStaticMesh:   Output with splits: 1749 Clusters, 220244 Triangles and 146295 Vertices
+[2025.12.29-11.03.50:927][102]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1749, Slow Path Clusters: 0, 1 Material: 1749, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.29-11.03.51:010][105]LogStaticMesh: WritePages:
+[2025.12.29-11.03.51:010][105]LogStaticMesh:   Root: GPU size: 31616 bytes. 1 Pages. 31616.000 bytes per page (96.484% utilization).
+[2025.12.29-11.03.51:010][105]LogStaticMesh:   Streaming: GPU size: 1853180 bytes. 15 Pages (15 with relative encoding). 123545.336 bytes per page (94.258% utilization).
+[2025.12.29-11.03.51:010][105]LogStaticMesh:   Page data disk size: 1639440 bytes. Fixup data size: 9960 bytes.
+[2025.12.29-11.03.51:010][105]LogStaticMesh:   Total GPU size: 1884796 bytes, Total disk size: 1649400 bytes.
+[2025.12.29-11.03.51:010][105]LogStaticMesh: Encode [0.16s]
+[2025.12.29-11.03.51:010][105]LogStaticMesh: Nanite build [11.31s]
+
+[2025.12.29-11.03.51:041][105]LogStaticMesh: Built static mesh [12.20s] /Game/worn_tile_floor_2k/worn_tile_floor_2k.worn_tile_floor_2k
+[2025.12.29-11.03.51:622][124]LogTexture: Warning: Texture2D /Game/worn_tile_floor_2k/worn_tile_floor_nor_gl.worn_tile_floor_nor_gl contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.12.29-11.03.52:787][124]LogMeshUtilities: Finished distance field build in 1.2s - 42x42x42 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 99% occupied, 35796 triangles, worn_tile_floor_2k
+[2025.12.29-11.03.52:837][125]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Downloads/worn_tile_floor_2k/worn_tile_floor_2k.gltf]
+[2025.12.29-11.03.52:837][125]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.29-11.03.52:837][125]LogInterchangeEngine: [Success] Import Done
+[2025.12.29-11.03.55:101][188]LogMeshUtilities: Finished distance field build in 1.8s - 42x42x42 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 99% occupied, 35796 triangles, worn_tile_floor_2k
+[2025.12.29-11.04.10:318][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8501.197266
+[2025.12.29-11.04.10:373][748]Cmd: DUPLICATE
+[2025.12.29-11.04.10:373][748]Cmd: ACTOR DUPLICATE
+[2025.12.29-11.04.10:671][755]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.29-11.04.10:671][755]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8501.524414, Update Interval: 345.953552
+[2025.12.29-11.04.23:831][254]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.29-11.04.23:840][254]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.12.29-11.04.23:841][254]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.12.29-11.04.23:855][254]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 13.628 ms (total: 30.554 ms)
+[2025.12.29-11.04.23:855][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.29-11.04.23:856][254]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.29-11.04.23:878][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022897s)
+[2025.12.29-11.04.23:878][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.022969s)
+[2025.12.29-11.04.23:899][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.12.29-11.04.23:901][254]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.29-11.04.23:902][254]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap'.
+[2025.12.29-11.04.23:903][254]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.29-11.04.23:903][254]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.29-11.04.23:903][254]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.29-11.04.23:903][254]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.29-11.04.23:909][254]LogWorldPartition: Display: WorldPartition initialize took 5.458 ms (total: 180.378 ms)
+[2025.12.29-11.04.23:909][254]LogPlayLevel: PIE: World Init took: (0.008329s)
+[2025.12.29-11.04.23:911][254]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.12.29-11.04.23:911][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.29-11.04.23:911][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.29-11.04.23:911][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.29-11.04.23:911][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.29-11.04.23:911][254]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.12.29-11.04.23:911][254]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.29-11.04.23:911][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.12.29-11.04.23:911][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.29-11.04.23:911][254]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.29-11.04.23:911][254]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.29-11.04.23:911][254]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.29-11.04.23:914][254]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.29-11.04.23:940][254]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.29-11.04.23:941][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.29-11.04.23:941][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.29-11.04.23:941][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.29-11.04.23:942][254]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.12.29-11.04.23:942][254]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.12.29-11.04.23:946][254]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.12.29-11.04.23:946][254]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.12.29-11.04.23:946][254]LogInit: FAudioDevice initialized with ID 4.
+[2025.12.29-11.04.23:946][254]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2025.12.29-11.04.23:946][254]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.29-11.04.23:953][254]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.29-11.04.23:961][254]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.12.29-16.04.23
+[2025.12.29-11.04.23:962][254]LogWorld: Bringing up level for play took: 0.008455
+[2025.12.29-11.04.23:965][254]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.12.29-11.04.23:972][254]PIE: Server logged in
+[2025.12.29-11.04.23:974][254]PIE: Play in editor total start time 0.132 seconds.
+[2025.12.29-11.04.37:648][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.29-11.04.37:648][916]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.29-11.04.37:648][916]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.29-11.04.37:653][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.29-11.04.37:653][916]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.12.29-11.04.37:664][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.29-11.04.37:670][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.29-11.04.37:691][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.29-11.04.37:691][916]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.29-11.04.37:691][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.12.29-11.04.37:697][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.12.29-11.04.37:713][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.12.29-11.04.37:835][917]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.12.29-11.04.47:792][253]Cmd: DELETE
+[2025.12.29-11.04.47:793][253]Cmd: ACTOR DELETE
+[2025.12.29-11.04.47:798][253]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.29-11.04.47:815][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.29-11.04.47:818][253]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.12.29-11.04.50:529][354]Cmd: DUPLICATE
+[2025.12.29-11.04.50:529][354]Cmd: ACTOR DUPLICATE
+[2025.12.29-11.05.25:849][660]Cmd: DUPLICATE
+[2025.12.29-11.05.25:850][660]Cmd: ACTOR DUPLICATE
+[2025.12.29-11.05.43:600][336]Cmd: DUPLICATE
+[2025.12.29-11.05.43:600][336]Cmd: ACTOR DUPLICATE
+[2025.12.29-11.05.57:268][837]Cmd: DUPLICATE
+[2025.12.29-11.05.57:268][837]Cmd: ACTOR DUPLICATE
+[2025.12.29-11.06.05:274][118]Cmd: DUPLICATE
+[2025.12.29-11.06.05:274][118]Cmd: ACTOR DUPLICATE
+[2025.12.29-11.06.12:127][362]Cmd: DUPLICATE
+[2025.12.29-11.06.12:127][362]Cmd: ACTOR DUPLICATE
+[2025.12.29-11.06.22:558][752]Cmd: DUPLICATE
+[2025.12.29-11.06.22:558][752]Cmd: ACTOR DUPLICATE
+[2025.12.29-11.06.34:733][200]Cmd: DUPLICATE
+[2025.12.29-11.06.34:733][200]Cmd: ACTOR DUPLICATE
+[2025.12.29-11.06.55:331][897]Cmd: DELETE
+[2025.12.29-11.06.55:331][897]Cmd: ACTOR DELETE
+[2025.12.29-11.06.55:335][897]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.29-11.06.55:349][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.12.29-11.06.55:352][897]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.12.29-11.06.57:980][980]Cmd: DUPLICATE
+[2025.12.29-11.06.57:980][980]Cmd: ACTOR DUPLICATE
+[2025.12.29-11.07.21:253][740]Cmd: DUPLICATE
+[2025.12.29-11.07.21:253][740]Cmd: ACTOR DUPLICATE
+[2025.12.29-11.09.32:008][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.29-11.09.32:128][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.12.29-11.09.32:144][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.29-11.09.32:156][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.29-11.09.32:162][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+[2025.12.29-11.09.32:162][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/1ZJ54FMA0DAL3I2Q8RFAIB017223AA4DA3B2F73BEE40849AED7E98.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset'
+[2025.12.29-11.09.32:164][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/J5/V2QCM3E5I5NYICUU8ZF4AB
+[2025.12.29-11.09.32:164][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/V2QCM3E5I5NYICUU8ZF4AB2452CC3746AF575E992BFE81AA779EDF.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/J5/V2QCM3E5I5NYICUU8ZF4AB.uasset'
+[2025.12.29-11.09.32:168][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/IE/H5IMW2OTSWPVSYCLPW2JV0
+[2025.12.29-11.09.32:168][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/H5IMW2OTSWPVSYCLPW2JV0839719314F3070C6A8EFD8823F890720.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/IE/H5IMW2OTSWPVSYCLPW2JV0.uasset'
+[2025.12.29-11.09.32:169][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2E/MZZN856CRKNHZXTEHYO6K7
+[2025.12.29-11.09.32:169][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/MZZN856CRKNHZXTEHYO6K7B8C45E6246A64467BD80698718570CBF.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2E/MZZN856CRKNHZXTEHYO6K7.uasset'
+[2025.12.29-11.09.32:171][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/2O/PVVV742WZNOLLL7YHF336T
+[2025.12.29-11.09.32:171][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/PVVV742WZNOLLL7YHF336T179389C2449D312D858B0584653993E6.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/2O/PVVV742WZNOLLL7YHF336T.uasset'
+[2025.12.29-11.09.32:173][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/5K/S31C2VCQW4CHD7ZWTRSB5G
+[2025.12.29-11.09.32:173][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/S31C2VCQW4CHD7ZWTRSB5G6C3C6E7B490AA690BEA0A081CD5F6FB7.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/5K/S31C2VCQW4CHD7ZWTRSB5G.uasset'
+[2025.12.29-11.09.32:175][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/K2/ZMBMYYQBFQSGDKI2ILMD19
+[2025.12.29-11.09.32:175][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/ZMBMYYQBFQSGDKI2ILMD198F5B2F2447AF27ED4004F8A93278E0F7.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/K2/ZMBMYYQBFQSGDKI2ILMD19.uasset'
+[2025.12.29-11.09.32:176][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1P/0P493MG5CKF9G63EYYI8W0
+[2025.12.29-11.09.32:176][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/0P493MG5CKF9G63EYYI8W021DE4ED9483D829CEB0B119382B2111D.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1P/0P493MG5CKF9G63EYYI8W0.uasset'
+[2025.12.29-11.09.32:178][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/JL/3KQLI3J1CM2SCETRP8Y9UF
+[2025.12.29-11.09.32:178][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/3KQLI3J1CM2SCETRP8Y9UFF743B581408F5CE314CC9CAA7204B4A4.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/JL/3KQLI3J1CM2SCETRP8Y9UF.uasset'
+[2025.12.29-11.09.32:180][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/YP/5OGPQT7OR61QFDM7OI1BSJ
+[2025.12.29-11.09.32:180][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/5OGPQT7OR61QFDM7OI1BSJEBF3382F4738CDAC2BD116BCB5D9E20F.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/YP/5OGPQT7OR61QFDM7OI1BSJ.uasset'
+[2025.12.29-11.09.32:182][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/P0/0PVE4LL8KEAQHQFH40ALDK
+[2025.12.29-11.09.32:183][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/0PVE4LL8KEAQHQFH40ALDK1B73320B4DFBA55099C9F4B46D07A851.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/P0/0PVE4LL8KEAQHQFH40ALDK.uasset'
+[2025.12.29-11.09.32:185][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/DD/OIVYWZY6BCDSAZ8I29GDH1
+[2025.12.29-11.09.32:185][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/OIVYWZY6BCDSAZ8I29GDH165A05AFF42646ADB72119DB4D26CF885.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/DD/OIVYWZY6BCDSAZ8I29GDH1.uasset'
+[2025.12.29-11.09.32:188][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/11/VAMJLDSTISJIOV50XC4A5W
+[2025.12.29-11.09.32:188][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/VAMJLDSTISJIOV50XC4A5W501ED10642ABBDB7D4C540AA72CC8001.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/11/VAMJLDSTISJIOV50XC4A5W.uasset'
+[2025.12.29-11.09.32:190][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/VW/8QBJODJPEFCUW6VCVDVZJ4
+[2025.12.29-11.09.32:190][159]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/8QBJODJPEFCUW6VCVDVZJ432672ABC4C31AB0B087030A87A891B17.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/VW/8QBJODJPEFCUW6VCVDVZJ4.uasset'
+[2025.12.29-11.09.32:210][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.861 ms (total: 1.32 sec)
+[2025.12.29-11.09.32:258][159]LogContentValidation: Display: Starting to validate 14 assets
+[2025.12.29-11.09.32:258][159]LogContentValidation: Enabled validators:
+[2025.12.29-11.09.32:258][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.29-11.09.32:258][159]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.29-11.09.32:258][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.29-11.09.32:258][159]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.29-11.09.32:258][159]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.29-11.09.32:258][159]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.29-11.09.32:259][159]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.29-11.10.14:371][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.12.29-11.10.14:372][476]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.014
+[2025.12.29-11.10.14:373][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rocky_terrain_02_2k/rocky_terrain_02_diff] ([1] browsable assets)...
+[2025.12.29-11.10.14:375][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/rocky_terrain_02_2k/rocky_terrain_02_diff.rocky_terrain_02_diff]
+[2025.12.29-11.10.14:375][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/rocky_terrain_02_2k/rocky_terrain_02_diff]
+[2025.12.29-11.10.14:385][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/rocky_terrain_02_2k/rocky_terrain_02_diff_Auto9
+[2025.12.29-11.10.14:385][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/rocky_terrain_02_diff_Auto9188E2B084B70F83094B87C9F6FDDE19F.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/rocky_terrain_02_2k/rocky_terrain_02_diff_Auto9.uasset'
+[2025.12.29-11.10.14:386][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rocky_terrain_02_2k/rocky_terrain_02_rough] ([1] browsable assets)...
+[2025.12.29-11.10.14:387][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/rocky_terrain_02_2k/rocky_terrain_02_rough.rocky_terrain_02_rough]
+[2025.12.29-11.10.14:387][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/rocky_terrain_02_2k/rocky_terrain_02_rough]
+[2025.12.29-11.10.14:397][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/rocky_terrain_02_2k/rocky_terrain_02_rough_Auto9
+[2025.12.29-11.10.14:397][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/rocky_terrain_02_rough_Auto99356040441E9939E98F5338310B3DAC8.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/rocky_terrain_02_2k/rocky_terrain_02_rough_Auto9.uasset'
+[2025.12.29-11.10.14:399][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_arm_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:400][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_arm_2k.rocky_terrain_02_arm_2k]
+[2025.12.29-11.10.14:400][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_arm_2k]
+[2025.12.29-11.10.14:403][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_arm_2k_Auto9
+[2025.12.29-11.10.14:403][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/rocky_terrain_02_arm_2k_Auto913234FD44E672FA5E91CB0B277BA3645.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_arm_2k_Auto9.uasset'
+[2025.12.29-11.10.14:403][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_ao_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:406][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_ao_2k.rocky_terrain_02_ao_2k]
+[2025.12.29-11.10.14:406][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_ao_2k]
+[2025.12.29-11.10.14:408][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_ao_2k_Auto9
+[2025.12.29-11.10.14:408][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/rocky_terrain_02_ao_2k_Auto912CFC2B643BE91778AC2849C70991B82.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_ao_2k_Auto9.uasset'
+[2025.12.29-11.10.14:408][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rocky_terrain_02_2k/rocky_terrain_02] ([1] browsable assets)...
+[2025.12.29-11.10.14:468][476]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/rocky_terrain_02_2k/rocky_terrain_02.rocky_terrain_02]
+[2025.12.29-11.10.14:468][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/rocky_terrain_02_2k/rocky_terrain_02]
+[2025.12.29-11.10.14:470][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/rocky_terrain_02_2k/rocky_terrain_02_Auto9
+[2025.12.29-11.10.14:470][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/rocky_terrain_02_Auto918A14BDA4BBCF1D9D015848F61A9544A.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/rocky_terrain_02_2k/rocky_terrain_02_Auto9.uasset'
+[2025.12.29-11.10.14:471][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_diff_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:472][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_diff_2k.rocky_terrain_02_diff_2k]
+[2025.12.29-11.10.14:472][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_diff_2k]
+[2025.12.29-11.10.14:476][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_diff_2k_Auto9
+[2025.12.29-11.10.14:476][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/rocky_terrain_02_diff_2k_Auto90E979A69496C1F14CE3C84897D480CDA.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_diff_2k_Auto9.uasset'
+[2025.12.29-11.10.14:477][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rocky_terrain_02_2k/rocky_terrain_02_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:495][476]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/rocky_terrain_02_2k/rocky_terrain_02_2k.rocky_terrain_02_2k]
+[2025.12.29-11.10.14:495][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/rocky_terrain_02_2k/rocky_terrain_02_2k]
+[2025.12.29-11.10.14:540][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/rocky_terrain_02_2k/rocky_terrain_02_2k_Auto9
+[2025.12.29-11.10.14:540][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/rocky_terrain_02_2k_Auto9DEFC8CE441525C1C09B30CAAC1C8425C.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/rocky_terrain_02_2k/rocky_terrain_02_2k_Auto9.uasset'
+[2025.12.29-11.10.14:541][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_disp_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:543][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_disp_2k.rocky_terrain_02_disp_2k]
+[2025.12.29-11.10.14:543][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_disp_2k]
+[2025.12.29-11.10.14:550][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_disp_2k_Auto9
+[2025.12.29-11.10.14:550][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/rocky_terrain_02_disp_2k_Auto99369DF534DC6E9C37D30A99F031B7E2F.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_disp_2k_Auto9.uasset'
+[2025.12.29-11.10.14:551][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_mask_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:553][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_mask_2k.rocky_terrain_02_mask_2k]
+[2025.12.29-11.10.14:553][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_mask_2k]
+[2025.12.29-11.10.14:559][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_mask_2k_Auto9
+[2025.12.29-11.10.14:559][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/rocky_terrain_02_mask_2k_Auto9F6813D184628C90E3C32879634420855.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_mask_2k_Auto9.uasset'
+[2025.12.29-11.10.14:560][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_nor_gl_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:562][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_nor_gl_2k.rocky_terrain_02_nor_gl_2k]
+[2025.12.29-11.10.14:562][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_nor_gl_2k]
+[2025.12.29-11.10.14:589][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_nor_gl_2k_Auto9
+[2025.12.29-11.10.14:590][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/rocky_terrain_02_nor_gl_2k_Auto9586FC6C940413713BB4717B411421E3E.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_nor_gl_2k_Auto9.uasset'
+[2025.12.29-11.10.14:590][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_rough_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:591][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_rough_2k.rocky_terrain_02_rough_2k]
+[2025.12.29-11.10.14:591][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_rough_2k]
+[2025.12.29-11.10.14:597][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_rough_2k_Auto9
+[2025.12.29-11.10.14:597][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/rocky_terrain_02_rough_2k_Auto98BE13B9541CE56706AF617B90B7E7691.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_rough_2k_Auto9.uasset'
+[2025.12.29-11.10.14:598][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_diff_2k_Mat] ([1] browsable assets)...
+[2025.12.29-11.10.14:619][476]OBJ SavePackage:     Rendered thumbnail for [Material /Game/rocky_terrain_02_2k/textures/rocky_terrain_02_diff_2k_Mat.rocky_terrain_02_diff_2k_Mat]
+[2025.12.29-11.10.14:619][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_diff_2k_Mat]
+[2025.12.29-11.10.14:623][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_diff_2k_Mat_Auto9
+[2025.12.29-11.10.14:623][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/rocky_terrain_02_diff_2k_Mat_AutA8AD1AE04ED099F3B5FAE3820262BE19.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/rocky_terrain_02_2k/textures/rocky_terrain_02_diff_2k_Mat_Auto9.uasset'
+[2025.12.29-11.10.14:624][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_ao_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:627][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/worn_tile_floor_2k/textures/worn_tile_floor_ao_2k.worn_tile_floor_ao_2k]
+[2025.12.29-11.10.14:627][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_ao_2k]
+[2025.12.29-11.10.14:630][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_ao_2k_Auto9
+[2025.12.29-11.10.14:630][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_tile_floor_ao_2k_Auto9587BBD5D44AE6CDD02E16991D59EF19C.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_ao_2k_Auto9.uasset'
+[2025.12.29-11.10.14:630][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_diff_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:632][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/worn_tile_floor_2k/textures/worn_tile_floor_diff_2k.worn_tile_floor_diff_2k]
+[2025.12.29-11.10.14:632][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_diff_2k]
+[2025.12.29-11.10.14:635][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_diff_2k_Auto9
+[2025.12.29-11.10.14:635][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_tile_floor_diff_2k_Auto94FFC2EEA41CE6DA9C4A930ABBE999B20.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_diff_2k_Auto9.uasset'
+[2025.12.29-11.10.14:636][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_arm_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:637][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/worn_tile_floor_2k/textures/worn_tile_floor_arm_2k.worn_tile_floor_arm_2k]
+[2025.12.29-11.10.14:637][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_arm_2k]
+[2025.12.29-11.10.14:641][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_arm_2k_Auto9
+[2025.12.29-11.10.14:641][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_tile_floor_arm_2k_Auto940CB96A3419A5294BE4748892BF2BCDF.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_arm_2k_Auto9.uasset'
+[2025.12.29-11.10.14:642][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_disp_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:643][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/worn_tile_floor_2k/textures/worn_tile_floor_disp_2k.worn_tile_floor_disp_2k]
+[2025.12.29-11.10.14:643][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_disp_2k]
+[2025.12.29-11.10.14:649][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_disp_2k_Auto9
+[2025.12.29-11.10.14:651][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_tile_floor_disp_2k_Auto9820B6A974F3B17AB9DA1488D20CA96C3.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_disp_2k_Auto9.uasset'
+[2025.12.29-11.10.14:651][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_nor_gl_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:652][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/worn_tile_floor_2k/textures/worn_tile_floor_nor_gl_2k.worn_tile_floor_nor_gl_2k]
+[2025.12.29-11.10.14:652][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_nor_gl_2k]
+[2025.12.29-11.10.14:686][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_nor_gl_2k_Auto9
+[2025.12.29-11.10.14:686][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_tile_floor_nor_gl_2k_Auto91A8DF62C4BEA65E12FC792B9A11BCEA6.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_nor_gl_2k_Auto9.uasset'
+[2025.12.29-11.10.14:686][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_rough_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:688][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/worn_tile_floor_2k/textures/worn_tile_floor_rough_2k.worn_tile_floor_rough_2k]
+[2025.12.29-11.10.14:688][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_rough_2k]
+[2025.12.29-11.10.14:693][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_rough_2k_Auto9
+[2025.12.29-11.10.14:693][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_tile_floor_rough_2k_Auto957870E7F49E4F6BE0779EF82BE2D9C9E.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_rough_2k_Auto9.uasset'
+[2025.12.29-11.10.14:694][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/worn_tile_floor_2k/worn_tile_floor_diff] ([1] browsable assets)...
+[2025.12.29-11.10.14:697][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/worn_tile_floor_2k/worn_tile_floor_diff.worn_tile_floor_diff]
+[2025.12.29-11.10.14:697][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_tile_floor_2k/worn_tile_floor_diff]
+[2025.12.29-11.10.14:706][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_tile_floor_2k/worn_tile_floor_diff_Auto9
+[2025.12.29-11.10.14:706][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_tile_floor_diff_Auto9D3B87FB24F0AB7E2B979C7A612FB28A5.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_tile_floor_2k/worn_tile_floor_diff_Auto9.uasset'
+[2025.12.29-11.10.14:707][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/worn_tile_floor_2k/worn_tile_floor_rough] ([1] browsable assets)...
+[2025.12.29-11.10.14:708][476]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/worn_tile_floor_2k/worn_tile_floor_rough.worn_tile_floor_rough]
+[2025.12.29-11.10.14:709][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_tile_floor_2k/worn_tile_floor_rough]
+[2025.12.29-11.10.14:720][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_tile_floor_2k/worn_tile_floor_rough_Auto9
+[2025.12.29-11.10.14:720][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_tile_floor_rough_Auto9694E4F9A41C40D22481F9F9A782FC4E1.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_tile_floor_2k/worn_tile_floor_rough_Auto9.uasset'
+[2025.12.29-11.10.14:720][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/worn_tile_floor_2k/worn_tile_floor] ([1] browsable assets)...
+[2025.12.29-11.10.14:743][476]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/worn_tile_floor_2k/worn_tile_floor.worn_tile_floor]
+[2025.12.29-11.10.14:743][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_tile_floor_2k/worn_tile_floor]
+[2025.12.29-11.10.14:745][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_tile_floor_2k/worn_tile_floor_Auto9
+[2025.12.29-11.10.14:745][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_tile_floor_Auto9E0691B2D461135A6E062CA8A947EE91F.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_tile_floor_2k/worn_tile_floor_Auto9.uasset'
+[2025.12.29-11.10.14:745][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/worn_tile_floor_2k/worn_tile_floor_2k] ([1] browsable assets)...
+[2025.12.29-11.10.14:767][476]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/worn_tile_floor_2k/worn_tile_floor_2k.worn_tile_floor_2k]
+[2025.12.29-11.10.14:767][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_tile_floor_2k/worn_tile_floor_2k]
+[2025.12.29-11.10.14:805][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_tile_floor_2k/worn_tile_floor_2k_Auto9
+[2025.12.29-11.10.14:805][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_tile_floor_2k_Auto928C60BE64A74C387ACA353B59D2A8BFA.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_tile_floor_2k/worn_tile_floor_2k_Auto9.uasset'
+[2025.12.29-11.10.14:806][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_diff_2k_Mat] ([1] browsable assets)...
+[2025.12.29-11.10.14:828][476]OBJ SavePackage:     Rendered thumbnail for [Material /Game/worn_tile_floor_2k/textures/worn_tile_floor_diff_2k_Mat.worn_tile_floor_diff_2k_Mat]
+[2025.12.29-11.10.14:828][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/worn_tile_floor_2k/textures/worn_tile_floor_diff_2k_Mat]
+[2025.12.29-11.10.14:831][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_diff_2k_Mat_Auto9
+[2025.12.29-11.10.14:831][476]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/worn_tile_floor_diff_2k_Mat_AutoE49BD1024935F127E06674AD0673BA38.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Autosaves/Game/worn_tile_floor_2k/textures/worn_tile_floor_diff_2k_Mat_Auto9.uasset'
+[2025.12.29-11.10.14:832][476]LogFileHelpers: Auto-saving content packages took 0.459
+[2025.12.29-11.10.53:885][594]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8904.735352
+[2025.12.29-11.10.54:885][597]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.29-11.10.54:885][597]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8905.403320, Update Interval: 327.338470
+[2025.12.29-11.12.52:420][195]LogStreaming: Display: FlushAsyncLoading(610): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.12.52:448][195]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/jurassic_park_alt_broken_fence_dirty.glb]
+[2025.12.29-11.12.53:766][195]LogSlate: Window 'Import Content' being destroyed
+[2025.12.29-11.12.53:794][195]LogInterchangeEngine: [Pending] Importing
+[2025.12.29-11.12.53:913][196]LogStreaming: Display: FlushAsyncLoading(611): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.12.53:970][197]LogStreaming: Display: FlushAsyncLoading(613): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.12.54:173][199]LogStreaming: Display: FlushAsyncLoading(614): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.12.54:309][200]LogTexture: Display: Building textures: /Game/jurassic_park_alt_broken_fence_dirty_texture_0.jurassic_park_alt_broken_fence_dirty_texture_0 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 87.083323 MB), EncodeSpeed: Fast
+[2025.12.29-11.12.54:311][200]LogTexture: Display: Building textures: /Game/jurassic_park_alt_broken_fence_dirty_texture_1.jurassic_park_alt_broken_fence_dirty_texture_1 (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 124.499988 MB), EncodeSpeed: Fast
+[2025.12.29-11.12.54:328][201]LogStaticMesh: Display: Building static mesh jurassic_park_alt_broken_fence_dirty (Required Memory Estimate: 4.954145 MB)...
+[2025.12.29-11.12.54:349][201]LogStaticMesh: Adjacency [0.00s], tris: 3368, UVs 1
+[2025.12.29-11.12.54:384][201]LogStaticMesh: Clustering [0.03s]. Ratio: 1.000000
+[2025.12.29-11.12.54:385][201]LogStaticMesh: Leaves [0.00s]
+[2025.12.29-11.12.54:827][210]LogStaticMesh: Reduce [0.44s]
+[2025.12.29-11.12.54:932][212]LogStaticMesh: Fallback [0.11s], num tris: 787
+[2025.12.29-11.12.54:936][212]LogStaticMesh: ConstrainClusters:
+[2025.12.29-11.12.54:937][212]LogStaticMesh:   Input: 55 Clusters, 6896 Triangles and 6721 Vertices
+[2025.12.29-11.12.54:937][212]LogStaticMesh:   Output without splits: 55 Clusters, 6896 Triangles and 6729 Vertices
+[2025.12.29-11.12.54:937][212]LogStaticMesh:   Output with splits: 55 Clusters, 6896 Triangles and 6729 Vertices
+[2025.12.29-11.12.54:937][212]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 55, Slow Path Clusters: 0, 1 Material: 55, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.29-11.12.54:941][212]LogStaticMesh: WritePages:
+[2025.12.29-11.12.54:942][212]LogStaticMesh:   Root: GPU size: 31612 bytes. 1 Pages. 31612.000 bytes per page (96.472% utilization).
+[2025.12.29-11.12.54:942][212]LogStaticMesh:   Streaming: GPU size: 53708 bytes. 1 Pages (1 with relative encoding). 53708.000 bytes per page (40.976% utilization).
+[2025.12.29-11.12.54:942][212]LogStaticMesh:   Page data disk size: 70676 bytes. Fixup data size: 320 bytes.
+[2025.12.29-11.12.54:942][212]LogStaticMesh:   Total GPU size: 85320 bytes, Total disk size: 70996 bytes.
+[2025.12.29-11.12.54:942][212]LogStaticMesh: Encode [0.01s]
+[2025.12.29-11.12.54:942][212]LogStaticMesh: Nanite build [0.60s]
+
+[2025.12.29-11.12.54:955][213]LogStaticMesh: Built static mesh [0.63s] /Game/jurassic_park_alt_broken_fence_dirty.jurassic_park_alt_broken_fence_dirty
+[2025.12.29-11.12.56:041][215]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Downloads/jurassic_park_alt_broken_fence_dirty.glb]
+[2025.12.29-11.12.56:088][215]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.29-11.12.56:088][215]LogInterchangeEngine: [Success] Import Done
+[2025.12.29-11.12.57:312][265]LogMeshUtilities: Finished distance field build in 1.2s - 35x112x70 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 62% occupied, 1122 triangles, jurassic_park_alt_broken_fence_dirty
+[2025.12.29-11.12.59:658][357]LogStreaming: Display: FlushAsyncLoading(615): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.12.59:715][357]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/jurassic_park_fence_dirty.glb]
+[2025.12.29-11.13.01:198][357]LogSlate: Window 'Import Content' being destroyed
+[2025.12.29-11.13.01:245][357]LogInterchangeEngine: [Pending] Importing
+[2025.12.29-11.13.01:413][358]LogStreaming: Display: FlushAsyncLoading(616): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.13.01:530][359]LogStreaming: Display: FlushAsyncLoading(618): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.13.01:721][361]LogStreaming: Display: FlushAsyncLoading(619): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.29-11.13.01:860][363]LogStaticMesh: Display: Building static mesh jurassic_park_fence_dirty (Required Memory Estimate: 3.452269 MB)...
+[2025.12.29-11.13.01:873][363]LogStaticMesh: Adjacency [0.00s], tris: 2316, UVs 1
+[2025.12.29-11.13.01:900][363]LogStaticMesh: Clustering [0.03s]. Ratio: 1.473684
+[2025.12.29-11.13.01:901][363]LogStaticMesh: Leaves [0.00s]
+[2025.12.29-11.13.02:186][368]LogStaticMesh: Reduce [0.29s]
+[2025.12.29-11.13.02:213][368]LogStaticMesh: Fallback [0.03s], num tris: 316
+[2025.12.29-11.13.02:217][368]LogStaticMesh: ConstrainClusters:
+[2025.12.29-11.13.02:217][368]LogStaticMesh:   Input: 49 Clusters, 4960 Triangles and 5970 Vertices
+[2025.12.29-11.13.02:217][368]LogStaticMesh:   Output without splits: 49 Clusters, 4960 Triangles and 5970 Vertices
+[2025.12.29-11.13.02:217][368]LogStaticMesh:   Output with splits: 49 Clusters, 4960 Triangles and 5970 Vertices
+[2025.12.29-11.13.02:217][368]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 49, Slow Path Clusters: 0, 1 Material: 49, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.29-11.13.02:221][368]LogStaticMesh: WritePages:
+[2025.12.29-11.13.02:221][368]LogStaticMesh:   Root: GPU size: 31488 bytes. 1 Pages. 31488.000 bytes per page (96.094% utilization).
+[2025.12.29-11.13.02:221][368]LogStaticMesh:   Streaming: GPU size: 39384 bytes. 1 Pages (1 with relative encoding). 39384.000 bytes per page (30.048% utilization).
+[2025.12.29-11.13.02:221][368]LogStaticMesh:   Page data disk size: 59656 bytes. Fixup data size: 280 bytes.
+[2025.12.29-11.13.02:221][368]LogStaticMesh:   Total GPU size: 70872 bytes, Total disk size: 59936 bytes.
+[2025.12.29-11.13.02:221][368]LogStaticMesh: Encode [0.01s]
+[2025.12.29-11.13.02:221][368]LogStaticMesh: Nanite build [0.35s]
+
+[2025.12.29-11.13.02:230][368]LogStaticMesh: Built static mesh [0.37s] /Game/jurassic_park_fence_dirty.jurassic_park_fence_dirty
+[2025.12.29-11.13.12:027][590]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Downloads/jurassic_park_fence_dirty.glb]
+[2025.12.29-11.13.12:063][590]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.29-11.13.12:063][590]LogInterchangeEngine: [Success] Import Done
+[2025.12.29-11.13.19:763][733]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/jurassic_park_fence_dirty.jurassic_park_fence_dirty
+[2025.12.29-11.13.19:763][733]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/jurassic_park_fence_dirty.jurassic_park_fence_dirty
+[2025.12.29-11.13.19:763][733]LogActorFactory: Actor Factory spawned StaticMesh /Game/jurassic_park_fence_dirty.jurassic_park_fence_dirty as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_52
+[2025.12.29-11.13.20:365][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2025.12.29-11.13.20:383][745]LogEditorActor: Deleted 0 Actors (0.074 secs)
+[2025.12.29-11.13.20:411][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/jurassic_park_fence_dirty.jurassic_park_fence_dirty
+[2025.12.29-11.13.20:411][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/jurassic_park_fence_dirty.jurassic_park_fence_dirty
+[2025.12.29-11.13.20:413][745]LogActorFactory: Actor Factory spawned StaticMesh /Game/jurassic_park_fence_dirty.jurassic_park_fence_dirty as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_60E32BD7010443B002_1133473247
+[2025.12.29-11.13.24:569][803]Cmd: TRANSACTION UNDO
+[2025.12.29-11.13.24:569][803]LogEditorTransaction: Undo Place Objects
+[2025.12.29-11.13.27:848][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/jurassic_park_fence_dirty.jurassic_park_fence_dirty
+[2025.12.29-11.13.27:848][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/jurassic_park_fence_dirty.jurassic_park_fence_dirty
+[2025.12.29-11.13.27:848][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/jurassic_park_fence_dirty.jurassic_park_fence_dirty as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_53
+[2025.12.29-11.13.28:839][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.12.29-11.13.28:841][868]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2025.12.29-11.13.28:854][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/jurassic_park_fence_dirty.jurassic_park_fence_dirty
+[2025.12.29-11.13.28:854][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/jurassic_park_fence_dirty.jurassic_park_fence_dirty
+[2025.12.29-11.13.28:856][868]LogActorFactory: Actor Factory spawned StaticMesh /Game/jurassic_park_fence_dirty.jurassic_park_fence_dirty as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_60E32BD7010443B002_1141916248
+[2025.12.29-11.13.56:999][375]LogSlate: Took 0.000546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.12.29-11.14.36:288][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.29-11.14.36:384][142]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_60E32BD7010443B002_1133473247 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/24/ICR82922Q1HX64X0ZDVFN3.PackageMetaData in its package
+[2025.12.29-11.14.36:401][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.29-11.14.36:420][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.29-11.14.36:436][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.29-11.14.36:437][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+[2025.12.29-11.14.36:438][142]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/1ZJ54FMA0DAL3I2Q8RFAIB3BE83EEF4EBB94277550B38E571C13D3.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset'
+[2025.12.29-11.14.36:440][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/E6/TGXOZXHBWOWSCKLZWA225S
+[2025.12.29-11.14.36:440][142]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/TGXOZXHBWOWSCKLZWA225SF5086F834802075C03460B878D2A2FA4.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/E6/TGXOZXHBWOWSCKLZWA225S.uasset'
+[2025.12.29-11.14.36:457][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.675 ms (total: 1.49 sec)
+[2025.12.29-11.14.36:514][142]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.29-11.14.36:514][142]LogContentValidation: Enabled validators:
+[2025.12.29-11.14.36:514][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.29-11.14.36:514][142]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.29-11.14.36:514][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.29-11.14.36:514][142]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.29-11.14.36:514][142]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.29-11.14.36:514][142]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.29-11.14.36:514][142]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.29-11.14.36:542][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
