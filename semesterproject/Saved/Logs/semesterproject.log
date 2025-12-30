@@ -14413,3 +14413,1287 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.30-12.20.50:099][ 90]AssetCheck: /Game/blood/material_0 Validating asset
 [2025.12.30-12.20.50:099][ 90]AssetCheck: /Game/blood/small_blood_splatter Validating asset
 [2025.12.30-12.20.50:138][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.12.30-12.23.00:570][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8781.943359
+[2025.12.30-12.23.01:570][498]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.30-12.23.01:570][498]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8782.610352, Update Interval: 324.930573
+[2025.12.30-12.24.24:130][525]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.30-12.24.24:144][525]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.30-12.24.24:181][526]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.30-12.24.29:634][686]LogContentBrowser: Attempting asset rename: NewFolder -> parkinglot
+[2025.12.30-12.24.29:634][686]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.30-12.24.39:333][875]LogStreaming: Display: FlushAsyncLoading(915): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.39:382][875]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/hp/Downloads/parking_lot (1).glb]
+[2025.12.30-12.24.41:579][875]LogSlate: Window 'Import Content' being destroyed
+[2025.12.30-12.24.41:610][875]LogInterchangeEngine: [Pending] Importing
+[2025.12.30-12.24.41:760][877]LogStreaming: Display: FlushAsyncLoading(916): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.41:825][878]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.30-12.24.41:882][878]LogStreaming: Display: FlushAsyncLoading(947): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.41:971][879]LogStreaming: Display: FlushAsyncLoading(952): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:060][880]LogStreaming: Display: FlushAsyncLoading(955): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:164][881]LogStreaming: Display: FlushAsyncLoading(956): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:225][882]LogStreaming: Display: FlushAsyncLoading(961): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:347][883]LogStreaming: Display: FlushAsyncLoading(963): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:387][884]LogStreaming: Display: FlushAsyncLoading(966): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:451][885]LogStreaming: Display: FlushAsyncLoading(967): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:488][886]LogStreaming: Display: FlushAsyncLoading(970): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:558][889]LogStreaming: Display: FlushAsyncLoading(971): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:595][890]LogStreaming: Display: FlushAsyncLoading(973): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:636][891]LogStreaming: Display: FlushAsyncLoading(975): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:752][892]LogStreaming: Display: FlushAsyncLoading(977): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:790][893]LogStreaming: Display: FlushAsyncLoading(979): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:843][894]LogStreaming: Display: FlushAsyncLoading(982): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:869][895]LogStreaming: Display: FlushAsyncLoading(983): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:952][896]LogStreaming: Display: FlushAsyncLoading(986): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.42:966][897]LogStreaming: Display: FlushAsyncLoading(987): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.43:027][898]LogStreaming: Display: FlushAsyncLoading(988): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.43:058][899]LogStreaming: Display: FlushAsyncLoading(989): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.43:076][900]LogStreaming: Display: FlushAsyncLoading(990): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.43:138][901]LogStreaming: Display: FlushAsyncLoading(992): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.43:197][902]LogStreaming: Display: FlushAsyncLoading(993): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.43:250][903]LogStreaming: Display: FlushAsyncLoading(996): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.43:311][904]LogStreaming: Display: FlushAsyncLoading(997): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.43:378][905]LogStreaming: Display: FlushAsyncLoading(998): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.43:429][906]LogStreaming: Display: FlushAsyncLoading(1000): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.43:562][908]LogStreaming: Display: FlushAsyncLoading(1001): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.43:689][910]LogStreaming: Display: FlushAsyncLoading(1002): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.43:814][912]LogStreaming: Display: FlushAsyncLoading(1005): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.43:937][914]LogStreaming: Display: FlushAsyncLoading(1006): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.44:051][916]LogStreaming: Display: FlushAsyncLoading(1007): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.44:221][919]LogStreaming: Display: FlushAsyncLoading(1008): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.44:357][921]LogStreaming: Display: FlushAsyncLoading(1009): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.30-12.24.44:971][923]LogStaticMesh: Display: Building static mesh Base_GLASS_Inst_0 (Required Memory Estimate: 0.176693 MB)...
+[2025.12.30-12.24.44:972][923]LogStaticMesh: Display: Building static mesh Base_Lights_m_0 (Required Memory Estimate: 0.730951 MB)...
+[2025.12.30-12.24.44:972][923]LogStaticMesh: Adjacency [0.00s], tris: 96, UVs 2
+[2025.12.30-12.24.44:972][923]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.44:972][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.44:972][923]LogStaticMesh: Reduce [0.00s]
+[2025.12.30-12.24.44:972][923]LogStaticMesh: Display: Building static mesh Base_fix_m_0 (Required Memory Estimate: 0.119909 MB)...
+[2025.12.30-12.24.44:972][923]LogStaticMesh: Fallback [0.00s], num tris: 96
+[2025.12.30-12.24.44:974][923]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.44:974][923]LogStaticMesh:   Input: 1 Clusters, 96 Triangles and 192 Vertices
+[2025.12.30-12.24.44:974][923]LogStaticMesh:   Output without splits: 1 Clusters, 96 Triangles and 192 Vertices
+[2025.12.30-12.24.44:974][923]LogStaticMesh:   Output with splits: 1 Clusters, 96 Triangles and 192 Vertices
+[2025.12.30-12.24.44:974][923]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.44:974][923]LogStaticMesh: Adjacency [0.00s], tris: 66, UVs 2
+[2025.12.30-12.24.44:974][923]LogStaticMesh: WritePages:
+[2025.12.30-12.24.44:974][923]LogStaticMesh:   Root: GPU size: 2944 bytes. 1 Pages. 2944.000 bytes per page (8.984% utilization).
+[2025.12.30-12.24.44:974][923]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.44:974][923]LogStaticMesh:   Page data disk size: 3392 bytes. Fixup data size: 24 bytes.
+[2025.12.30-12.24.44:974][923]LogStaticMesh:   Total GPU size: 2944 bytes, Total disk size: 3416 bytes.
+[2025.12.30-12.24.44:974][923]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.44:974][923]LogStaticMesh: Nanite build [0.00s]
+
+[2025.12.30-12.24.44:974][923]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.44:974][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.44:974][923]LogStaticMesh: Reduce [0.00s]
+[2025.12.30-12.24.44:974][923]LogStaticMesh: Fallback [0.00s], num tris: 66
+[2025.12.30-12.24.44:975][923]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.44:975][923]LogStaticMesh:   Input: 1 Clusters, 66 Triangles and 96 Vertices
+[2025.12.30-12.24.44:975][923]LogStaticMesh:   Output without splits: 1 Clusters, 66 Triangles and 96 Vertices
+[2025.12.30-12.24.44:975][923]LogStaticMesh:   Output with splits: 1 Clusters, 66 Triangles and 96 Vertices
+[2025.12.30-12.24.44:975][923]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.44:975][923]LogStaticMesh: WritePages:
+[2025.12.30-12.24.44:975][923]LogStaticMesh:   Root: GPU size: 1132 bytes. 1 Pages. 1132.000 bytes per page (3.455% utilization).
+[2025.12.30-12.24.44:975][923]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.44:975][923]LogStaticMesh:   Page data disk size: 1464 bytes. Fixup data size: 24 bytes.
+[2025.12.30-12.24.44:975][923]LogStaticMesh:   Total GPU size: 1132 bytes, Total disk size: 1488 bytes.
+[2025.12.30-12.24.44:975][923]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.44:975][923]LogStaticMesh: Nanite build [0.00s]
+
+[2025.12.30-12.24.44:975][923]LogStaticMesh: Adjacency [0.00s], tris: 456, UVs 2
+[2025.12.30-12.24.44:976][923]LogStaticMesh: Built static mesh [0.00s] /Game/parkinglot/Base_GLASS_Inst_0.Base_GLASS_Inst_0
+[2025.12.30-12.24.44:976][923]LogStaticMesh: Built static mesh [0.00s] /Game/parkinglot/Base_fix_m_0.Base_fix_m_0
+[2025.12.30-12.24.44:976][923]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.44:977][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:003][923]LogStaticMesh: Display: Building static mesh Base_whitepaint_m_0 (Required Memory Estimate: 0.505425 MB)...
+[2025.12.30-12.24.45:003][923]LogStaticMesh: Reduce [0.03s]
+[2025.12.30-12.24.45:004][923]LogStaticMesh: Adjacency [0.00s], tris: 294, UVs 2
+[2025.12.30-12.24.45:006][923]LogStaticMesh: Clustering [0.00s]. Ratio: 1.333333
+[2025.12.30-12.24.45:006][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:020][923]LogStaticMesh: Fallback [0.02s], num tris: 256
+[2025.12.30-12.24.45:021][923]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:021][923]LogStaticMesh:   Input: 7 Clusters, 834 Triangles and 535 Vertices
+[2025.12.30-12.24.45:021][923]LogStaticMesh:   Output without splits: 7 Clusters, 834 Triangles and 539 Vertices
+[2025.12.30-12.24.45:021][923]LogStaticMesh:   Output with splits: 7 Clusters, 834 Triangles and 539 Vertices
+[2025.12.30-12.24.45:021][923]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:022][923]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:022][923]LogStaticMesh:   Root: GPU size: 8876 bytes. 1 Pages. 8876.000 bytes per page (27.087% utilization).
+[2025.12.30-12.24.45:022][923]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:022][923]LogStaticMesh:   Page data disk size: 8508 bytes. Fixup data size: 56 bytes.
+[2025.12.30-12.24.45:022][923]LogStaticMesh:   Total GPU size: 8876 bytes, Total disk size: 8564 bytes.
+[2025.12.30-12.24.45:022][923]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:022][923]LogStaticMesh: Nanite build [0.05s]
+
+[2025.12.30-12.24.45:025][923]LogStaticMesh: Built static mesh [0.05s] /Game/parkinglot/Base_Lights_m_0.Base_Lights_m_0
+[2025.12.30-12.24.45:030][923]LogStaticMesh: Reduce [0.02s]
+[2025.12.30-12.24.45:036][923]LogStaticMesh: Display: Building static mesh Base_fencemesh_mat_0 (Required Memory Estimate: 0.095783 MB)...
+[2025.12.30-12.24.45:037][923]LogStaticMesh: Adjacency [0.00s], tris: 50, UVs 2
+[2025.12.30-12.24.45:037][923]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.45:037][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:037][923]LogStaticMesh: Reduce [0.00s]
+[2025.12.30-12.24.45:037][923]LogStaticMesh: Fallback [0.00s], num tris: 50
+[2025.12.30-12.24.45:037][923]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:037][923]LogStaticMesh:   Input: 1 Clusters, 50 Triangles and 100 Vertices
+[2025.12.30-12.24.45:037][923]LogStaticMesh:   Output without splits: 1 Clusters, 50 Triangles and 100 Vertices
+[2025.12.30-12.24.45:037][923]LogStaticMesh:   Output with splits: 1 Clusters, 50 Triangles and 100 Vertices
+[2025.12.30-12.24.45:037][923]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:037][923]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:037][923]LogStaticMesh:   Root: GPU size: 1860 bytes. 1 Pages. 1860.000 bytes per page (5.676% utilization).
+[2025.12.30-12.24.45:037][923]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:037][923]LogStaticMesh:   Page data disk size: 2300 bytes. Fixup data size: 24 bytes.
+[2025.12.30-12.24.45:037][923]LogStaticMesh:   Total GPU size: 1860 bytes, Total disk size: 2324 bytes.
+[2025.12.30-12.24.45:037][923]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:037][923]LogStaticMesh: Nanite build [0.00s]
+
+[2025.12.30-12.24.45:039][923]LogStaticMesh: Built static mesh [0.00s] /Game/parkinglot/Base_fencemesh_mat_0.Base_fencemesh_mat_0
+[2025.12.30-12.24.45:039][923]LogStaticMesh: Fallback [0.01s], num tris: 256
+[2025.12.30-12.24.45:041][923]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:041][923]LogStaticMesh:   Input: 7 Clusters, 672 Triangles and 992 Vertices
+[2025.12.30-12.24.45:041][923]LogStaticMesh:   Output without splits: 7 Clusters, 672 Triangles and 992 Vertices
+[2025.12.30-12.24.45:041][923]LogStaticMesh:   Output with splits: 7 Clusters, 672 Triangles and 992 Vertices
+[2025.12.30-12.24.45:041][923]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:042][923]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:042][923]LogStaticMesh:   Root: GPU size: 16112 bytes. 1 Pages. 16112.000 bytes per page (49.170% utilization).
+[2025.12.30-12.24.45:042][923]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:042][923]LogStaticMesh:   Page data disk size: 11532 bytes. Fixup data size: 56 bytes.
+[2025.12.30-12.24.45:042][923]LogStaticMesh:   Total GPU size: 16112 bytes, Total disk size: 11588 bytes.
+[2025.12.30-12.24.45:042][923]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:042][923]LogStaticMesh: Nanite build [0.04s]
+
+[2025.12.30-12.24.45:045][923]LogStaticMesh: Built static mesh [0.04s] /Game/parkinglot/Base_whitepaint_m_0.Base_whitepaint_m_0
+[2025.12.30-12.24.45:053][923]LogStaticMesh: Display: Building static mesh Base_lamp3_m_0 (Required Memory Estimate: 0.807028 MB)...
+[2025.12.30-12.24.45:056][923]LogStaticMesh: Adjacency [0.00s], tris: 488, UVs 2
+[2025.12.30-12.24.45:059][923]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.45:059][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:088][923]LogStaticMesh: Reduce [0.03s]
+[2025.12.30-12.24.45:101][923]LogStaticMesh: Display: Building static mesh Base_atlas_mat_0 (Required Memory Estimate: 0.014827 MB)...
+[2025.12.30-12.24.45:101][923]LogStaticMesh: Adjacency [0.00s], tris: 4, UVs 2
+[2025.12.30-12.24.45:101][923]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.45:101][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:101][923]LogStaticMesh: Reduce [0.00s]
+[2025.12.30-12.24.45:101][923]LogStaticMesh: Fallback [0.00s], num tris: 4
+[2025.12.30-12.24.45:101][923]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:101][923]LogStaticMesh:   Input: 1 Clusters, 4 Triangles and 8 Vertices
+[2025.12.30-12.24.45:101][923]LogStaticMesh:   Output without splits: 1 Clusters, 4 Triangles and 8 Vertices
+[2025.12.30-12.24.45:101][923]LogStaticMesh:   Output with splits: 1 Clusters, 4 Triangles and 8 Vertices
+[2025.12.30-12.24.45:101][923]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:101][923]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:101][923]LogStaticMesh:   Root: GPU size: 260 bytes. 1 Pages. 260.000 bytes per page (0.793% utilization).
+[2025.12.30-12.24.45:101][923]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:101][923]LogStaticMesh:   Page data disk size: 428 bytes. Fixup data size: 24 bytes.
+[2025.12.30-12.24.45:101][923]LogStaticMesh:   Total GPU size: 260 bytes, Total disk size: 452 bytes.
+[2025.12.30-12.24.45:101][923]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:101][923]LogStaticMesh: Nanite build [0.00s]
+
+[2025.12.30-12.24.45:101][923]LogStaticMesh: Fallback [0.01s], num tris: 391
+[2025.12.30-12.24.45:103][923]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:103][923]LogStaticMesh:   Input: 7 Clusters, 866 Triangles and 996 Vertices
+[2025.12.30-12.24.45:103][923]LogStaticMesh:   Output without splits: 7 Clusters, 866 Triangles and 996 Vertices
+[2025.12.30-12.24.45:103][923]LogStaticMesh:   Output with splits: 7 Clusters, 866 Triangles and 996 Vertices
+[2025.12.30-12.24.45:103][923]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:103][923]LogStaticMesh: Built static mesh [0.00s] /Game/parkinglot/Base_atlas_mat_0.Base_atlas_mat_0
+[2025.12.30-12.24.45:104][923]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:104][923]LogStaticMesh:   Root: GPU size: 11892 bytes. 1 Pages. 11892.000 bytes per page (36.292% utilization).
+[2025.12.30-12.24.45:104][923]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:104][923]LogStaticMesh:   Page data disk size: 10880 bytes. Fixup data size: 56 bytes.
+[2025.12.30-12.24.45:104][923]LogStaticMesh:   Total GPU size: 11892 bytes, Total disk size: 10936 bytes.
+[2025.12.30-12.24.45:104][923]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:104][923]LogStaticMesh: Nanite build [0.05s]
+
+[2025.12.30-12.24.45:108][923]LogStaticMesh: Built static mesh [0.06s] /Game/parkinglot/Base_lamp3_m_0.Base_lamp3_m_0
+[2025.12.30-12.24.45:115][923]LogStaticMesh: Display: Building static mesh Base_vent_m_0 (Required Memory Estimate: 0.025321 MB)...
+[2025.12.30-12.24.45:115][923]LogStaticMesh: Adjacency [0.00s], tris: 10, UVs 2
+[2025.12.30-12.24.45:115][923]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.45:115][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:115][923]LogStaticMesh: Reduce [0.00s]
+[2025.12.30-12.24.45:115][923]LogStaticMesh: Fallback [0.00s], num tris: 10
+[2025.12.30-12.24.45:115][923]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:115][923]LogStaticMesh:   Input: 1 Clusters, 10 Triangles and 20 Vertices
+[2025.12.30-12.24.45:115][923]LogStaticMesh:   Output without splits: 1 Clusters, 10 Triangles and 20 Vertices
+[2025.12.30-12.24.45:115][923]LogStaticMesh:   Output with splits: 1 Clusters, 10 Triangles and 20 Vertices
+[2025.12.30-12.24.45:115][923]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:115][923]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:115][923]LogStaticMesh:   Root: GPU size: 344 bytes. 1 Pages. 344.000 bytes per page (1.050% utilization).
+[2025.12.30-12.24.45:115][923]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:115][923]LogStaticMesh:   Page data disk size: 540 bytes. Fixup data size: 24 bytes.
+[2025.12.30-12.24.45:115][923]LogStaticMesh:   Total GPU size: 344 bytes, Total disk size: 564 bytes.
+[2025.12.30-12.24.45:116][923]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:116][923]LogStaticMesh: Nanite build [0.00s]
+
+[2025.12.30-12.24.45:118][923]LogStaticMesh: Built static mesh [0.00s] /Game/parkinglot/Base_vent_m_0.Base_vent_m_0
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Display: Building static mesh gate1_movable_gate_m_0 (Required Memory Estimate: 0.353386 MB)...
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Display: Building static mesh Base_white_light2_m_0 (Required Memory Estimate: 0.011355 MB)...
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Display: Building static mesh gate2_static_gate_m_0 (Required Memory Estimate: 0.064728 MB)...
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Adjacency [0.00s], tris: 2, UVs 2
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Reduce [0.00s]
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Fallback [0.00s], num tris: 2
+[2025.12.30-12.24.45:130][923]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Input: 1 Clusters, 2 Triangles and 4 Vertices
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Output without splits: 1 Clusters, 2 Triangles and 4 Vertices
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Output with splits: 1 Clusters, 2 Triangles and 4 Vertices
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Adjacency [0.00s], tris: 34, UVs 2
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.45:130][923]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Root: GPU size: 204 bytes. 1 Pages. 204.000 bytes per page (0.623% utilization).
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Reduce [0.00s]
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Page data disk size: 352 bytes. Fixup data size: 24 bytes.
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Total GPU size: 204 bytes, Total disk size: 376 bytes.
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Nanite build [0.00s]
+
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Fallback [0.00s], num tris: 34
+[2025.12.30-12.24.45:130][923]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Input: 1 Clusters, 34 Triangles and 42 Vertices
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Output without splits: 1 Clusters, 34 Triangles and 42 Vertices
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Output with splits: 1 Clusters, 34 Triangles and 42 Vertices
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:130][923]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Root: GPU size: 772 bytes. 1 Pages. 772.000 bytes per page (2.356% utilization).
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Page data disk size: 980 bytes. Fixup data size: 24 bytes.
+[2025.12.30-12.24.45:130][923]LogStaticMesh:   Total GPU size: 772 bytes, Total disk size: 1004 bytes.
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Nanite build [0.00s]
+
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Adjacency [0.00s], tris: 208, UVs 2
+[2025.12.30-12.24.45:130][923]LogStaticMesh: Built static mesh [0.00s] /Game/parkinglot/Base_white_light2_m_0.Base_white_light2_m_0
+[2025.12.30-12.24.45:132][923]LogStaticMesh: Built static mesh [0.00s] /Game/parkinglot/gate2_static_gate_m_0.gate2_static_gate_m_0
+[2025.12.30-12.24.45:132][923]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.45:132][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:134][923]LogStaticMesh: Display: Building static mesh Base_white_light_m_0 (Required Memory Estimate: 0.047558 MB)...
+[2025.12.30-12.24.45:134][923]LogStaticMesh: Display: Building static mesh Base_fencebase_mat_0 (Required Memory Estimate: 4.058204 MB)...
+[2025.12.30-12.24.45:134][923]LogStaticMesh: Adjacency [0.00s], tris: 24, UVs 2
+[2025.12.30-12.24.45:134][923]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.45:134][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:134][923]LogStaticMesh: Reduce [0.00s]
+[2025.12.30-12.24.45:135][923]LogStaticMesh: Fallback [0.00s], num tris: 24
+[2025.12.30-12.24.45:135][923]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:135][923]LogStaticMesh:   Input: 1 Clusters, 24 Triangles and 26 Vertices
+[2025.12.30-12.24.45:135][923]LogStaticMesh:   Output without splits: 1 Clusters, 24 Triangles and 26 Vertices
+[2025.12.30-12.24.45:135][923]LogStaticMesh:   Output with splits: 1 Clusters, 24 Triangles and 26 Vertices
+[2025.12.30-12.24.45:135][923]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:135][923]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:135][923]LogStaticMesh:   Root: GPU size: 420 bytes. 1 Pages. 420.000 bytes per page (1.282% utilization).
+[2025.12.30-12.24.45:135][923]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:135][923]LogStaticMesh:   Page data disk size: 616 bytes. Fixup data size: 24 bytes.
+[2025.12.30-12.24.45:135][923]LogStaticMesh:   Total GPU size: 420 bytes, Total disk size: 640 bytes.
+[2025.12.30-12.24.45:135][923]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:135][923]LogStaticMesh: Nanite build [0.00s]
+
+[2025.12.30-12.24.45:136][923]LogStaticMesh: Built static mesh [0.00s] /Game/parkinglot/Base_white_light_m_0.Base_white_light_m_0
+[2025.12.30-12.24.45:140][923]LogStaticMesh: Reduce [0.01s]
+[2025.12.30-12.24.45:142][923]LogStaticMesh: Fallback [0.00s], num tris: 208
+[2025.12.30-12.24.45:143][923]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:143][923]LogStaticMesh:   Input: 3 Clusters, 334 Triangles and 408 Vertices
+[2025.12.30-12.24.45:143][923]LogStaticMesh:   Output without splits: 3 Clusters, 334 Triangles and 408 Vertices
+[2025.12.30-12.24.45:143][923]LogStaticMesh:   Output with splits: 3 Clusters, 334 Triangles and 408 Vertices
+[2025.12.30-12.24.45:143][923]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:143][923]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:143][923]LogStaticMesh:   Root: GPU size: 6316 bytes. 1 Pages. 6316.000 bytes per page (19.275% utilization).
+[2025.12.30-12.24.45:143][923]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:143][923]LogStaticMesh:   Page data disk size: 5772 bytes. Fixup data size: 40 bytes.
+[2025.12.30-12.24.45:143][923]LogStaticMesh:   Total GPU size: 6316 bytes, Total disk size: 5812 bytes.
+[2025.12.30-12.24.45:143][923]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:143][923]LogStaticMesh: Nanite build [0.01s]
+
+[2025.12.30-12.24.45:145][923]LogStaticMesh: Built static mesh [0.02s] /Game/parkinglot/gate1_movable_gate_m_0.gate1_movable_gate_m_0
+[2025.12.30-12.24.45:155][923]LogStaticMesh: Adjacency [0.00s], tris: 2412, UVs 2
+[2025.12.30-12.24.45:171][923]LogStaticMesh: Clustering [0.02s]. Ratio: 1.000000
+[2025.12.30-12.24.45:171][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:179][923]LogStaticMesh: Display: Building static mesh Base_base_m_0 (Required Memory Estimate: 1.169226 MB)...
+[2025.12.30-12.24.45:184][923]LogStaticMesh: Adjacency [0.00s], tris: 720, UVs 2
+[2025.12.30-12.24.45:185][923]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.45:185][923]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:211][923]LogStaticMesh: Display: Building static mesh Base_steel_m_0 (Required Memory Estimate: 5.634321 MB)...
+[2025.12.30-12.24.45:244][923]LogStaticMesh: Adjacency [0.00s], tris: 3404, UVs 2
+[2025.12.30-12.24.45:266][924]LogStaticMesh: Clustering [0.02s]. Ratio: 1.037037
+[2025.12.30-12.24.45:267][924]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:277][924]LogStaticMesh: Reduce [0.09s]
+[2025.12.30-12.24.45:279][924]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2025.12.30-12.24.45:280][925]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:280][925]LogStaticMesh:   Input: 12 Clusters, 1476 Triangles and 1154 Vertices
+[2025.12.30-12.24.45:281][925]LogStaticMesh:   Output without splits: 12 Clusters, 1476 Triangles and 1182 Vertices
+[2025.12.30-12.24.45:281][925]LogStaticMesh:   Output with splits: 12 Clusters, 1476 Triangles and 1182 Vertices
+[2025.12.30-12.24.45:281][925]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 12, Slow Path Clusters: 0, 1 Material: 12, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:281][925]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:281][925]LogStaticMesh:   Root: GPU size: 16460 bytes. 1 Pages. 16460.000 bytes per page (50.232% utilization).
+[2025.12.30-12.24.45:282][925]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:282][925]LogStaticMesh:   Page data disk size: 14240 bytes. Fixup data size: 72 bytes.
+[2025.12.30-12.24.45:282][925]LogStaticMesh:   Total GPU size: 16460 bytes, Total disk size: 14312 bytes.
+[2025.12.30-12.24.45:282][925]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:282][925]LogStaticMesh: Nanite build [0.10s]
+
+[2025.12.30-12.24.45:287][925]LogStaticMesh: Built static mesh [0.11s] /Game/parkinglot/Base_base_m_0.Base_base_m_0
+[2025.12.30-12.24.45:295][925]LogStaticMesh: Display: Building static mesh Base_blackpaint_m_0 (Required Memory Estimate: 0.180078 MB)...
+[2025.12.30-12.24.45:296][925]LogStaticMesh: Adjacency [0.00s], tris: 98, UVs 2
+[2025.12.30-12.24.45:296][925]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.45:296][925]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:296][925]LogStaticMesh: Reduce [0.00s]
+[2025.12.30-12.24.45:297][925]LogStaticMesh: Fallback [0.00s], num tris: 98
+[2025.12.30-12.24.45:297][925]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:297][925]LogStaticMesh:   Input: 1 Clusters, 98 Triangles and 193 Vertices
+[2025.12.30-12.24.45:297][925]LogStaticMesh:   Output without splits: 1 Clusters, 98 Triangles and 193 Vertices
+[2025.12.30-12.24.45:297][925]LogStaticMesh:   Output with splits: 1 Clusters, 98 Triangles and 193 Vertices
+[2025.12.30-12.24.45:297][925]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:297][925]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:297][925]LogStaticMesh:   Root: GPU size: 2996 bytes. 1 Pages. 2996.000 bytes per page (9.143% utilization).
+[2025.12.30-12.24.45:298][925]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:298][925]LogStaticMesh:   Page data disk size: 3404 bytes. Fixup data size: 24 bytes.
+[2025.12.30-12.24.45:298][925]LogStaticMesh:   Total GPU size: 2996 bytes, Total disk size: 3428 bytes.
+[2025.12.30-12.24.45:298][925]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:298][925]LogStaticMesh: Nanite build [0.00s]
+
+[2025.12.30-12.24.45:300][925]LogStaticMesh: Built static mesh [0.01s] /Game/parkinglot/Base_blackpaint_m_0.Base_blackpaint_m_0
+[2025.12.30-12.24.45:304][925]LogStaticMesh: Display: Building static mesh Base_box2_m_0 (Required Memory Estimate: 1.508579 MB)...
+[2025.12.30-12.24.45:310][925]LogStaticMesh: Adjacency [0.00s], tris: 912, UVs 2
+[2025.12.30-12.24.45:320][925]LogStaticMesh: Clustering [0.01s]. Ratio: 1.750000
+[2025.12.30-12.24.45:321][925]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:411][927]LogStaticMesh: Reduce [0.09s]
+[2025.12.30-12.24.45:478][928]LogStaticMesh: Fallback [0.07s], num tris: 441
+[2025.12.30-12.24.45:481][928]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:481][928]LogStaticMesh:   Input: 21 Clusters, 1793 Triangles and 2089 Vertices
+[2025.12.30-12.24.45:481][928]LogStaticMesh:   Output without splits: 21 Clusters, 1793 Triangles and 2095 Vertices
+[2025.12.30-12.24.45:481][928]LogStaticMesh:   Output with splits: 21 Clusters, 1793 Triangles and 2095 Vertices
+[2025.12.30-12.24.45:481][928]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 21, Slow Path Clusters: 0, 1 Material: 21, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:484][928]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:484][928]LogStaticMesh:   Root: GPU size: 24856 bytes. 1 Pages. 24856.000 bytes per page (75.854% utilization).
+[2025.12.30-12.24.45:484][928]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:484][928]LogStaticMesh:   Page data disk size: 23228 bytes. Fixup data size: 72 bytes.
+[2025.12.30-12.24.45:484][928]LogStaticMesh:   Total GPU size: 24856 bytes, Total disk size: 23300 bytes.
+[2025.12.30-12.24.45:484][928]LogStaticMesh: Encode [0.01s]
+[2025.12.30-12.24.45:484][928]LogStaticMesh: Nanite build [0.17s]
+
+[2025.12.30-12.24.45:492][928]LogStaticMesh: Built static mesh [0.19s] /Game/parkinglot/Base_box2_m_0.Base_box2_m_0
+[2025.12.30-12.24.45:515][928]LogStaticMesh: Display: Building static mesh Chair_pipechair1_m_0 (Required Memory Estimate: 1.424025 MB)...
+[2025.12.30-12.24.45:517][928]LogStaticMesh: Reduce [0.34s]
+[2025.12.30-12.24.45:523][928]LogStaticMesh: Adjacency [0.00s], tris: 880, UVs 2
+[2025.12.30-12.24.45:531][928]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.12.30-12.24.45:532][928]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:619][929]LogStaticMesh: Reduce [0.09s]
+[2025.12.30-12.24.45:662][930]LogStaticMesh: Fallback [0.15s], num tris: 388
+[2025.12.30-12.24.45:663][930]LogStaticMesh: Fallback [0.04s], num tris: 562
+[2025.12.30-12.24.45:665][930]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:665][930]LogStaticMesh:   Input: 14 Clusters, 1762 Triangles and 1479 Vertices
+[2025.12.30-12.24.45:665][930]LogStaticMesh:   Output without splits: 14 Clusters, 1762 Triangles and 1483 Vertices
+[2025.12.30-12.24.45:665][930]LogStaticMesh:   Output with splits: 14 Clusters, 1762 Triangles and 1483 Vertices
+[2025.12.30-12.24.45:665][930]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:667][930]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:667][930]LogStaticMesh:   Root: GPU size: 24408 bytes. 1 Pages. 24408.000 bytes per page (74.487% utilization).
+[2025.12.30-12.24.45:667][930]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:667][930]LogStaticMesh:   Page data disk size: 20504 bytes. Fixup data size: 72 bytes.
+[2025.12.30-12.24.45:667][930]LogStaticMesh:   Total GPU size: 24408 bytes, Total disk size: 20576 bytes.
+[2025.12.30-12.24.45:667][930]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:667][930]LogStaticMesh: Nanite build [0.15s]
+
+[2025.12.30-12.24.45:675][930]LogStaticMesh: Built static mesh [0.16s] /Game/parkinglot/Chair_pipechair1_m_0.Chair_pipechair1_m_0
+[2025.12.30-12.24.45:681][930]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:682][930]LogStaticMesh:   Input: 40 Clusters, 5058 Triangles and 8133 Vertices
+[2025.12.30-12.24.45:682][930]LogStaticMesh:   Output without splits: 40 Clusters, 5058 Triangles and 8133 Vertices
+[2025.12.30-12.24.45:682][930]LogStaticMesh:   Output with splits: 46 Clusters, 5058 Triangles and 8133 Vertices
+[2025.12.30-12.24.45:683][930]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 46, Slow Path Clusters: 0, 1 Material: 46, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:685][930]LogStaticMesh: Display: Building static mesh Base_marks_m_0 (Required Memory Estimate: 2.120082 MB)...
+[2025.12.30-12.24.45:691][931]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:691][931]LogStaticMesh:   Root: GPU size: 31640 bytes. 1 Pages. 31640.000 bytes per page (96.558% utilization).
+[2025.12.30-12.24.45:691][931]LogStaticMesh:   Streaming: GPU size: 80028 bytes. 1 Pages (1 with relative encoding). 80028.000 bytes per page (61.057% utilization).
+[2025.12.30-12.24.45:691][931]LogStaticMesh:   Page data disk size: 90456 bytes. Fixup data size: 272 bytes.
+[2025.12.30-12.24.45:691][931]LogStaticMesh:   Total GPU size: 111668 bytes, Total disk size: 90728 bytes.
+[2025.12.30-12.24.45:691][931]LogStaticMesh: Encode [0.03s]
+[2025.12.30-12.24.45:692][931]LogStaticMesh: Nanite build [0.54s]
+
+[2025.12.30-12.24.45:699][931]LogStaticMesh: Built static mesh [0.57s] /Game/parkinglot/Base_fencebase_mat_0.Base_fencebase_mat_0
+[2025.12.30-12.24.45:711][931]LogStaticMesh: Adjacency [0.00s], tris: 1200, UVs 2
+[2025.12.30-12.24.45:727][931]LogStaticMesh: Clustering [0.02s]. Ratio: 1.000000
+[2025.12.30-12.24.45:729][931]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:734][931]LogStaticMesh: Warning: Base_fencebase_mat_0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.30-12.24.45:734][931]LogStaticMesh: Warning: Base_fencebase_mat_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.30-12.24.45:736][931]LogStaticMesh: Display: Building static mesh Base_plastic_m_0 (Required Memory Estimate: 0.340348 MB)...
+[2025.12.30-12.24.45:737][931]LogStaticMesh: Adjacency [0.00s], tris: 192, UVs 2
+[2025.12.30-12.24.45:739][931]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.45:739][931]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:755][932]LogStaticMesh: Reduce [0.02s]
+[2025.12.30-12.24.45:756][932]LogStaticMesh: Fallback [0.00s], num tris: 192
+[2025.12.30-12.24.45:757][932]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:757][932]LogStaticMesh:   Input: 3 Clusters, 318 Triangles and 582 Vertices
+[2025.12.30-12.24.45:757][932]LogStaticMesh:   Output without splits: 3 Clusters, 318 Triangles and 582 Vertices
+[2025.12.30-12.24.45:757][932]LogStaticMesh:   Output with splits: 3 Clusters, 318 Triangles and 582 Vertices
+[2025.12.30-12.24.45:757][932]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:758][932]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:758][932]LogStaticMesh:   Root: GPU size: 8868 bytes. 1 Pages. 8868.000 bytes per page (27.063% utilization).
+[2025.12.30-12.24.45:758][932]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:758][932]LogStaticMesh:   Page data disk size: 8092 bytes. Fixup data size: 40 bytes.
+[2025.12.30-12.24.45:758][932]LogStaticMesh:   Total GPU size: 8868 bytes, Total disk size: 8132 bytes.
+[2025.12.30-12.24.45:758][932]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:758][932]LogStaticMesh: Nanite build [0.02s]
+
+[2025.12.30-12.24.45:763][932]LogStaticMesh: Built static mesh [0.03s] /Game/parkinglot/Base_plastic_m_0.Base_plastic_m_0
+[2025.12.30-12.24.45:764][932]LogStaticMesh: Reduce [0.50s]
+[2025.12.30-12.24.45:770][932]LogStaticMesh: Display: Building static mesh Base_concrete_floor_m_0 (Required Memory Estimate: 0.025388 MB)...
+[2025.12.30-12.24.45:771][932]LogStaticMesh: Adjacency [0.00s], tris: 10, UVs 2
+[2025.12.30-12.24.45:771][932]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.45:771][932]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:771][932]LogStaticMesh: Reduce [0.00s]
+[2025.12.30-12.24.45:772][932]LogStaticMesh: Fallback [0.00s], num tris: 10
+[2025.12.30-12.24.45:772][932]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:772][932]LogStaticMesh:   Input: 1 Clusters, 10 Triangles and 20 Vertices
+[2025.12.30-12.24.45:772][932]LogStaticMesh:   Output without splits: 1 Clusters, 10 Triangles and 20 Vertices
+[2025.12.30-12.24.45:772][932]LogStaticMesh:   Output with splits: 1 Clusters, 10 Triangles and 20 Vertices
+[2025.12.30-12.24.45:772][932]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:772][932]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:772][932]LogStaticMesh:   Root: GPU size: 440 bytes. 1 Pages. 440.000 bytes per page (1.343% utilization).
+[2025.12.30-12.24.45:772][932]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.45:772][932]LogStaticMesh:   Page data disk size: 624 bytes. Fixup data size: 24 bytes.
+[2025.12.30-12.24.45:772][932]LogStaticMesh:   Total GPU size: 440 bytes, Total disk size: 648 bytes.
+[2025.12.30-12.24.45:772][932]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.45:772][932]LogStaticMesh: Nanite build [0.00s]
+
+[2025.12.30-12.24.45:775][932]LogStaticMesh: Built static mesh [0.01s] /Game/parkinglot/Base_concrete_floor_m_0.Base_concrete_floor_m_0
+[2025.12.30-12.24.45:779][932]LogStaticMesh: Display: Building static mesh Base_fencerings_mat_0 (Required Memory Estimate: 7.09581 MB)...
+[2025.12.30-12.24.45:815][932]LogStaticMesh: Fallback [0.05s], num tris: 351
+[2025.12.30-12.24.45:818][932]LogStaticMesh: Reduce [0.09s]
+[2025.12.30-12.24.45:827][933]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:827][933]LogStaticMesh:   Input: 56 Clusters, 6931 Triangles and 8800 Vertices
+[2025.12.30-12.24.45:827][933]LogStaticMesh:   Output without splits: 56 Clusters, 6931 Triangles and 8812 Vertices
+[2025.12.30-12.24.45:828][933]LogStaticMesh:   Output with splits: 56 Clusters, 6931 Triangles and 8812 Vertices
+[2025.12.30-12.24.45:828][933]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 56, Slow Path Clusters: 0, 1 Material: 56, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:829][933]LogStaticMesh: Adjacency [0.00s], tris: 4356, UVs 2
+[2025.12.30-12.24.45:840][933]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:841][933]LogStaticMesh:   Root: GPU size: 29684 bytes. 1 Pages. 29684.000 bytes per page (90.588% utilization).
+[2025.12.30-12.24.45:841][933]LogStaticMesh:   Streaming: GPU size: 96724 bytes. 1 Pages (1 with relative encoding). 96724.000 bytes per page (73.795% utilization).
+[2025.12.30-12.24.45:841][933]LogStaticMesh:   Page data disk size: 103384 bytes. Fixup data size: 256 bytes.
+[2025.12.30-12.24.45:841][933]LogStaticMesh:   Total GPU size: 126408 bytes, Total disk size: 103640 bytes.
+[2025.12.30-12.24.45:841][933]LogStaticMesh: Encode [0.02s]
+[2025.12.30-12.24.45:841][933]LogStaticMesh: Nanite build [0.60s]
+
+[2025.12.30-12.24.45:854][933]LogStaticMesh: Built static mesh [0.64s] /Game/parkinglot/Base_steel_m_0.Base_steel_m_0
+[2025.12.30-12.24.45:860][933]LogStaticMesh: Clustering [0.03s]. Ratio: 1.000000
+[2025.12.30-12.24.45:863][933]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:878][933]LogStaticMesh: Fallback [0.06s], num tris: 716
+[2025.12.30-12.24.45:891][933]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.45:891][933]LogStaticMesh:   Input: 21 Clusters, 2582 Triangles and 5302 Vertices
+[2025.12.30-12.24.45:891][933]LogStaticMesh:   Output without splits: 21 Clusters, 2582 Triangles and 5302 Vertices
+[2025.12.30-12.24.45:891][933]LogStaticMesh:   Output with splits: 26 Clusters, 2582 Triangles and 5304 Vertices
+[2025.12.30-12.24.45:894][933]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 26, Slow Path Clusters: 0, 1 Material: 26, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.45:896][933]LogStaticMesh: Display: Building static mesh Base_lampframe_m_0 (Required Memory Estimate: 1.248053 MB)...
+[2025.12.30-12.24.45:897][933]LogStaticMesh: WritePages:
+[2025.12.30-12.24.45:897][933]LogStaticMesh:   Root: GPU size: 31412 bytes. 1 Pages. 31412.000 bytes per page (95.862% utilization).
+[2025.12.30-12.24.45:897][933]LogStaticMesh:   Streaming: GPU size: 31552 bytes. 1 Pages (1 with relative encoding). 31552.000 bytes per page (24.072% utilization).
+[2025.12.30-12.24.45:897][933]LogStaticMesh:   Page data disk size: 49940 bytes. Fixup data size: 256 bytes.
+[2025.12.30-12.24.45:897][933]LogStaticMesh:   Total GPU size: 62964 bytes, Total disk size: 50196 bytes.
+[2025.12.30-12.24.45:897][933]LogStaticMesh: Encode [0.02s]
+[2025.12.30-12.24.45:897][933]LogStaticMesh: Nanite build [0.19s]
+
+[2025.12.30-12.24.45:901][934]LogStaticMesh: Adjacency [0.00s], tris: 730, UVs 2
+[2025.12.30-12.24.45:909][934]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.12.30-12.24.45:910][934]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.45:918][934]LogStaticMesh: Built static mesh [0.23s] /Game/parkinglot/Base_marks_m_0.Base_marks_m_0
+[2025.12.30-12.24.45:947][935]LogStaticMesh: Display: Building static mesh Base_switches_m_0 (Required Memory Estimate: 1.038642 MB)...
+[2025.12.30-12.24.45:953][935]LogStaticMesh: Adjacency [0.00s], tris: 604, UVs 2
+[2025.12.30-12.24.45:959][935]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.12.30-12.24.45:959][936]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.46:013][936]LogStaticMesh: Reduce [0.10s]
+[2025.12.30-12.24.46:019][936]LogStaticMesh: Reduce [0.06s]
+[2025.12.30-12.24.46:030][937]LogStaticMesh: Fallback [0.02s], num tris: 256
+[2025.12.30-12.24.46:037][937]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.46:037][937]LogStaticMesh:   Input: 12 Clusters, 1484 Triangles and 2339 Vertices
+[2025.12.30-12.24.46:037][937]LogStaticMesh:   Output without splits: 12 Clusters, 1484 Triangles and 2339 Vertices
+[2025.12.30-12.24.46:037][937]LogStaticMesh:   Output with splits: 12 Clusters, 1484 Triangles and 2339 Vertices
+[2025.12.30-12.24.46:038][937]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 12, Slow Path Clusters: 0, 1 Material: 12, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.46:039][937]LogStaticMesh: WritePages:
+[2025.12.30-12.24.46:039][937]LogStaticMesh:   Root: GPU size: 24452 bytes. 1 Pages. 24452.000 bytes per page (74.622% utilization).
+[2025.12.30-12.24.46:039][937]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.46:039][937]LogStaticMesh:   Page data disk size: 22576 bytes. Fixup data size: 72 bytes.
+[2025.12.30-12.24.46:039][937]LogStaticMesh:   Total GPU size: 24452 bytes, Total disk size: 22648 bytes.
+[2025.12.30-12.24.46:039][937]LogStaticMesh: Encode [0.01s]
+[2025.12.30-12.24.46:039][937]LogStaticMesh: Nanite build [0.14s]
+
+[2025.12.30-12.24.46:041][937]LogStaticMesh: Fallback [0.02s], num tris: 526
+[2025.12.30-12.24.46:047][937]LogStaticMesh: Built static mesh [0.15s] /Game/parkinglot/Base_lampframe_m_0.Base_lampframe_m_0
+[2025.12.30-12.24.46:050][937]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.46:051][937]LogStaticMesh:   Input: 11 Clusters, 1359 Triangles and 2307 Vertices
+[2025.12.30-12.24.46:051][937]LogStaticMesh:   Output without splits: 11 Clusters, 1359 Triangles and 2307 Vertices
+[2025.12.30-12.24.46:051][937]LogStaticMesh:   Output with splits: 12 Clusters, 1359 Triangles and 2307 Vertices
+[2025.12.30-12.24.46:052][937]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 12, Slow Path Clusters: 0, 1 Material: 12, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.46:054][937]LogStaticMesh: WritePages:
+[2025.12.30-12.24.46:054][937]LogStaticMesh:   Root: GPU size: 24052 bytes. 1 Pages. 24052.000 bytes per page (73.401% utilization).
+[2025.12.30-12.24.46:054][937]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.46:054][937]LogStaticMesh:   Page data disk size: 20700 bytes. Fixup data size: 72 bytes.
+[2025.12.30-12.24.46:054][937]LogStaticMesh:   Total GPU size: 24052 bytes, Total disk size: 20772 bytes.
+[2025.12.30-12.24.46:054][937]LogStaticMesh: Encode [0.01s]
+[2025.12.30-12.24.46:054][937]LogStaticMesh: Nanite build [0.10s]
+
+[2025.12.30-12.24.46:060][937]LogStaticMesh: Display: Building static mesh gate1_static_gate_m_0 (Required Memory Estimate: 0.064728 MB)...
+[2025.12.30-12.24.46:061][937]LogStaticMesh: Adjacency [0.00s], tris: 34, UVs 2
+[2025.12.30-12.24.46:062][937]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.46:062][937]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.46:062][937]LogStaticMesh: Reduce [0.00s]
+[2025.12.30-12.24.46:062][937]LogStaticMesh: Fallback [0.00s], num tris: 34
+[2025.12.30-12.24.46:062][937]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.46:062][937]LogStaticMesh:   Input: 1 Clusters, 34 Triangles and 42 Vertices
+[2025.12.30-12.24.46:062][937]LogStaticMesh:   Output without splits: 1 Clusters, 34 Triangles and 42 Vertices
+[2025.12.30-12.24.46:062][937]LogStaticMesh:   Output with splits: 1 Clusters, 34 Triangles and 42 Vertices
+[2025.12.30-12.24.46:062][937]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.46:062][937]LogStaticMesh: WritePages:
+[2025.12.30-12.24.46:062][937]LogStaticMesh:   Root: GPU size: 772 bytes. 1 Pages. 772.000 bytes per page (2.356% utilization).
+[2025.12.30-12.24.46:062][937]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.46:062][937]LogStaticMesh:   Page data disk size: 980 bytes. Fixup data size: 24 bytes.
+[2025.12.30-12.24.46:062][937]LogStaticMesh:   Total GPU size: 772 bytes, Total disk size: 1004 bytes.
+[2025.12.30-12.24.46:064][937]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.46:064][937]LogStaticMesh: Nanite build [0.00s]
+
+[2025.12.30-12.24.46:066][937]LogStaticMesh: Built static mesh [0.12s] /Game/parkinglot/Base_switches_m_0.Base_switches_m_0
+[2025.12.30-12.24.46:066][937]LogStaticMesh: Built static mesh [0.01s] /Game/parkinglot/gate1_static_gate_m_0.gate1_static_gate_m_0
+[2025.12.30-12.24.46:071][937]LogStaticMesh: Display: Building static mesh gate2_movable_gate_m_0 (Required Memory Estimate: 0.353386 MB)...
+[2025.12.30-12.24.46:072][937]LogStaticMesh: Adjacency [0.00s], tris: 208, UVs 2
+[2025.12.30-12.24.46:074][937]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.30-12.24.46:074][937]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.46:075][937]LogStaticMesh: Display: Building static mesh Base_fenceframe_mat_0 (Required Memory Estimate: 7.454002 MB)...
+[2025.12.30-12.24.46:085][937]LogStaticMesh: Reduce [0.01s]
+[2025.12.30-12.24.46:087][937]LogStaticMesh: Fallback [0.00s], num tris: 208
+[2025.12.30-12.24.46:087][937]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.46:087][937]LogStaticMesh:   Input: 3 Clusters, 334 Triangles and 408 Vertices
+[2025.12.30-12.24.46:087][937]LogStaticMesh:   Output without splits: 3 Clusters, 334 Triangles and 408 Vertices
+[2025.12.30-12.24.46:087][937]LogStaticMesh:   Output with splits: 3 Clusters, 334 Triangles and 408 Vertices
+[2025.12.30-12.24.46:087][937]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.46:088][937]LogStaticMesh: WritePages:
+[2025.12.30-12.24.46:088][937]LogStaticMesh:   Root: GPU size: 6316 bytes. 1 Pages. 6316.000 bytes per page (19.275% utilization).
+[2025.12.30-12.24.46:088][937]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.30-12.24.46:088][937]LogStaticMesh:   Page data disk size: 5776 bytes. Fixup data size: 40 bytes.
+[2025.12.30-12.24.46:088][937]LogStaticMesh:   Total GPU size: 6316 bytes, Total disk size: 5816 bytes.
+[2025.12.30-12.24.46:088][937]LogStaticMesh: Encode [0.00s]
+[2025.12.30-12.24.46:088][937]LogStaticMesh: Nanite build [0.02s]
+
+[2025.12.30-12.24.46:091][937]LogStaticMesh: Built static mesh [0.02s] /Game/parkinglot/gate2_movable_gate_m_0.gate2_movable_gate_m_0
+[2025.12.30-12.24.46:096][937]LogStaticMesh: Display: Building static mesh Base_lampgrill_m_0 (Required Memory Estimate: 1.717563 MB)...
+[2025.12.30-12.24.46:104][938]LogStaticMesh: Adjacency [0.00s], tris: 1024, UVs 2
+[2025.12.30-12.24.46:113][938]LogStaticMesh: Clustering [0.01s]. Ratio: 1.250000
+[2025.12.30-12.24.46:115][938]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.46:120][938]LogStaticMesh: Adjacency [0.00s], tris: 4504, UVs 2
+[2025.12.30-12.24.46:168][938]LogStaticMesh: Clustering [0.05s]. Ratio: 1.000000
+[2025.12.30-12.24.46:171][938]LogStaticMesh: Leaves [0.00s]
+[2025.12.30-12.24.46:242][939]LogStaticMesh: Reduce [0.13s]
+[2025.12.30-12.24.46:313][940]LogStaticMesh: Fallback [0.07s], num tris: 704
+[2025.12.30-12.24.46:318][940]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.46:318][940]LogStaticMesh:   Input: 17 Clusters, 1906 Triangles and 2936 Vertices
+[2025.12.30-12.24.46:318][940]LogStaticMesh:   Output without splits: 17 Clusters, 1906 Triangles and 2936 Vertices
+[2025.12.30-12.24.46:318][940]LogStaticMesh:   Output with splits: 18 Clusters, 1906 Triangles and 2936 Vertices
+[2025.12.30-12.24.46:319][940]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 18, Slow Path Clusters: 0, 1 Material: 18, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.46:322][941]LogStaticMesh: WritePages:
+[2025.12.30-12.24.46:324][941]LogStaticMesh:   Root: GPU size: 30968 bytes. 1 Pages. 30968.000 bytes per page (94.507% utilization).
+[2025.12.30-12.24.46:324][941]LogStaticMesh:   Streaming: GPU size: 2112 bytes. 1 Pages (1 with relative encoding). 2112.000 bytes per page (1.611% utilization).
+[2025.12.30-12.24.46:324][941]LogStaticMesh:   Page data disk size: 30276 bytes. Fixup data size: 192 bytes.
+[2025.12.30-12.24.46:324][941]LogStaticMesh:   Total GPU size: 33080 bytes, Total disk size: 30468 bytes.
+[2025.12.30-12.24.46:324][941]LogStaticMesh: Encode [0.01s]
+[2025.12.30-12.24.46:324][941]LogStaticMesh: Nanite build [0.22s]
+
+[2025.12.30-12.24.46:334][941]LogStaticMesh: Built static mesh [0.24s] /Game/parkinglot/Base_lampgrill_m_0.Base_lampgrill_m_0
+[2025.12.30-12.24.46:354][941]LogStaticMesh: Reduce [0.49s]
+[2025.12.30-12.24.46:426][942]LogStaticMesh: Fallback [0.07s], num tris: 502
+[2025.12.30-12.24.46:438][942]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.46:438][942]LogStaticMesh:   Input: 73 Clusters, 9140 Triangles and 9250 Vertices
+[2025.12.30-12.24.46:438][942]LogStaticMesh:   Output without splits: 73 Clusters, 9140 Triangles and 9304 Vertices
+[2025.12.30-12.24.46:438][942]LogStaticMesh:   Output with splits: 73 Clusters, 9140 Triangles and 9304 Vertices
+[2025.12.30-12.24.46:440][942]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 73, Slow Path Clusters: 0, 1 Material: 73, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.46:448][942]LogStaticMesh: WritePages:
+[2025.12.30-12.24.46:449][942]LogStaticMesh:   Root: GPU size: 31088 bytes. 1 Pages. 31088.000 bytes per page (94.873% utilization).
+[2025.12.30-12.24.46:449][942]LogStaticMesh:   Streaming: GPU size: 122868 bytes. 1 Pages (1 with relative encoding). 122868.000 bytes per page (93.741% utilization).
+[2025.12.30-12.24.46:449][942]LogStaticMesh:   Page data disk size: 118500 bytes. Fixup data size: 296 bytes.
+[2025.12.30-12.24.46:449][942]LogStaticMesh:   Total GPU size: 153956 bytes, Total disk size: 118796 bytes.
+[2025.12.30-12.24.46:449][942]LogStaticMesh: Encode [0.02s]
+[2025.12.30-12.24.46:449][942]LogStaticMesh: Nanite build [0.62s]
+
+[2025.12.30-12.24.46:456][942]LogStaticMesh: Built static mesh [0.68s] /Game/parkinglot/Base_fencerings_mat_0.Base_fencerings_mat_0
+[2025.12.30-12.24.46:492][943]LogStaticMesh: Reduce [0.32s]
+[2025.12.30-12.24.46:625][945]LogStaticMesh: Fallback [0.13s], num tris: 1770
+[2025.12.30-12.24.46:636][945]LogStaticMesh: ConstrainClusters:
+[2025.12.30-12.24.46:636][945]LogStaticMesh:   Input: 76 Clusters, 9541 Triangles and 12139 Vertices
+[2025.12.30-12.24.46:636][945]LogStaticMesh:   Output without splits: 76 Clusters, 9541 Triangles and 12139 Vertices
+[2025.12.30-12.24.46:636][945]LogStaticMesh:   Output with splits: 76 Clusters, 9541 Triangles and 12139 Vertices
+[2025.12.30-12.24.46:642][945]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 76, Slow Path Clusters: 0, 1 Material: 76, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.30-12.24.46:653][945]LogStaticMesh: WritePages:
+[2025.12.30-12.24.46:653][945]LogStaticMesh:   Root: GPU size: 31764 bytes. 1 Pages. 31764.000 bytes per page (96.936% utilization).
+[2025.12.30-12.24.46:653][945]LogStaticMesh:   Streaming: GPU size: 124728 bytes. 1 Pages (1 with relative encoding). 124728.000 bytes per page (95.160% utilization).
+[2025.12.30-12.24.46:653][945]LogStaticMesh:   Page data disk size: 115724 bytes. Fixup data size: 288 bytes.
+[2025.12.30-12.24.46:653][945]LogStaticMesh:   Total GPU size: 156492 bytes, Total disk size: 116012 bytes.
+[2025.12.30-12.24.46:653][945]LogStaticMesh: Encode [0.03s]
+[2025.12.30-12.24.46:653][945]LogStaticMesh: Nanite build [0.54s]
+
+[2025.12.30-12.24.46:673][945]LogStaticMesh: Built static mesh [0.60s] /Game/parkinglot/Base_fenceframe_mat_0.Base_fenceframe_mat_0
+[2025.12.30-12.24.47:196][948]LogInterchangeEngine: Display: Interchange import completed [C:/Users/hp/Downloads/parking_lot (1).glb]
+[2025.12.30-12.24.48:357][948]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.30-12.24.48:357][948]LogInterchangeEngine: [Success] Import Done
+[2025.12.30-12.24.49:924][969]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 0.6Mb total, 0.1Mb always loaded, 14% occupied, 1452 triangles, Base_fencerings_mat_0
+[2025.12.30-12.24.51:277][988]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x49 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 27% occupied, 1501 triangles, Base_fenceframe_mat_0
+[2025.12.30-12.27.14:502][606]LogShaderCompilers: Display: ================================================
+[2025.12.30-12.27.14:502][606]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Total job queries 587, among them cache hits 316 (53.83%), DDC hits 178 (30.32%), Duplicates 6 (1.02%)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Tracking 265 distinct input hashes that result in 206 distinct outputs (77.74%)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: RAM used: 137.61 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Shaders Compiled: 87
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Jobs assigned 87, completed 87 (100%)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Average time worker was idle: 279.06 s
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Time job spent in pending queue: average 0.65 s, longest 6.41 s
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Job execution time: average 4.04 s, max 23.33 s
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Job life time (pending + execution): average 4.70 s, max 23.33
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Shader code size: average 6.428 KiB, min 436 B, max 47.973 KiB
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 178.93 s
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Jobs were issued in 87 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Average processing rate: 0.49 jobs/sec
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Total thread time: 301.319 s
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Total thread preprocess time: 16.266 s
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Percentage time preprocessing: 5.40%
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Effective parallelization: 1.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   10 times, average 6.04 sec, max 22.28 sec, min 1.07 sec)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    7 times, average 5.95 sec, max 13.41 sec, min 3.65 sec)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    3 times, average 4.97 sec, max 5.47 sec, min 4.49 sec)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    9 times, average 3.98 sec, max 5.99 sec, min 1.93 sec)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 2.98 sec, max 2.98 sec, min 2.98 sec)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 20.05% of total time (compiled   10 times, average 6.04 sec, max 22.28 sec, min 1.07 sec)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.18% of total time (compiled   15 times, average 2.85 sec, max 4.60 sec, min 1.12 sec)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display:                                             FDebugViewModePS - 13.83% of total time (compiled    7 times, average 5.95 sec, max 13.41 sec, min 3.65 sec)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display:                                                  FVelocityPS - 11.90% of total time (compiled    9 times, average 3.98 sec, max 5.99 sec, min 1.93 sec)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.37% of total time (compiled   14 times, average 2.23 sec, max 6.11 sec, min 0.91 sec)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: === Material stats ===
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Materials Translated:    245
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Material Total Translate Time: 0.41 s
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Material Translation Only: 0.19 s (46%)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (1%)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: Material Cache Hits: 55 (22%)
+[2025.12.30-12.27.14:503][606]LogShaderCompilers: Display: ================================================
+[2025.12.30-12.28.09:375][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.12.30-12.28.09:386][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.30-12.28.09:441][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/white_light2_m] ([1] browsable assets)...
+[2025.12.30-12.28.09:474][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/white_light2_m.white_light2_m]
+[2025.12.30-12.28.09:474][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/white_light2_m]
+[2025.12.30-12.28.09:474][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/white_light2_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/white_light2_m.uasset" SILENT=true
+[2025.12.30-12.28.09:476][884]LogSavePackage: Moving output files for package: /Game/parkinglot/white_light2_m
+[2025.12.30-12.28.09:476][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/white_light2_m026936734773B37A265D2ABC5EFF0409.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/white_light2_m.uasset'
+[2025.12.30-12.28.09:477][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/GLASS_Inst] ([1] browsable assets)...
+[2025.12.30-12.28.09:499][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/GLASS_Inst.GLASS_Inst]
+[2025.12.30-12.28.09:499][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/GLASS_Inst]
+[2025.12.30-12.28.09:499][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/GLASS_Inst" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/GLASS_Inst.uasset" SILENT=true
+[2025.12.30-12.28.09:501][884]LogSavePackage: Moving output files for package: /Game/parkinglot/GLASS_Inst
+[2025.12.30-12.28.09:501][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/GLASS_Inst327A0D124772AC5E31601CA6C9CDF446.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/GLASS_Inst.uasset'
+[2025.12.30-12.28.09:502][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Lights_m] ([1] browsable assets)...
+[2025.12.30-12.28.09:524][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/Lights_m.Lights_m]
+[2025.12.30-12.28.09:524][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Lights_m]
+[2025.12.30-12.28.09:524][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Lights_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Lights_m.uasset" SILENT=true
+[2025.12.30-12.28.09:610][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Lights_m
+[2025.12.30-12.28.09:610][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Lights_m6ABB9716421E1BDCF1D82B821A70B9F0.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Lights_m.uasset'
+[2025.12.30-12.28.09:611][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_0] ([1] browsable assets)...
+[2025.12.30-12.28.09:612][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_0.parking_lot__1__texture_0]
+[2025.12.30-12.28.09:612][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_0]
+[2025.12.30-12.28.09:620][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_0
+[2025.12.30-12.28.09:620][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_031376F1E4E0D2899946F2AABC827730F.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_0.uasset'
+[2025.12.30-12.28.09:621][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_1] ([1] browsable assets)...
+[2025.12.30-12.28.09:622][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_1.parking_lot__1__texture_1]
+[2025.12.30-12.28.09:622][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_1]
+[2025.12.30-12.28.09:633][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_1
+[2025.12.30-12.28.09:633][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_1884E0DAC450324F26FCD64917E0F9436.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_1.uasset'
+[2025.12.30-12.28.09:633][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_11] ([1] browsable assets)...
+[2025.12.30-12.28.09:635][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_11.parking_lot__1__texture_11]
+[2025.12.30-12.28.09:635][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_11]
+[2025.12.30-12.28.09:652][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_11
+[2025.12.30-12.28.09:652][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_114EEAC81940792CDE1B6853ADB191CD8E.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_11.uasset'
+[2025.12.30-12.28.09:654][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_12] ([1] browsable assets)...
+[2025.12.30-12.28.09:656][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_12.parking_lot__1__texture_12]
+[2025.12.30-12.28.09:656][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_12]
+[2025.12.30-12.28.09:660][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_12
+[2025.12.30-12.28.09:660][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_12EAD060BB4B32E8A35E239B8B5080334D.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_12.uasset'
+[2025.12.30-12.28.09:660][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_14] ([1] browsable assets)...
+[2025.12.30-12.28.09:661][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_14.parking_lot__1__texture_14]
+[2025.12.30-12.28.09:661][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_14]
+[2025.12.30-12.28.09:667][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_14
+[2025.12.30-12.28.09:667][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_14BB09522A4436BAD8ADEA159269CA74F3.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_14.uasset'
+[2025.12.30-12.28.09:668][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_15] ([1] browsable assets)...
+[2025.12.30-12.28.09:669][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_15.parking_lot__1__texture_15]
+[2025.12.30-12.28.09:669][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_15]
+[2025.12.30-12.28.09:678][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_15
+[2025.12.30-12.28.09:678][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_15ACEBE45541290E69F404518DCE4FAABE.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_15.uasset'
+[2025.12.30-12.28.09:679][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_17] ([1] browsable assets)...
+[2025.12.30-12.28.09:680][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_17.parking_lot__1__texture_17]
+[2025.12.30-12.28.09:680][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_17]
+[2025.12.30-12.28.09:683][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_17
+[2025.12.30-12.28.09:683][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_176712CD304D9A8DBBC46300AA09AD7F51.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_17.uasset'
+[2025.12.30-12.28.09:684][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_18] ([1] browsable assets)...
+[2025.12.30-12.28.09:686][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_18.parking_lot__1__texture_18]
+[2025.12.30-12.28.09:686][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_18]
+[2025.12.30-12.28.09:707][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_18
+[2025.12.30-12.28.09:707][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_181F225F794866D08CD257BE9D1C05FE23.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_18.uasset'
+[2025.12.30-12.28.09:708][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_2] ([1] browsable assets)...
+[2025.12.30-12.28.09:710][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_2.parking_lot__1__texture_2]
+[2025.12.30-12.28.09:710][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_2]
+[2025.12.30-12.28.09:737][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_2
+[2025.12.30-12.28.09:737][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_2D4C5C4CF40E787CA607142BC7F600F7A.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_2.uasset'
+[2025.12.30-12.28.09:738][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_20] ([1] browsable assets)...
+[2025.12.30-12.28.09:740][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_20.parking_lot__1__texture_20]
+[2025.12.30-12.28.09:740][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_20]
+[2025.12.30-12.28.09:760][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_20
+[2025.12.30-12.28.09:760][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_2015BEC2744BCDA30BAF60ABB07AD025E9.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_20.uasset'
+[2025.12.30-12.28.09:761][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_22] ([1] browsable assets)...
+[2025.12.30-12.28.09:762][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_22.parking_lot__1__texture_22]
+[2025.12.30-12.28.09:762][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_22]
+[2025.12.30-12.28.09:770][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_22
+[2025.12.30-12.28.09:770][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_221AC7E97C41EDB5E4D5B95198E1614F50.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_22.uasset'
+[2025.12.30-12.28.09:771][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_23] ([1] browsable assets)...
+[2025.12.30-12.28.09:772][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_23.parking_lot__1__texture_23]
+[2025.12.30-12.28.09:772][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_23]
+[2025.12.30-12.28.09:798][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_23
+[2025.12.30-12.28.09:798][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_2358C35D2348B74092364BD3A7BAE006C1.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_23.uasset'
+[2025.12.30-12.28.09:799][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_25] ([1] browsable assets)...
+[2025.12.30-12.28.09:800][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_25.parking_lot__1__texture_25]
+[2025.12.30-12.28.09:800][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_25]
+[2025.12.30-12.28.09:826][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_25
+[2025.12.30-12.28.09:826][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_25E42E0D564ECA6B49B6933C834EAC1829.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_25.uasset'
+[2025.12.30-12.28.09:827][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_26] ([1] browsable assets)...
+[2025.12.30-12.28.09:829][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_26.parking_lot__1__texture_26]
+[2025.12.30-12.28.09:829][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_26]
+[2025.12.30-12.28.09:836][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_26
+[2025.12.30-12.28.09:836][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_26BB5AAD44415839722446B09364BEC619.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_26.uasset'
+[2025.12.30-12.28.09:838][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_28] ([1] browsable assets)...
+[2025.12.30-12.28.09:839][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_28.parking_lot__1__texture_28]
+[2025.12.30-12.28.09:839][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_28]
+[2025.12.30-12.28.09:846][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_28
+[2025.12.30-12.28.09:846][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_28FF72390F4A823326B80DB3B16A0E5FDA.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_28.uasset'
+[2025.12.30-12.28.09:847][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_29] ([1] browsable assets)...
+[2025.12.30-12.28.09:849][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_29.parking_lot__1__texture_29]
+[2025.12.30-12.28.09:849][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_29]
+[2025.12.30-12.28.09:877][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_29
+[2025.12.30-12.28.09:877][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_29A8A52D9B432CDF80E053128208C4AD58.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_29.uasset'
+[2025.12.30-12.28.09:878][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_30] ([1] browsable assets)...
+[2025.12.30-12.28.09:879][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_30.parking_lot__1__texture_30]
+[2025.12.30-12.28.09:879][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_30]
+[2025.12.30-12.28.09:888][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_30
+[2025.12.30-12.28.09:889][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_30C09C37DF4555A99BCEDF2D95F23F54F9.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_30.uasset'
+[2025.12.30-12.28.09:889][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_31] ([1] browsable assets)...
+[2025.12.30-12.28.09:890][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_31.parking_lot__1__texture_31]
+[2025.12.30-12.28.09:890][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_31]
+[2025.12.30-12.28.09:896][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_31
+[2025.12.30-12.28.09:896][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_31A966336D400622A2C06327A09253FB7E.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_31.uasset'
+[2025.12.30-12.28.09:898][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_33] ([1] browsable assets)...
+[2025.12.30-12.28.09:899][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_33.parking_lot__1__texture_33]
+[2025.12.30-12.28.09:899][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_33]
+[2025.12.30-12.28.09:913][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_33
+[2025.12.30-12.28.09:913][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_338B17E3FC490A5162B6900B9787BDEC74.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_33.uasset'
+[2025.12.30-12.28.09:914][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_34] ([1] browsable assets)...
+[2025.12.30-12.28.09:914][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_34.parking_lot__1__texture_34]
+[2025.12.30-12.28.09:914][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_34]
+[2025.12.30-12.28.09:930][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_34
+[2025.12.30-12.28.09:930][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_34A13E002C4204683647416E93429DEEBA.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_34.uasset'
+[2025.12.30-12.28.09:931][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_36] ([1] browsable assets)...
+[2025.12.30-12.28.09:932][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_36.parking_lot__1__texture_36]
+[2025.12.30-12.28.09:932][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_36]
+[2025.12.30-12.28.09:942][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_36
+[2025.12.30-12.28.09:942][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_3668D8C5E04426704F875BD4ADA6606F99.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_36.uasset'
+[2025.12.30-12.28.09:942][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_37] ([1] browsable assets)...
+[2025.12.30-12.28.09:944][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_37.parking_lot__1__texture_37]
+[2025.12.30-12.28.09:944][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_37]
+[2025.12.30-12.28.09:949][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_37
+[2025.12.30-12.28.09:949][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_37843396934103485F4CCCB4BE2CCD0C63.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_37.uasset'
+[2025.12.30-12.28.09:950][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_39] ([1] browsable assets)...
+[2025.12.30-12.28.09:951][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_39.parking_lot__1__texture_39]
+[2025.12.30-12.28.09:951][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_39]
+[2025.12.30-12.28.09:973][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_39
+[2025.12.30-12.28.09:973][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_393F4A6F8940122BB9A54889B6A6DDAA87.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_39.uasset'
+[2025.12.30-12.28.09:974][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_4] ([1] browsable assets)...
+[2025.12.30-12.28.09:974][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_4.parking_lot__1__texture_4]
+[2025.12.30-12.28.09:974][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_4]
+[2025.12.30-12.28.09:999][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_4
+[2025.12.30-12.28.09:999][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_4CCA2E42941A859A1136F5BB732A57184.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_4.uasset'
+[2025.12.30-12.28.10:000][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_5] ([1] browsable assets)...
+[2025.12.30-12.28.10:001][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_5.parking_lot__1__texture_5]
+[2025.12.30-12.28.10:001][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_5]
+[2025.12.30-12.28.10:023][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_5
+[2025.12.30-12.28.10:023][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_554A7AEE24F65B60A12B840A25C9EB54E.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_5.uasset'
+[2025.12.30-12.28.10:023][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_6] ([1] browsable assets)...
+[2025.12.30-12.28.10:025][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_6.parking_lot__1__texture_6]
+[2025.12.30-12.28.10:026][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_6]
+[2025.12.30-12.28.10:033][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_6
+[2025.12.30-12.28.10:035][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_6D97031FC4CB4C83CF0E241862F12333C.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_6.uasset'
+[2025.12.30-12.28.10:035][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_8] ([1] browsable assets)...
+[2025.12.30-12.28.10:037][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_8.parking_lot__1__texture_8]
+[2025.12.30-12.28.10:037][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_8]
+[2025.12.30-12.28.10:042][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_8
+[2025.12.30-12.28.10:042][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_86FABD349400F1440E1AA3D95B2037BA3.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_8.uasset'
+[2025.12.30-12.28.10:043][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_9] ([1] browsable assets)...
+[2025.12.30-12.28.10:044][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_9.parking_lot__1__texture_9]
+[2025.12.30-12.28.10:044][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_9]
+[2025.12.30-12.28.10:049][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_9
+[2025.12.30-12.28.10:049][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_921C46152410EDAECA8852CBE14858BF0.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_9.uasset'
+[2025.12.30-12.28.10:050][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/white_light_m] ([1] browsable assets)...
+[2025.12.30-12.28.10:072][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/white_light_m.white_light_m]
+[2025.12.30-12.28.10:072][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/white_light_m]
+[2025.12.30-12.28.10:072][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/white_light_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/white_light_m.uasset" SILENT=true
+[2025.12.30-12.28.10:075][884]LogSavePackage: Moving output files for package: /Game/parkinglot/white_light_m
+[2025.12.30-12.28.10:075][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/white_light_m26966DD945540DFF6B38F0A3EC726F34.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/white_light_m.uasset'
+[2025.12.30-12.28.10:076][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/fix_m] ([1] browsable assets)...
+[2025.12.30-12.28.10:099][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/fix_m.fix_m]
+[2025.12.30-12.28.10:099][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/fix_m]
+[2025.12.30-12.28.10:099][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/fix_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/fix_m.uasset" SILENT=true
+[2025.12.30-12.28.10:102][884]LogSavePackage: Moving output files for package: /Game/parkinglot/fix_m
+[2025.12.30-12.28.10:102][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/fix_mEC1045964A0B23097FA8C9AEAABC2B9F.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/fix_m.uasset'
+[2025.12.30-12.28.10:103][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/whitepaint_m] ([1] browsable assets)...
+[2025.12.30-12.28.10:126][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/whitepaint_m.whitepaint_m]
+[2025.12.30-12.28.10:126][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/whitepaint_m]
+[2025.12.30-12.28.10:126][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/whitepaint_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/whitepaint_m.uasset" SILENT=true
+[2025.12.30-12.28.10:131][884]LogSavePackage: Moving output files for package: /Game/parkinglot/whitepaint_m
+[2025.12.30-12.28.10:131][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/whitepaint_m32C7E410434510CC7FE0DE939B7D2733.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/whitepaint_m.uasset'
+[2025.12.30-12.28.10:132][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/concrete_floor_m] ([1] browsable assets)...
+[2025.12.30-12.28.10:155][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/concrete_floor_m.concrete_floor_m]
+[2025.12.30-12.28.10:156][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/concrete_floor_m]
+[2025.12.30-12.28.10:156][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/concrete_floor_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/concrete_floor_m.uasset" SILENT=true
+[2025.12.30-12.28.10:157][884]LogSavePackage: Moving output files for package: /Game/parkinglot/concrete_floor_m
+[2025.12.30-12.28.10:157][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/concrete_floor_m415E747E4C63C14D7BC3F9BAA0C5A917.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/concrete_floor_m.uasset'
+[2025.12.30-12.28.10:159][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/switches_m] ([1] browsable assets)...
+[2025.12.30-12.28.10:180][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/switches_m.switches_m]
+[2025.12.30-12.28.10:180][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/switches_m]
+[2025.12.30-12.28.10:180][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/switches_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/switches_m.uasset" SILENT=true
+[2025.12.30-12.28.10:183][884]LogSavePackage: Moving output files for package: /Game/parkinglot/switches_m
+[2025.12.30-12.28.10:183][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/switches_m75F99A25467E3D52859143B27764606E.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/switches_m.uasset'
+[2025.12.30-12.28.10:184][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_10] ([1] browsable assets)...
+[2025.12.30-12.28.10:185][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_10.parking_lot__1__texture_10]
+[2025.12.30-12.28.10:185][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_10]
+[2025.12.30-12.28.10:202][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_10
+[2025.12.30-12.28.10:202][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_10D657CC644052A26C3BEFC9812886AE55.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_10.uasset'
+[2025.12.30-12.28.10:202][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_GLASS_Inst_0] ([1] browsable assets)...
+[2025.12.30-12.28.10:225][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_GLASS_Inst_0.Base_GLASS_Inst_0]
+[2025.12.30-12.28.10:225][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_GLASS_Inst_0]
+[2025.12.30-12.28.10:225][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_GLASS_Inst_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_GLASS_Inst_0.uasset" SILENT=true
+[2025.12.30-12.28.10:228][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_GLASS_Inst_0
+[2025.12.30-12.28.10:228][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_GLASS_Inst_0F3B0F3974385AA55C4B5B4B70E6AA5FD.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_GLASS_Inst_0.uasset'
+[2025.12.30-12.28.10:229][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_Lights_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.10:252][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_Lights_m_0.Base_Lights_m_0]
+[2025.12.30-12.28.10:252][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_Lights_m_0]
+[2025.12.30-12.28.10:252][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_Lights_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_Lights_m_0.uasset" SILENT=true
+[2025.12.30-12.28.10:256][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_Lights_m_0
+[2025.12.30-12.28.10:256][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_Lights_m_09B6440EF4B06134A56AD2DB249CA333A.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_Lights_m_0.uasset'
+[2025.12.30-12.28.10:256][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_13] ([1] browsable assets)...
+[2025.12.30-12.28.10:257][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_13.parking_lot__1__texture_13]
+[2025.12.30-12.28.10:257][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_13]
+[2025.12.30-12.28.10:262][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_13
+[2025.12.30-12.28.10:262][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_13D6D2C0D7498BDEDF4DEB80B23852F74D.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_13.uasset'
+[2025.12.30-12.28.10:264][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_16] ([1] browsable assets)...
+[2025.12.30-12.28.10:265][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_16.parking_lot__1__texture_16]
+[2025.12.30-12.28.10:265][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_16]
+[2025.12.30-12.28.10:267][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_16
+[2025.12.30-12.28.10:267][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_16BD10FC764BB8F9C07ED94893284688CD.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_16.uasset'
+[2025.12.30-12.28.10:268][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_fix_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.10:291][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_fix_m_0.Base_fix_m_0]
+[2025.12.30-12.28.10:291][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_fix_m_0]
+[2025.12.30-12.28.10:291][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_fix_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_fix_m_0.uasset" SILENT=true
+[2025.12.30-12.28.10:295][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_fix_m_0
+[2025.12.30-12.28.10:295][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_fix_m_00062CAAA4806EC2648D88588B5A60060.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_fix_m_0.uasset'
+[2025.12.30-12.28.10:296][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/fenceframe_mat] ([1] browsable assets)...
+[2025.12.30-12.28.10:319][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/fenceframe_mat.fenceframe_mat]
+[2025.12.30-12.28.10:319][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/fenceframe_mat]
+[2025.12.30-12.28.10:319][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/fenceframe_mat" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/fenceframe_mat.uasset" SILENT=true
+[2025.12.30-12.28.10:321][884]LogSavePackage: Moving output files for package: /Game/parkinglot/fenceframe_mat
+[2025.12.30-12.28.10:321][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/fenceframe_mat14C963A140A2FF2C68CE4F9A4A5C06E8.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/fenceframe_mat.uasset'
+[2025.12.30-12.28.10:322][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/fencemesh_mat] ([1] browsable assets)...
+[2025.12.30-12.28.10:348][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/fencemesh_mat.fencemesh_mat]
+[2025.12.30-12.28.10:348][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/fencemesh_mat]
+[2025.12.30-12.28.10:348][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/fencemesh_mat" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/fencemesh_mat.uasset" SILENT=true
+[2025.12.30-12.28.10:350][884]LogSavePackage: Moving output files for package: /Game/parkinglot/fencemesh_mat
+[2025.12.30-12.28.10:350][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/fencemesh_matFB3B17AF4A452F4B83E4D5A2BA6DBC63.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/fencemesh_mat.uasset'
+[2025.12.30-12.28.10:351][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_whitepaint_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.10:374][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_whitepaint_m_0.Base_whitepaint_m_0]
+[2025.12.30-12.28.10:374][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_whitepaint_m_0]
+[2025.12.30-12.28.10:374][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_whitepaint_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_whitepaint_m_0.uasset" SILENT=true
+[2025.12.30-12.28.10:379][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_whitepaint_m_0
+[2025.12.30-12.28.10:379][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_whitepaint_m_09A7376884C7E6178077CB3B7A4682BDC.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_whitepaint_m_0.uasset'
+[2025.12.30-12.28.10:379][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_19] ([1] browsable assets)...
+[2025.12.30-12.28.10:382][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_19.parking_lot__1__texture_19]
+[2025.12.30-12.28.10:382][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_19]
+[2025.12.30-12.28.10:403][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_19
+[2025.12.30-12.28.10:403][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_19E43707104CDFA164A0CD58BF85C7E6E9.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_19.uasset'
+[2025.12.30-12.28.10:404][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/lampgrill_m] ([1] browsable assets)...
+[2025.12.30-12.28.10:427][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/lampgrill_m.lampgrill_m]
+[2025.12.30-12.28.10:428][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/lampgrill_m]
+[2025.12.30-12.28.10:428][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/lampgrill_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/lampgrill_m.uasset" SILENT=true
+[2025.12.30-12.28.10:430][884]LogSavePackage: Moving output files for package: /Game/parkinglot/lampgrill_m
+[2025.12.30-12.28.10:430][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/lampgrill_mFC82173F4A934ECDD6FB23BB3181CE52.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/lampgrill_m.uasset'
+[2025.12.30-12.28.10:430][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_21] ([1] browsable assets)...
+[2025.12.30-12.28.10:432][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_21.parking_lot__1__texture_21]
+[2025.12.30-12.28.10:432][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_21]
+[2025.12.30-12.28.10:458][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_21
+[2025.12.30-12.28.10:458][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_21C6E311094C294157654DA0AB106FFE93.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_21.uasset'
+[2025.12.30-12.28.10:459][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/lamp3_m] ([1] browsable assets)...
+[2025.12.30-12.28.10:482][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/lamp3_m.lamp3_m]
+[2025.12.30-12.28.10:482][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/lamp3_m]
+[2025.12.30-12.28.10:482][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/lamp3_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/lamp3_m.uasset" SILENT=true
+[2025.12.30-12.28.10:484][884]LogSavePackage: Moving output files for package: /Game/parkinglot/lamp3_m
+[2025.12.30-12.28.10:484][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/lamp3_mB9FD7DF64D07A3903451C3B695B86CB6.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/lamp3_m.uasset'
+[2025.12.30-12.28.10:485][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_fencemesh_mat_0] ([1] browsable assets)...
+[2025.12.30-12.28.10:508][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_fencemesh_mat_0.Base_fencemesh_mat_0]
+[2025.12.30-12.28.10:509][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_fencemesh_mat_0]
+[2025.12.30-12.28.10:509][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_fencemesh_mat_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_fencemesh_mat_0.uasset" SILENT=true
+[2025.12.30-12.28.10:512][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_fencemesh_mat_0
+[2025.12.30-12.28.10:512][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_fencemesh_mat_0D834605940F5E1E1B8A5F79BC6BD7790.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_fencemesh_mat_0.uasset'
+[2025.12.30-12.28.10:513][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_24] ([1] browsable assets)...
+[2025.12.30-12.28.10:514][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_24.parking_lot__1__texture_24]
+[2025.12.30-12.28.10:514][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_24]
+[2025.12.30-12.28.10:522][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_24
+[2025.12.30-12.28.10:522][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_24716DE74D40242096724CD3ABA9B07D00.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_24.uasset'
+[2025.12.30-12.28.10:523][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_27] ([1] browsable assets)...
+[2025.12.30-12.28.10:524][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_27.parking_lot__1__texture_27]
+[2025.12.30-12.28.10:524][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_27]
+[2025.12.30-12.28.10:550][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_27
+[2025.12.30-12.28.10:551][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_27CED2773046803C178BC09E9786F5940B.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_27.uasset'
+[2025.12.30-12.28.10:552][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/plastic_m] ([1] browsable assets)...
+[2025.12.30-12.28.10:576][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/plastic_m.plastic_m]
+[2025.12.30-12.28.10:576][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/plastic_m]
+[2025.12.30-12.28.10:576][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/plastic_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/plastic_m.uasset" SILENT=true
+[2025.12.30-12.28.10:578][884]LogSavePackage: Moving output files for package: /Game/parkinglot/plastic_m
+[2025.12.30-12.28.10:578][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/plastic_m087A770B415F7BEF7B54BC81F4225F41.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/plastic_m.uasset'
+[2025.12.30-12.28.10:579][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_lamp3_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.10:602][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_lamp3_m_0.Base_lamp3_m_0]
+[2025.12.30-12.28.10:602][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_lamp3_m_0]
+[2025.12.30-12.28.10:602][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_lamp3_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_lamp3_m_0.uasset" SILENT=true
+[2025.12.30-12.28.10:607][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_lamp3_m_0
+[2025.12.30-12.28.10:607][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_lamp3_m_0C9B7BC154FFA488EA15E428C71946149.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_lamp3_m_0.uasset'
+[2025.12.30-12.28.10:607][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_3] ([1] browsable assets)...
+[2025.12.30-12.28.10:609][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_3.parking_lot__1__texture_3]
+[2025.12.30-12.28.10:609][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_3]
+[2025.12.30-12.28.10:639][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_3
+[2025.12.30-12.28.10:639][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_3530424174DD4F34C5DA3F6BF7ACC617F.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_3.uasset'
+[2025.12.30-12.28.10:640][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_32] ([1] browsable assets)...
+[2025.12.30-12.28.10:642][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_32.parking_lot__1__texture_32]
+[2025.12.30-12.28.10:642][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_32]
+[2025.12.30-12.28.10:648][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_32
+[2025.12.30-12.28.10:648][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_32935D824B4EFD5684EF3304A04B75E3DD.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_32.uasset'
+[2025.12.30-12.28.10:649][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/marks_m] ([1] browsable assets)...
+[2025.12.30-12.28.10:673][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/marks_m.marks_m]
+[2025.12.30-12.28.10:673][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/marks_m]
+[2025.12.30-12.28.10:673][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/marks_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/marks_m.uasset" SILENT=true
+[2025.12.30-12.28.10:675][884]LogSavePackage: Moving output files for package: /Game/parkinglot/marks_m
+[2025.12.30-12.28.10:675][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/marks_mAADA484845ED462611736EA0A7BEA6A1.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/marks_m.uasset'
+[2025.12.30-12.28.10:676][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_35] ([1] browsable assets)...
+[2025.12.30-12.28.10:678][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_35.parking_lot__1__texture_35]
+[2025.12.30-12.28.10:678][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_35]
+[2025.12.30-12.28.10:686][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_35
+[2025.12.30-12.28.10:686][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_35E282ADEC4711949CA88697BDD1CDC668.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_35.uasset'
+[2025.12.30-12.28.10:687][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/atlas_mat] ([1] browsable assets)...
+[2025.12.30-12.28.10:710][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/atlas_mat.atlas_mat]
+[2025.12.30-12.28.10:710][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/atlas_mat]
+[2025.12.30-12.28.10:710][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/atlas_mat" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/atlas_mat.uasset" SILENT=true
+[2025.12.30-12.28.10:715][884]LogSavePackage: Moving output files for package: /Game/parkinglot/atlas_mat
+[2025.12.30-12.28.10:715][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/atlas_mat0BD8F4CA41F3D55FC3145DB9EDBD9FCE.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/atlas_mat.uasset'
+[2025.12.30-12.28.10:715][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_38] ([1] browsable assets)...
+[2025.12.30-12.28.10:717][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_38.parking_lot__1__texture_38]
+[2025.12.30-12.28.10:717][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_38]
+[2025.12.30-12.28.10:724][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_38
+[2025.12.30-12.28.10:724][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_38E204F58F43228F953040D18866767FFC.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_38.uasset'
+[2025.12.30-12.28.10:725][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/vent_m] ([1] browsable assets)...
+[2025.12.30-12.28.10:748][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/vent_m.vent_m]
+[2025.12.30-12.28.10:748][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/vent_m]
+[2025.12.30-12.28.10:748][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/vent_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/vent_m.uasset" SILENT=true
+[2025.12.30-12.28.10:750][884]LogSavePackage: Moving output files for package: /Game/parkinglot/vent_m
+[2025.12.30-12.28.10:750][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/vent_m3D4C25B24573F42ADC33AEB7AB4EFB5C.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/vent_m.uasset'
+[2025.12.30-12.28.10:751][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_40] ([1] browsable assets)...
+[2025.12.30-12.28.10:752][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_40.parking_lot__1__texture_40]
+[2025.12.30-12.28.10:752][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_40]
+[2025.12.30-12.28.10:763][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_40
+[2025.12.30-12.28.10:763][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_402C5E1D374DC2E2C4577BDCAE3D796683.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_40.uasset'
+[2025.12.30-12.28.10:764][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_atlas_mat_0] ([1] browsable assets)...
+[2025.12.30-12.28.10:788][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_atlas_mat_0.Base_atlas_mat_0]
+[2025.12.30-12.28.10:788][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_atlas_mat_0]
+[2025.12.30-12.28.10:788][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_atlas_mat_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_atlas_mat_0.uasset" SILENT=true
+[2025.12.30-12.28.10:791][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_atlas_mat_0
+[2025.12.30-12.28.10:791][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_atlas_mat_0981F1880492F19E8A0D3E68AE7C600B5.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_atlas_mat_0.uasset'
+[2025.12.30-12.28.10:791][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/parking_lot__1__texture_7] ([1] browsable assets)...
+[2025.12.30-12.28.10:792][884]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/parkinglot/parking_lot__1__texture_7.parking_lot__1__texture_7]
+[2025.12.30-12.28.10:792][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/parking_lot__1__texture_7]
+[2025.12.30-12.28.10:802][884]LogSavePackage: Moving output files for package: /Game/parkinglot/parking_lot__1__texture_7
+[2025.12.30-12.28.10:802][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/parking_lot__1__texture_750DF01274C005BA07E96C083B50F0900.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/parking_lot__1__texture_7.uasset'
+[2025.12.30-12.28.10:802][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/gate_m] ([1] browsable assets)...
+[2025.12.30-12.28.10:826][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/gate_m.gate_m]
+[2025.12.30-12.28.10:826][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/gate_m]
+[2025.12.30-12.28.10:826][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/gate_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/gate_m.uasset" SILENT=true
+[2025.12.30-12.28.10:828][884]LogSavePackage: Moving output files for package: /Game/parkinglot/gate_m
+[2025.12.30-12.28.10:828][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/gate_mF169ABE146BCC8A2ACC4F4BBB5644038.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/gate_m.uasset'
+[2025.12.30-12.28.10:828][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_vent_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.10:852][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_vent_m_0.Base_vent_m_0]
+[2025.12.30-12.28.10:852][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_vent_m_0]
+[2025.12.30-12.28.10:852][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_vent_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_vent_m_0.uasset" SILENT=true
+[2025.12.30-12.28.10:856][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_vent_m_0
+[2025.12.30-12.28.10:856][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_vent_m_00FA48C574327E91D93367C979D4EF10C.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_vent_m_0.uasset'
+[2025.12.30-12.28.10:856][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/fencebase_mat] ([1] browsable assets)...
+[2025.12.30-12.28.10:880][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/fencebase_mat.fencebase_mat]
+[2025.12.30-12.28.10:880][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/fencebase_mat]
+[2025.12.30-12.28.10:880][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/fencebase_mat" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/fencebase_mat.uasset" SILENT=true
+[2025.12.30-12.28.10:882][884]LogSavePackage: Moving output files for package: /Game/parkinglot/fencebase_mat
+[2025.12.30-12.28.10:882][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/fencebase_matCEC59B644FF39B7FFF712091639FB62D.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/fencebase_mat.uasset'
+[2025.12.30-12.28.10:882][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_white_light2_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.10:904][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_white_light2_m_0.Base_white_light2_m_0]
+[2025.12.30-12.28.10:905][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_white_light2_m_0]
+[2025.12.30-12.28.10:905][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_white_light2_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_white_light2_m_0.uasset" SILENT=true
+[2025.12.30-12.28.10:908][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_white_light2_m_0
+[2025.12.30-12.28.10:908][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_white_light2_m_05D76B5BF4F8934DFEFA20DAB0766ED9E.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_white_light2_m_0.uasset'
+[2025.12.30-12.28.10:909][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/gate1_movable_gate_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.10:929][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/gate1_movable_gate_m_0.gate1_movable_gate_m_0]
+[2025.12.30-12.28.10:930][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/gate1_movable_gate_m_0]
+[2025.12.30-12.28.10:930][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/gate1_movable_gate_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/gate1_movable_gate_m_0.uasset" SILENT=true
+[2025.12.30-12.28.10:934][884]LogSavePackage: Moving output files for package: /Game/parkinglot/gate1_movable_gate_m_0
+[2025.12.30-12.28.10:934][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/gate1_movable_gate_m_07115EA864E3AF061E5555C8F04FE3A3C.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/gate1_movable_gate_m_0.uasset'
+[2025.12.30-12.28.10:935][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/gate2_static_gate_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.10:957][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/gate2_static_gate_m_0.gate2_static_gate_m_0]
+[2025.12.30-12.28.10:957][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/gate2_static_gate_m_0]
+[2025.12.30-12.28.10:958][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/gate2_static_gate_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/gate2_static_gate_m_0.uasset" SILENT=true
+[2025.12.30-12.28.10:961][884]LogSavePackage: Moving output files for package: /Game/parkinglot/gate2_static_gate_m_0
+[2025.12.30-12.28.10:961][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/gate2_static_gate_m_0B5FFF42643BEA37CAA5282878812B3C2.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/gate2_static_gate_m_0.uasset'
+[2025.12.30-12.28.10:962][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_fencebase_mat_0] ([1] browsable assets)...
+[2025.12.30-12.28.10:982][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_fencebase_mat_0.Base_fencebase_mat_0]
+[2025.12.30-12.28.10:982][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_fencebase_mat_0]
+[2025.12.30-12.28.10:982][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_fencebase_mat_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_fencebase_mat_0.uasset" SILENT=true
+[2025.12.30-12.28.10:986][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_fencebase_mat_0
+[2025.12.30-12.28.10:986][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_fencebase_mat_01791F9084BC974CDF2884A9D630F5C6B.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_fencebase_mat_0.uasset'
+[2025.12.30-12.28.10:987][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_white_light_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:008][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_white_light_m_0.Base_white_light_m_0]
+[2025.12.30-12.28.11:008][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_white_light_m_0]
+[2025.12.30-12.28.11:008][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_white_light_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_white_light_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:011][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_white_light_m_0
+[2025.12.30-12.28.11:011][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_white_light_m_007EEAFC348802E578C914980D82989FE.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_white_light_m_0.uasset'
+[2025.12.30-12.28.11:012][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/base_m] ([1] browsable assets)...
+[2025.12.30-12.28.11:034][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/base_m.base_m]
+[2025.12.30-12.28.11:034][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/base_m]
+[2025.12.30-12.28.11:034][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/base_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/base_m.uasset" SILENT=true
+[2025.12.30-12.28.11:037][884]LogSavePackage: Moving output files for package: /Game/parkinglot/base_m
+[2025.12.30-12.28.11:037][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/base_mD92C9AA5498C4D37A41FF0B69C747596.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/base_m.uasset'
+[2025.12.30-12.28.11:037][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/steel_m] ([1] browsable assets)...
+[2025.12.30-12.28.11:059][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/steel_m.steel_m]
+[2025.12.30-12.28.11:059][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/steel_m]
+[2025.12.30-12.28.11:059][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/steel_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/steel_m.uasset" SILENT=true
+[2025.12.30-12.28.11:061][884]LogSavePackage: Moving output files for package: /Game/parkinglot/steel_m
+[2025.12.30-12.28.11:061][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/steel_mB5E8E5DC41FDB72BD54FECA23093ED91.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/steel_m.uasset'
+[2025.12.30-12.28.11:062][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/blackpaint_m] ([1] browsable assets)...
+[2025.12.30-12.28.11:082][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/blackpaint_m.blackpaint_m]
+[2025.12.30-12.28.11:084][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/blackpaint_m]
+[2025.12.30-12.28.11:084][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/blackpaint_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/blackpaint_m.uasset" SILENT=true
+[2025.12.30-12.28.11:086][884]LogSavePackage: Moving output files for package: /Game/parkinglot/blackpaint_m
+[2025.12.30-12.28.11:086][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/blackpaint_m927E0DD546A503C4898557A873CC478F.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/blackpaint_m.uasset'
+[2025.12.30-12.28.11:086][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_base_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:107][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_base_m_0.Base_base_m_0]
+[2025.12.30-12.28.11:107][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_base_m_0]
+[2025.12.30-12.28.11:107][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_base_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_base_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:111][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_base_m_0
+[2025.12.30-12.28.11:111][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_base_m_0218B6A104B3D8AB875118FA3DAB02325.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_base_m_0.uasset'
+[2025.12.30-12.28.11:112][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/box2_m] ([1] browsable assets)...
+[2025.12.30-12.28.11:134][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/box2_m.box2_m]
+[2025.12.30-12.28.11:134][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/box2_m]
+[2025.12.30-12.28.11:134][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/box2_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/box2_m.uasset" SILENT=true
+[2025.12.30-12.28.11:137][884]LogSavePackage: Moving output files for package: /Game/parkinglot/box2_m
+[2025.12.30-12.28.11:137][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/box2_m92F24F3841DF10C66EE41E813490F1B5.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/box2_m.uasset'
+[2025.12.30-12.28.11:138][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/pipechair1_m] ([1] browsable assets)...
+[2025.12.30-12.28.11:159][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/pipechair1_m.pipechair1_m]
+[2025.12.30-12.28.11:159][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/pipechair1_m]
+[2025.12.30-12.28.11:159][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/pipechair1_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/pipechair1_m.uasset" SILENT=true
+[2025.12.30-12.28.11:162][884]LogSavePackage: Moving output files for package: /Game/parkinglot/pipechair1_m
+[2025.12.30-12.28.11:162][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/pipechair1_m978C216B4287C257D54F2F8891ECE658.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/pipechair1_m.uasset'
+[2025.12.30-12.28.11:162][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_steel_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:184][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_steel_m_0.Base_steel_m_0]
+[2025.12.30-12.28.11:184][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_steel_m_0]
+[2025.12.30-12.28.11:184][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_steel_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_steel_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:190][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_steel_m_0
+[2025.12.30-12.28.11:190][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_steel_m_05A5529E3447DD9CF194BDF89F7407621.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_steel_m_0.uasset'
+[2025.12.30-12.28.11:190][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_blackpaint_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:212][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_blackpaint_m_0.Base_blackpaint_m_0]
+[2025.12.30-12.28.11:212][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_blackpaint_m_0]
+[2025.12.30-12.28.11:212][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_blackpaint_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_blackpaint_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:215][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_blackpaint_m_0
+[2025.12.30-12.28.11:215][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_blackpaint_m_0272D892B411992D1C6C576B23DAA81DE.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_blackpaint_m_0.uasset'
+[2025.12.30-12.28.11:216][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/fencerings_mat] ([1] browsable assets)...
+[2025.12.30-12.28.11:237][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/fencerings_mat.fencerings_mat]
+[2025.12.30-12.28.11:237][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/fencerings_mat]
+[2025.12.30-12.28.11:237][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/fencerings_mat" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/fencerings_mat.uasset" SILENT=true
+[2025.12.30-12.28.11:239][884]LogSavePackage: Moving output files for package: /Game/parkinglot/fencerings_mat
+[2025.12.30-12.28.11:239][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/fencerings_matB0F0EF4A4C84C4D0A09004AC149737CD.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/fencerings_mat.uasset'
+[2025.12.30-12.28.11:240][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/lampframe_m] ([1] browsable assets)...
+[2025.12.30-12.28.11:262][884]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/parkinglot/lampframe_m.lampframe_m]
+[2025.12.30-12.28.11:262][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/lampframe_m]
+[2025.12.30-12.28.11:262][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/lampframe_m" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/lampframe_m.uasset" SILENT=true
+[2025.12.30-12.28.11:264][884]LogSavePackage: Moving output files for package: /Game/parkinglot/lampframe_m
+[2025.12.30-12.28.11:264][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/lampframe_m27C3498F40F9E83540DF1EB0D8521C5A.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/lampframe_m.uasset'
+[2025.12.30-12.28.11:265][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_box2_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:287][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_box2_m_0.Base_box2_m_0]
+[2025.12.30-12.28.11:288][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_box2_m_0]
+[2025.12.30-12.28.11:288][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_box2_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_box2_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:292][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_box2_m_0
+[2025.12.30-12.28.11:292][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_box2_m_0945E48E14A39E60AF624E5A7DC647A52.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_box2_m_0.uasset'
+[2025.12.30-12.28.11:294][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Chair_pipechair1_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:316][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Chair_pipechair1_m_0.Chair_pipechair1_m_0]
+[2025.12.30-12.28.11:316][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Chair_pipechair1_m_0]
+[2025.12.30-12.28.11:316][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Chair_pipechair1_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Chair_pipechair1_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:321][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Chair_pipechair1_m_0
+[2025.12.30-12.28.11:321][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Chair_pipechair1_m_008D22BF34CB5A108808616994C886755.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Chair_pipechair1_m_0.uasset'
+[2025.12.30-12.28.11:321][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_marks_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:344][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_marks_m_0.Base_marks_m_0]
+[2025.12.30-12.28.11:344][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_marks_m_0]
+[2025.12.30-12.28.11:344][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_marks_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_marks_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:349][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_marks_m_0
+[2025.12.30-12.28.11:349][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_marks_m_01DF1A96F41A28F4A28C132B7B724FAA4.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_marks_m_0.uasset'
+[2025.12.30-12.28.11:350][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_plastic_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:371][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_plastic_m_0.Base_plastic_m_0]
+[2025.12.30-12.28.11:371][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_plastic_m_0]
+[2025.12.30-12.28.11:371][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_plastic_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_plastic_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:376][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_plastic_m_0
+[2025.12.30-12.28.11:376][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_plastic_m_016B023724316446EFAD3D5BBE809B31B.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_plastic_m_0.uasset'
+[2025.12.30-12.28.11:377][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_concrete_floor_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:400][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_concrete_floor_m_0.Base_concrete_floor_m_0]
+[2025.12.30-12.28.11:400][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_concrete_floor_m_0]
+[2025.12.30-12.28.11:400][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_concrete_floor_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_concrete_floor_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:404][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_concrete_floor_m_0
+[2025.12.30-12.28.11:404][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_concrete_floor_m_047AC79DE467208E5765734AF921CA8B7.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_concrete_floor_m_0.uasset'
+[2025.12.30-12.28.11:405][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_fencerings_mat_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:427][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_fencerings_mat_0.Base_fencerings_mat_0]
+[2025.12.30-12.28.11:428][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_fencerings_mat_0]
+[2025.12.30-12.28.11:428][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_fencerings_mat_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_fencerings_mat_0.uasset" SILENT=true
+[2025.12.30-12.28.11:433][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_fencerings_mat_0
+[2025.12.30-12.28.11:433][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_fencerings_mat_000F876204B1199F2B3312AB0A479AD90.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_fencerings_mat_0.uasset'
+[2025.12.30-12.28.11:434][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_lampframe_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:456][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_lampframe_m_0.Base_lampframe_m_0]
+[2025.12.30-12.28.11:456][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_lampframe_m_0]
+[2025.12.30-12.28.11:456][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_lampframe_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_lampframe_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:461][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_lampframe_m_0
+[2025.12.30-12.28.11:461][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_lampframe_m_0173806EC425EBF214700EAB879678B62.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_lampframe_m_0.uasset'
+[2025.12.30-12.28.11:462][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_switches_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:484][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_switches_m_0.Base_switches_m_0]
+[2025.12.30-12.28.11:484][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_switches_m_0]
+[2025.12.30-12.28.11:484][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_switches_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_switches_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:487][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_switches_m_0
+[2025.12.30-12.28.11:487][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_switches_m_000033ECD47AAF397FA6AAD939C74484C.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_switches_m_0.uasset'
+[2025.12.30-12.28.11:488][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/gate1_static_gate_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:511][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/gate1_static_gate_m_0.gate1_static_gate_m_0]
+[2025.12.30-12.28.11:511][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/gate1_static_gate_m_0]
+[2025.12.30-12.28.11:511][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/gate1_static_gate_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/gate1_static_gate_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:515][884]LogSavePackage: Moving output files for package: /Game/parkinglot/gate1_static_gate_m_0
+[2025.12.30-12.28.11:515][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/gate1_static_gate_m_0D5B48F394B9D41447D848EB1A5369D4D.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/gate1_static_gate_m_0.uasset'
+[2025.12.30-12.28.11:515][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/gate2_movable_gate_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:538][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/gate2_movable_gate_m_0.gate2_movable_gate_m_0]
+[2025.12.30-12.28.11:538][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/gate2_movable_gate_m_0]
+[2025.12.30-12.28.11:538][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/gate2_movable_gate_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/gate2_movable_gate_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:541][884]LogSavePackage: Moving output files for package: /Game/parkinglot/gate2_movable_gate_m_0
+[2025.12.30-12.28.11:541][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/gate2_movable_gate_m_0EDE8F6E7444B6B65A2B91EB0B3ACE641.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/gate2_movable_gate_m_0.uasset'
+[2025.12.30-12.28.11:542][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_fenceframe_mat_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:565][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_fenceframe_mat_0.Base_fenceframe_mat_0]
+[2025.12.30-12.28.11:565][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_fenceframe_mat_0]
+[2025.12.30-12.28.11:565][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_fenceframe_mat_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_fenceframe_mat_0.uasset" SILENT=true
+[2025.12.30-12.28.11:572][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_fenceframe_mat_0
+[2025.12.30-12.28.11:572][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_fenceframe_mat_08CB7B6244C6728164AE8AFA263C0773B.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_fenceframe_mat_0.uasset'
+[2025.12.30-12.28.11:572][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/parkinglot/Base_lampgrill_m_0] ([1] browsable assets)...
+[2025.12.30-12.28.11:593][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/parkinglot/Base_lampgrill_m_0.Base_lampgrill_m_0]
+[2025.12.30-12.28.11:594][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/parkinglot/Base_lampgrill_m_0]
+[2025.12.30-12.28.11:594][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/parkinglot/Base_lampgrill_m_0" FILE="C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_lampgrill_m_0.uasset" SILENT=true
+[2025.12.30-12.28.11:598][884]LogSavePackage: Moving output files for package: /Game/parkinglot/Base_lampgrill_m_0
+[2025.12.30-12.28.11:598][884]LogSavePackage: Moving 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Saved/Base_lampgrill_m_0F953EB954C8EBDEA2FBA4B990697AA69.tmp' to 'C:/Users/hp/Documents/GitHub/semesterProject/semesterproject/Content/parkinglot/Base_lampgrill_m_0.uasset'
+[2025.12.30-12.28.11:613][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.22 sec (total: 5.69 sec)
+[2025.12.30-12.28.11:679][884]LogContentValidation: Display: Starting to validate 94 assets
+[2025.12.30-12.28.11:679][884]LogContentValidation: Enabled validators:
+[2025.12.30-12.28.11:679][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.30-12.28.11:679][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.30-12.28.11:679][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.30-12.28.11:679][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.30-12.28.11:679][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.30-12.28.11:679][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/white_light2_m Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/GLASS_Inst Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/Lights_m Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_0 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_1 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_11 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_12 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_14 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_15 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_17 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_18 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_2 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_20 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_22 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_23 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_25 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_26 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_28 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_29 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_30 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_31 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_33 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_34 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_36 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_37 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_39 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_4 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_5 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_6 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_8 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_9 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/white_light_m Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/fix_m Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/whitepaint_m Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/concrete_floor_m Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/switches_m Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_10 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/Base_GLASS_Inst_0 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/Base_Lights_m_0 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_13 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_16 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/Base_fix_m_0 Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/fenceframe_mat Validating asset
+[2025.12.30-12.28.11:679][884]AssetCheck: /Game/parkinglot/fencemesh_mat Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_whitepaint_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_19 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/lampgrill_m Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_21 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/lamp3_m Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_fencemesh_mat_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_24 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_27 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/plastic_m Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_lamp3_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_3 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_32 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/marks_m Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_35 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/atlas_mat Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_38 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/vent_m Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_40 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_atlas_mat_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/parking_lot__1__texture_7 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/gate_m Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_vent_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/fencebase_mat Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_white_light2_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/gate1_movable_gate_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/gate2_static_gate_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_fencebase_mat_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_white_light_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/base_m Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/steel_m Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/blackpaint_m Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_base_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/box2_m Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/pipechair1_m Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_steel_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_blackpaint_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/fencerings_mat Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/lampframe_m Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_box2_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Chair_pipechair1_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_marks_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_plastic_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_concrete_floor_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_fencerings_mat_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_lampframe_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_switches_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/gate1_static_gate_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/gate2_movable_gate_m_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_fenceframe_mat_0 Validating asset
+[2025.12.30-12.28.11:681][884]AssetCheck: /Game/parkinglot/Base_lampgrill_m_0 Validating asset
